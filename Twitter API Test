@@ -20,15 +20,15 @@ def getUserID(user):
 def mentionTweets(userId):
     client = getClient()
     tweetMentions = client.get_users_mentions(id = userId, start_time='2022-02-01T00:00:00.000Z' , end_time='2022-02-07T00:00:00.000Z',max_results = 100)
-    tweetMentionData = tweetMentions.data
+    tweetMentionData = tweetMentions.data # raw data
     resultsMentions = []
     if not tweetMentionData is None and len(tweetMentionData) > 0:
         for tweet in tweetMentionData:
             #tweetAID = client.statuses_lookup(id = tweet.id)  trying to find a away to get author id from a mention
             obj = {}
-            obj['author id'] = tweet.author_id
-            obj['id'] = tweet.id
-            obj['text'] = tweet.text
+            obj['author id'] = tweet.author_id # issue* : it's printing none, author id is the onw who made the mention
+            obj['id'] = tweet.id  # use the tweet id to author id
+            obj['text'] = tweet.text  # prints out text
             resultsMentions.append(obj)
     else:
         return []
@@ -50,5 +50,5 @@ def mentionTweets(userId):
     
     z = getUserID('dr_yusefsalaam')
 z
-mentionTweets(28886036)
+mentionTweets(28886036)  # not returning author id for tweets
 userTweets(28886036)
