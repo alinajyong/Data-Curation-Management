@@ -1,0 +1,54 @@
+import pandas as pd
+import numpy as np
+import tweepy as tw
+from textblob import TextBlob
+# Eric's token info
+def getClient():
+    client = tw.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAJgTZwEAAAAAFVLr%2F%2FClRF6djF%2Ft7s5yswscGN8%3DDRcPCVEXPcYx6zmrNscHjB1uEwOYdN9dwcZc00aZbh8D3TNPL0', 
+                       consumer_key='697t3SlCIA8EQqhuUXt6hvdR2', 
+                       consumer_secret='vvx7jQTsQx0DsdqywLCbNXy7fVGfZ0pHIsHV7ABAn9B38GYeWA', 
+                       access_token='4552843577-Fz1dti9bkAEtMUnKJN8uq9rs9DC22L8J0k3eA2M', 
+                       access_token_secret='UhoqlCSKwv269iEX3IhjsxUE4huNaTKMWSniIUwEWYd8l')
+    return client
+def getUserID(user):
+    client = getClient()
+    x = client.get_user(username= user)
+    return x
+#return type dict
+#getting user id from the twitter handle
+
+def mentionTweets(userId):
+    client = getClient()
+    tweetMentions = client.get_users_mentions(id = userId, start_time='2022-02-01T00:00:00.000Z' , end_time='2022-02-07T00:00:00.000Z',max_results = 100)
+    tweetMentionData = tweetMentions.data
+    resultsMentions = []
+    if not tweetMentionData is None and len(tweetMentionData) > 0:
+        for tweet in tweetMentionData:
+            #tweetAID = client.statuses_lookup(id = tweet.id)  trying to find a away to get author id from a mention
+            obj = {}
+            obj['author id'] = tweet.author_id
+            obj['id'] = tweet.id
+            obj['text'] = tweet.text
+            resultsMentions.append(obj)
+    else:
+        return []
+    return resultsMentions
+    
+    def userTweets(userId):
+    client = getClient()
+    userTweet = client.get_users_tweets(id = userId, start_time='2022-02-01T00:00:00.000Z' , end_time='2022-02-07T00:00:00.000Z')
+    tweetuserData = userTweet.data
+    resultsTweets = []
+    if not tweetuserData is None and len(tweetuserData) > 0:
+        for tweet in tweetuserData:
+            obj = {}
+            obj['author id'] = userId
+            obj['id'] = tweet.id
+            obj['text'] = tweet.text
+            resultsTweets.append(obj)
+    return resultsTweets
+    
+    z = getUserID('dr_yusefsalaam')
+z
+mentionTweets(28886036)
+userTweets(28886036)
