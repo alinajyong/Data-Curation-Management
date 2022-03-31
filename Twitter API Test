@@ -2,6 +2,12 @@ import pandas as pd
 import numpy as np
 import tweepy as tw
 from textblob import TextBlob
+import nltk
+from nltk.sentiment import SentimentIntensityAnalyzer
+nltk.download('vader_lexicon')
+import matplotlib
+import matplotlib.pyplot as plt
+
 # Eric's token info
 def getClient():
     client = tw.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAJgTZwEAAAAAFVLr%2F%2FClRF6djF%2Ft7s5yswscGN8%3DDRcPCVEXPcYx6zmrNscHjB1uEwOYdN9dwcZc00aZbh8D3TNPL0', 
@@ -52,3 +58,38 @@ def mentionTweets(userId):
 z
 mentionTweets(28886036)  # not returning author id for tweets
 userTweets(28886036)
+
+# for the mentioned tweets
+# getting the sentimental values from the tweets
+gotMentionTweets = mentionTweets(28886036)
+
+tweet_batch_m = pd.DataFrame(gotMentionTweets)
+# tweet_batch_m
+
+#finding the polarity scores
+sent_list_m = []
+for i in range(len(tweet_batch_m)):
+    sent_value = SentimentIntensityAnalyzer()
+    pol_score = sent_value.polarity_scores(tweet_batch_m.loc[i, 'text'])
+    sent_list_m.append(pol_score)
+    
+df_pol_m = pd.DataFrame(sent_list_m)
+df_pol_m
+
+#same thing done for the user tweets
+plt.plot(df_pol_m)
+
+tweet_batch_u = pd.DataFrame(gotMentionTweets)
+# tweet_batch_u
+
+#finding the polarity scores
+sent_list_u = []
+for i in range(len(tweet_batch_u)):
+    sent_value = SentimentIntensityAnalyzer()
+    pol_score = sent_value.polarity_scores(tweet_batch_u.loc[i, 'text'])
+    sent_list_u.append(pol_score)
+    
+df_pol_u = pd.DataFrame(sent_list_u)
+df_pol_u
+
+plt.plot(df_pol_u)
