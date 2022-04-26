@@ -96,4 +96,66 @@ for i in range(len(tweet_batch_u)):
 df_pol_u = pd.DataFrame(sent_list_u)
 df_pol_u
 
-plt.plot(df_pol_u)
+# plt.plot(df_pol_u)
+
+# cleans the tweet's text
+def cleanTxt(txt):
+    txt = re.sub(r'@[A-Za-z0-9]+', '', txt) # Removed @mentioned
+    txt = re.sub(r'#', '', txt) # remove #
+    txt = re.sub(r'RT[\s]+', '', txt) #remove RT
+    txt = re.sub(r'http?:\/\/S+', '', txt)
+    txt = re.sub(r'\n_', '', txt)
+    
+    return txt
+
+# applying the cleanTxt function on text
+tweet_batch['text'] = tweet_batch['text'].apply(cleanTxt)
+# tweet_batch
+
+# Get the subjectivity of the text
+def getSubjectivity(text):
+    return TextBlob(text).sentiment.subjectivity
+
+# Get the polarity of the text
+def getPolarity(text):
+    return TextBlob(text).sentiment.polarity
+
+# applying the getSubjectivity and getPolarity functions on text
+tweet_batch['Subjectivity'] = tweet_batch['text'].apply(getSubjectivity)
+tweet_batch['Polarity'] = tweet_batch['text'].apply(getPolarity)
+# tweet_batch
+
+# define if the tweet is negative/positive/neutral
+def getAnalysis(score):
+    if score < 0:
+        return 'Negative'
+    elif score == 0:
+        return 'Neutral'
+    else:
+        return 'Positive'
+    
+tweet_batch['Analysis'] = tweet_batch['Polarity'].apply(getAnalysis)
+# tweet_batch
+
+# plots the sentiment analysis as a scatterplot graph
+plt.figure(figsize = (8,6))
+for i in range(0, tweet_batch.shape[0]):
+    plt.scatter(tweet_batch['Polarity'][i], tweet_batch['Subjectivity'][i], color = 'Blue')
+    
+plt.title('Sentiment Analysis')
+plt.xlabel('Polarity')
+plt.ylabel('Subjectivity')
+
+# detecting if profanity exists in the text
+def detectProfanity(txt):
+    if __name__ == "__main__":
+        dirty_text = txt;
+    return bool(profanity.contains_profanity(dirty_text))
+
+tweet_batch['Profanity'] = tweet_batch['text'].apply(detectProfanity)
+
+# combines the database regardless of different columns
+combine = tweet_batch.combine_first(sent_scores) #gets rid of text***
+# combine
+
+combine.mean()
