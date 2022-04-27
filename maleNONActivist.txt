@@ -1,0 +1,625 @@
+,Analysis,Polarity,Profanity,Subjectivity,author id,compound,for,id,neg,neu,pos,text,type,Gender,Activist
+0,Positive,0.1363636363636363,False,0.5,57243327,0.0,46571486,1513959580132282370,0.0,1.0,0.0,Who’s going to live tweet  theresident episode ‘Ride or Die’ Tuesday night.              mattczuchry🏨 https://t.co/I0ai2y8lf7,Mention,Male,False
+1,Positive,0.4375,False,0.65,1297411020852355072,0.4753,46571486,1513947764589166593,0.0,0.877,0.123,"The true image of Hannibal!
+                 https://t.co/Fj3eNE8HHh",Mention,Male,False
+2,Neutral,0.0,False,0.0,123599183,0.0,46571486,1513885620682342411,0.0,1.0,0.0,   _wade        _ _herrera17 _Morgann        https://t.co/i0mkceOVhP,Mention,Male,False
+3,Negative,-0.7,True,1.0,84177968,-0.5106,46571486,1513858292556177413,0.355,0.645,0.0,  I remember that ugly shirt episode 😆,Mention,Male,False
+4,Neutral,0.0,False,0.0,46662532,0.0,46571486,1513850669748391937,0.0,1.0,0.0,Watch Preview For ‘The Resident’ Tuesday https://t.co/YLAdhfUNQD    _Chestnut,Mention,Male,False
+5,Positive,0.1363636363636363,False,0.5,57243327,0.0,46571486,1513604241033601026,0.0,1.0,0.0,I know it’s Monday but who’s going to live tweet  theresident episode ‘Ride or Die’ Tuesday night.             🏨 https://t.co/a0iScOybhK,Mention,Male,False
+6,Neutral,0.0,False,0.0,1304497659697344512,0.0,46571486,1513569225755013122,0.0,1.0,0.0,     _EG    _Z,Mention,Male,False
+7,Positive,0.2,False,0.2,810818163965358081,0.7845,915726438,1518056453331767296,0.0,0.582,0.418," Thanks for the opportunity 😍
+
+0x83B5cf054AD9596A64951422A25423e0efAf6e97
+
+My metamask wallet address
+
+Join 
+
+ 
+ 
+",Mention,Male,False
+8,Positive,1.0,False,1.0,699718906844286976,0.6303,915726438,1517785321861226496,0.0,0.636,0.364,"Excellent Project .... don't miss out guys
+ 
+ 
+ https://t.co/VxXcULIKYJ",Mention,Male,False
+9,Neutral,0.0,False,0.0,845828488850542593,0.0,915726438,1517677168301588481,0.0,1.0,0.0,.       _rye       _Staffer   https://t.co/TGiLsPJF81,Mention,Male,False
+10,Neutral,0.0,False,0.0,845828488850542593,0.0,915726438,1517676915527757832,0.0,1.0,0.0,.       _rye       _Staffer   https://t.co/QnS6zagwrK,Mention,Male,False
+11,Neutral,0.0,False,0.0,845828488850542593,0.0,915726438,1517676548442177536,0.0,1.0,0.0,.        _rye       _Staffer   https://t.co/xH2SxQtolf,Mention,Male,False
+12,Neutral,0.0,False,0.0,845828488850542593,0.0,915726438,1517656568480870401,0.0,1.0,0.0,.        _rye       _Staffer   https://t.co/sNIEQrUQJP,Mention,Male,False
+13,Positive,0.2142857142857142,False,0.5,988830848404283392,0.4588,915726438,1517645228563320832,0.0,0.727,0.273," Wordle 307 3/6
+
+⬜⬜🟨⬜⬜
+⬜🟨🟩⬜⬜
+🟩🟩🟩🟩🟩 pure luck",Mention,Male,False
+14,Neutral,0.0,False,0.0,25283607,0.0,915726438,1517640052674813957,0.0,1.0,0.0," Wordle 307 2/6
+
+⬛🟩🟩🟩🟩
+🟩🟩🟩🟩🟩",Mention,Male,False
+15,Positive,0.1499999999999999,False,0.525,48395237,0.3382,915726438,1517639066090672129,0.13,0.649,0.221,  _Fabricant I’ve added Mr. Fabricant’s book to my reading list! Surprising/not-so surprising tactics in the criminal justice system.,Mention,Male,False
+16,Negative,-0.0666666666666666,True,0.6,845828488850542593,-0.2023,915726438,1517632824307814400,0.102,0.819,0.079,Help please... puts the dry in dry &amp; will kick congressional ass.         _rye       _Staffer   https://t.co/Lp8VvPudHH,Mention,Male,False
+17,Neutral,0.0,False,0.0,834577200,0.0,915726438,1517616574781345792,0.0,1.0,0.0," Wordle 307 2/6
+
+🟩🟨⬛🟩🟩
+🟩🟩🟩🟩🟩",Mention,Male,False
+18,Positive,1.0,False,1.0,41535147,0.6114,915726438,1517616441234796549,0.0,0.429,0.571, Happy earth day!,Mention,Male,False
+19,Negative,-0.4,False,0.55,4214201473,-0.5267,915726438,1517586795348873217,0.175,0.825,0.0,What is junk science and how is it used in criminal courts? _Fabricant and  discuss: https://t.co/qWHfBQwI71,Mention,Male,False
+20,Negative,-0.2249999999999999,False,0.2916666666666666,1467939984560713733,-0.8271,915726438,1517574573746573312,0.237,0.603,0.16," I can see that. Both comedians  and  also had shows on comedy central , but their woke writers killed those shows IMO.  TDS continues to lose viewers, because host is insufferable and a 2 face hypocrite, so maybe comedy central is just bad for comedy.",Mention,Male,False
+21,Neutral,0.0,False,0.0,1495196304137412613,0.0,915726438,1517220783789064193,0.0,1.0,0.0," Come and get your apes frens!!
+ 
+
+    ",Mention,Male,False
+22,Neutral,0.0,False,0.0,9273802,0.3612,915726438,1517190272395792395,0.0,0.783,0.217,"  Thx Larry,,,but you’re not off the hook—podcast, etc.",Mention,Male,False
+23,Neutral,0.0,False,0.0,1199108064118333440,0.0,915726438,1517181137054945288,0.0,1.0,0.0," Wordle 306 3/6
+
+⬜🟨🟨⬜⬜😎
+⬜🟨🟨🟩🟩😎😎
+🟩🟩🟩🟩🟩😎",Mention,Male,False
+24,Neutral,0.0,False,0.0,71048726,0.0,915726438,1517151608118816769,0.0,1.0,0.0, 🤪,Mention,Male,False
+25,Neutral,0.0,False,0.0,1599982184,0.0,915726438,1517132001341497348,0.0,1.0,0.0, I'm so oxided for you!,Mention,Male,False
+26,Neutral,0.0,False,0.125,2380729940,0.0,915726438,1517079623695273985,0.0,1.0,0.0," same boat
+Wordle 306 5/6
+
+⬜⬜⬜🟨⬜
+⬜⬜🟩⬜⬜
+⬜⬜🟩⬜🟩
+⬜⬜🟩🟩🟩
+🟩🟩🟩🟩🟩",Mention,Male,False
+27,Neutral,0.0,False,0.0,25715366,0.0,915726438,1517004313783984129,0.0,1.0,0.0, Our Lakers coulda used Caruso this year…and KCP…and….,Mention,Male,False
+28,Neutral,0.0,True,0.0,28889417,-0.6705,915726438,1516997254879399936,0.474,0.412,0.113, He's a hell of a defensive player.,Mention,Male,False
+29,Neutral,0.0,False,0.0,35527340,0.0,915726438,1516995782636834816,0.0,1.0,0.0, Bald Mamba!,Mention,Male,False
+30,Positive,0.1964393939393939,False,0.6599999999999999,463289700,-0.0258,915726438,1516903981783601153,0.088,0.829,0.083,"  There wasn't a pool until Jimi started playing, actually. It filled quickly with tears during a rare, live Little Wing.",Mention,Male,False
+31,Neutral,0.0,False,0.0,1935031639,0.0,915726438,1516903022474973184,0.0,1.0,0.0,  And a pond,Mention,Male,False
+32,Positive,0.15,False,0.3,2315973691,0.296,915726438,1516902712624832512,0.0,0.784,0.216,"  Yep, opened up under the concrete https://t.co/jrhdOAEIeM",Mention,Male,False
+33,Neutral,0.0,False,0.0,18250365,0.34,915726438,1516902373439979520,0.0,0.455,0.545,  Ha,Mention,Male,False
+34,Neutral,0.0,False,0.15,98527416,0.4404,915726438,1516886175767801861,0.0,0.868,0.132," _honan If I remember, this was also featured on the Nightly Show a few years ago. Thanks for the cameo. 😝 ",Mention,Male,False
+35,Negative,-0.1428571428571428,False,0.7714285714285715,3010704366,-0.8481,915726438,1516799561708281864,0.306,0.628,0.065," WRONG. Unlike SNL, InLivingColor smartly took NO prisoners+forgave NO screwups. We need a reboot w/whole cast.😎             https://t.co/D6FCz33kG3",Mention,Male,False
+36,Positive,0.1999999999999999,False,0.4333333333333333,373566752,0.9422,915726438,1516760204909678592,0.0,0.573,0.427," Definitely not what I was suggesting, but thanks for engaging! Would love to talk with you about what I actually wrote and the larger context.",Mention,Male,False
+37,Neutral,0.0,False,0.0,1441619958664892424,-0.3612,915726438,1516669698334621698,0.212,0.788,0.0,   No disrespect to Wos but  should've been apart of THIS conversation.,Mention,Male,False
+38,Positive,0.05,False,0.55,1441619958664892424,0.3612,915726438,1516635889824256006,0.0,0.906,0.094, _Fabricant  I agree with you about the cultural shifts. Bush V Gore was the final nail in the coffin that sealed America's disbelief in institutions.,Mention,Male,False
+39,Negative,-0.3333333333333333,False,0.6666666666666666,37725426,-0.1779,915726438,1516598243957772291,0.362,0.638,0.0,   seriously.,Mention,Male,False
+40,Positive,0.390625,False,1.0,4261567934,0.3147,915726438,1516547968224145411,0.18,0.544,0.276," Man you are too funny! The Zodiac Killer is watching you!
+He has zero friends.",Mention,Male,False
+41,Neutral,0.0,False,0.0,700797415373156355,0.0,915726438,1516532424934662147,0.0,1.0,0.0," Wordle 304 6/6
+
+⬛⬛⬛🟨🟨
+⬛🟩⬛⬛⬛
+⬛🟩⬛🟩🟩
+⬛🟩⬛🟩🟩
+⬛🟩⬛🟩🟩
+🟩🟩🟩🟩🟩",Mention,Male,False
+42,Neutral,0.0,False,0.0,39199985,0.4404,915726438,1516528576991928321,0.0,0.674,0.326, Yea I lucked out with this one..,Mention,Male,False
+43,Neutral,0.0,False,0.0,790971578,0.0,915726438,1516525440126664719,0.0,1.0,0.0, It got me!,Mention,Male,False
+44,Positive,0.25,False,0.3333333333333333,185519974,0.0,915726438,1516506434002771970,0.0,1.0,0.0, My group went 0/4 for the first time.,Mention,Male,False
+45,Neutral,0.0,False,0.0,988830848404283392,0.0,915726438,1516505168438644737,0.0,1.0,0.0," aarrgh!
+Wordle 304 X/6
+
+⬜⬜🟨⬜⬜
+⬜🟩⬜🟩🟩
+⬜🟩⬜🟩🟩
+⬜🟩⬜🟩🟩
+⬜🟩⬜🟩🟩
+⬜🟩⬜🟩🟩",Mention,Male,False
+46,Positive,0.25,False,0.3333333333333333,1162031821116198912,-0.3182,915726438,1516503299716960269,0.277,0.723,0.0, got me. first loss ever. ;[,Mention,Male,False
+47,Negative,-0.4861111111111111,False,0.8333333333333334,1298807765264105472,-0.2003,915726438,1516501693575446540,0.309,0.691,0.0, This one was tough!,Mention,Male,False
+48,Positive,0.1672727272727273,False,0.4559090909090909,1604351990,0.6369,915726438,1516391869613228039,0.0,0.887,0.113,"  _Senko I’ve now got a new book out, Josh. By same name. It came out late 2021. More reveals and things we can do. Love  don’t know what he’s up to now",Mention,Male,False
+49,Positive,0.2,False,0.2,1604351990,0.4404,915726438,1516382777863774208,0.0,0.58,0.42,  _Senko Thanks Josh,Mention,Male,False
+50,Negative,-0.5,False,1.0,27339073,-0.4588,915726438,1516312837815119874,0.25,0.75,0.0,  An unfortunate indicator of an empire in decline.,Mention,Male,False
+51,Negative,-0.5,False,1.0,1515021134474981376,-0.6418,915726438,1516092137569505281,0.21,0.79,0.0,  The moment we learn why she was so angry about the cracked phone 🤣 I was hooked,Mention,Male,False
+52,Positive,0.0333333333333333,False,0.4833333333333334,4214201473,0.0,915726438,1516079032613449731,0.107,0.786,0.107,"Author _Fabricant joins BlackOnTheAir with  to discuss his work with The  Project and his latest book, 'Junk Science and the American Criminal Justice System'
+
+https://t.co/XN32YK8D2K",Mention,Male,False
+53,Positive,0.6,False,0.7833333333333333,24989674,0.9062,915726438,1516024815492251649,0.0,0.535,0.465, _jones  Great show and interview. Glad to see _jones get the love he deserves.,Mention,Male,False
+54,Positive,0.4333333333333333,False,0.5,20209304,0.7715,915726438,1515821971178770436,0.08,0.553,0.367," another really good history podcast is , no British accent but 2 amazing storytellers.",Mention,Male,False
+55,Positive,0.0416666666666666,False,0.1333333333333333,14864708,-0.25,915726438,1515800088999694338,0.038,0.962,0.0," _jones  While listening to you talk about social glue, I thought of Robert Putnam's Bowling Alone where he uses the term social capital. If you were to ask him he might say that your 3rd social change you've seen is really just the pandemic exacerbating a long after effects of the 1st",Mention,Male,False
+56,Positive,0.3,False,0.4499999999999999,18274455,0.7425,915726438,1515770423878860815,0.0,0.84,0.16," _Fabricant  I really enjoyed the episode.  When you mentioned the idea of living in the decline, it really caught my attention.  I remember thinking something similar 15-20 years ago.  It's an interesting thing to consider.",Mention,Male,False
+57,Positive,0.3479166666666666,False,0.4377777777777778,320850498,-0.3753,915726438,1515768765375553538,0.074,0.882,0.044,"_phil    Yup... *love* MoonshotGeneration!
+
+And my ""slightly"" pregnant ""girlfriend"" and I had a JotP wedding, as soon as we were sure she was preggers!  I picked July 20th, 2004, 35 years to the day, figuring I'd have *NO* trouble remembering *that* date!!  (We had the shindig in Nov.)",Mention,Male,False
+58,Positive,0.1833333333333333,False,0.4916666666666667,708841105295613952,0.8689,915726438,1515741207154069504,0.13,0.505,0.364,"  Awesome. I always feel like I'm missing something from similar arguments and I always love to hear the philosophy behind it
+Thanks for responding 🙏🏾",Mention,Male,False
+59,Positive,0.18,False,0.44,145379369,0.8718,915726438,1515740274588278790,0.0,0.724,0.276, _Fabricant  Loved the end of your take today. “And that conversation will be…” Made me laugh out loud after all of the heavy philosophical discussion. Well done!,Mention,Male,False
+60,Neutral,0.0,False,0.0,1506376095385497604,0.0,915726438,1515698730044952581,0.0,1.0,0.0,_landalpha   ,Mention,Male,False
+61,Positive,0.4027777777777777,False,0.8055555555555555,252351438,0.9169,915726438,1515693384333156359,0.0,0.442,0.558,_Fabricant  Excited for this. Larry Wilmore is my favorite interviewer - always prepared and super engaged.,Mention,Male,False
+62,Positive,0.35,False,0.4875,1149377234026844160,0.8625,915726438,1515692221932130308,0.0,0.484,0.516,Thanks to the great  for such a thoughtful conversation on JunkScience https://t.co/wHweASptay,Mention,Male,False
+63,Positive,0.375,False,0.625,708841105295613952,0.0644,915726438,1515465703452823556,0.07,0.854,0.076," or  
+Would you guys be willing to take on the concept of Student debt cancellation? (I'm against it - I feel like if you take the loan you pay the loan) But I do want to understand the opposition a bit more",Mention,Male,False
+64,Neutral,0.0,False,0.5,1088914594527989760,-0.3578,915726438,1515092145035628545,0.146,0.743,0.111,"  Ghosts of Crusaders watching the end of WWI in the Middle East: ""Ha ha! Revenge is ours finally!""
+Ghost of the Sultan: ""Wait until you see what is about to happen to your empires.""",Mention,Male,False
+65,Negative,-0.5,False,1.0,1088914594527989760,-0.6808,915726438,1515090730896691200,0.237,0.763,0.0,  The Ottomans bowed out of World War One 648 years after the 8th Crusades ended. That's a weird one.,Mention,Male,False
+66,Positive,0.0688888888888888,False,0.4077777777777777,1088914594527989760,0.5423,915726438,1515090031148367875,0.0,0.907,0.093,  Huh. Now I am going down a loophole because I only knew about people born the same day as me. I didn't realize how many peace treaties have been signed on the same day over the milleniums.,Mention,Male,False
+67,Neutral,0.0,False,0.125,1088914594527989760,0.2023,915726438,1515089730144071680,0.084,0.804,0.112," One could even argue the largest man-made explosion in history was to honor the birth of  on the same day. (October 30, 1961)",Mention,Male,False
+68,Neutral,0.0,False,0.0,988830848404283392,0.0,915726438,1514976589464829952,0.0,1.0,0.0," I guess I'll take this!? Wordle 300 6/6
+
+⬜⬜⬜⬜🟩
+⬜⬜🟩⬜🟩
+🟩⬜🟩⬜🟩
+🟩⬜🟩⬜🟩
+🟩⬜🟩⬜🟩
+🟩🟩🟩🟩🟩",Mention,Male,False
+69,Positive,0.7,False,0.6000000000000001,361297639,-0.0788,915726438,1514927605983723522,0.192,0.64,0.168,  Agreed. Hannity is not the good guy here.,Mention,Male,False
+70,Positive,0.4,True,0.8,2574669770,0.7013,915726438,1514927223760957448,0.089,0.686,0.226, But is he? Is he trying to get the Tangerine Idi Amin  to admonish Putin? Or is he just giving the jerk free air time,Mention,Male,False
+71,Negative,-1.0,False,1.0,313412582,-0.6351,915726438,1514795372543049732,0.243,0.757,0.0,           Their fries nasty!!,Mention,Male,False
+72,Neutral,0.0,False,0.0,80870910,0.1406,915726438,1514764414989307913,0.0,0.9,0.1,"          Agreed, but hold the fries.",Mention,Male,False
+73,Neutral,0.0,True,0.0,834577200,0.0,915726438,1514757494639374340,0.0,1.0,0.0,          Is your tweet referencing food or sex?,Mention,Male,False
+74,Neutral,0.0,False,0.0,192654190,0.0,915726438,1514754660699148294,0.0,1.0,0.0,          Whataburger every day!!!,Mention,Male,False
+75,Neutral,0.0,False,0.0,556316067,0.0,915726438,1514753110186504209,0.0,1.0,0.0," Wordle 299 4/6
+
+⬜🟨⬜⬜⬜
+⬜🟩⬜🟨⬜
+⬜🟩🟨🟨⬜
+🟩🟩🟩🟩🟩",Mention,Male,False
+76,Negative,-0.2,False,0.8,556384608,-0.792,915726438,1514752355824152587,0.259,0.741,0.0,"          No Larry no, are you a California boy this is the only explanation for this poor decision.",Mention,Male,False
+77,Neutral,0.0,False,0.0,4214201473,0.3612,915726438,1514748948312862732,0.0,0.865,0.135,"What does a production day look like for _jones on GameTheoryHBO?
+
+He explains the process to . https://t.co/BfALDIpei1",Mention,Male,False
+78,Positive,0.390625,True,0.4214285714285714,559561764,-0.7633,915726438,1514608001159598080,0.182,0.818,0.0," gotta ask, when will a PJs release on physical media see the light of day - I’d kill for a blu ray box set of that show!!! 🥺 🙏🏼",Mention,Male,False
+79,Neutral,0.0,False,0.0,1897918189,0.0,915726438,1514423526509346820,0.0,1.0,0.0,  Go  https://t.co/yBiwapTUnp,Mention,Male,False
+80,Positive,0.055,False,0.3350000000000001,47408194,-0.4019,915726438,1514416128952619012,0.144,0.856,0.0,"  I have not, will listen, his long comic arguments are a real step above other sports talkers",Mention,Male,False
+81,Positive,0.4000000000000001,False,0.4388888888888889,345591652,0.8074,915726438,1514415541380947972,0.0,0.751,0.249," Did you listen to him on  podcast last week? Great convo.. I think you'd defiantly enjoy it if you haven't heard it.
+
+https://t.co/8rVfCzSVh1",Mention,Male,False
+82,Positive,1.0,False,0.9,39764749,0.5093,915726438,1514370933091229700,0.0,0.549,0.451,   You’re welcome!,Mention,Male,False
+83,Negative,-0.25,False,0.65,902970619,0.7365,915726438,1514368813227294721,0.057,0.804,0.139,"   I found this while searching for a podcast covering the series as it’s so fantastic. All aspects of it - style, cinematography, cast and the layers of history behind it. Moments in scenes  are hysterical and then a sobering depth in the next. Thank you ",Mention,Male,False
+84,Neutral,0.0,False,0.0,1074486777929392133,-0.4539,915726438,1514357706047467523,0.144,0.772,0.083,"Who's driving up inflation to HUaverage Americans?
+The White-supremacists Republican party?
+Yup?
+
+
+
+
+
+
+
+jasonjones
+
+
+
+
+ https://t.co/m3U7wgkXuj",Mention,Male,False
+85,Neutral,0.0,False,0.0,15387839,0.4574,915726438,1514305829591158786,0.0,0.667,0.333,"    Appreciate it, DiGo!",Mention,Male,False
+86,Positive,0.3125,False,0.4499999999999999,9166602,0.8016,915726438,1514298143214432261,0.0,0.715,0.285,Essential reading:  chat with  about  &amp; how we watch comedies - also love the shoutout to ! https://t.co/zk5HJIxtWd,Mention,Male,False
+87,Positive,0.0249999999999999,False,0.43125,293625976,0.8268,915726438,1514241117432262663,0.0,0.769,0.231," _jones  I really enjoyed this episode, Larry, even if Alexa hasn’t played your podcast from the same source twice 😅 (it chose Apple Podcasts today.) Definitely going to check out Game Theory.",Mention,Male,False
+88,Positive,0.25,False,0.2,1489230180518346754,0.6792,915726438,1514202475066232843,0.095,0.536,0.368," Milo says Hi! 😝🤣😝🤣
+
+Thanks for the support Miss Wilmore!
+
+HugeFan",Mention,Male,False
+89,Positive,0.25,False,0.5,23424545,0.0,915726438,1514185581097594886,0.0,1.0,0.0,"  There is another subsection of American reactions to street magic, via  https://t.co/VVfI192w40",Mention,Male,False
+90,Neutral,0.0,False,0.0,189996942,0.0,915726438,1514152821892866051,0.0,1.0,0.0,  👀,Mention,Male,False
+91,Negative,-0.0499999999999999,False,0.69375,562717326,0.2003,915726438,1514070867034132481,0.127,0.693,0.181, “Insecure” on HBO created by  and  As much as fans hated to see it end; Myself included: The finale was beautifully done! https://t.co/QequqwxR1F,Mention,Male,False
+92,Neutral,0.0,False,0.0,1074486777929392133,0.0,915726438,1514064805673328640,0.0,1.0,0.0,"Meme name changes for A-holes:
+
+Karen should be ""Ivanka""
+Ken should be ""Jared""
+
+Spread the word.
+
+
+
+
+
+
+
+jasonjones
+
+
+
+
+",Mention,Male,False
+93,Neutral,0.0,False,0.0,1074486777929392133,0.0,915726438,1514064576249151489,0.0,1.0,0.0," Meme name changes for A-holes:
+
+Karen should be ""Ivanka""
+
+Ken should be ""Jared""
+
+Spread the word.
+
+
+
+
+
+
+
+jasonjones
+
+
+
+
+",Mention,Male,False
+94,Positive,0.2208333333333333,False,0.6216666666666666,48395237,0.7339,915726438,1514028416365907975,0.055,0.76,0.185," _jones  Thank you, Larry, for acknowledging Will’s humanity. We can condemn an act without condemning the man. Also, very entertaining conversation with Bomani Jones about sports cause unless my STL CARDS is the subject, entertainment is all I need! 😄",Mention,Male,False
+95,Positive,0.1666666666666666,False,0.4,321780802,-0.7592,915726438,1513951178521866242,0.204,0.738,0.058,"Love  and this isn't commentary on ""the incident"", but to acknowledge that men don't listen to women then simultaneously find it odd that a man would suggest advocating on behalf of women, is a bit more odd, no?",Mention,Male,False
+96,Neutral,0.0,False,0.0,25213501,0.0,915726438,1513781098920431616,0.0,1.0,0.0,"Finishing the Tuesday shift with some  &amp; his guest, _jones https://t.co/RQldg4eus2",Mention,Male,False
+97,Positive,0.4666666666666666,False,0.7166666666666667,28889417,0.8316,915726438,1513777014972444674,0.0,0.562,0.438,_jones Excellent interview with  Great incite on Game Theory development process.,Mention,Male,False
+98,Positive,0.2666666666666667,False,0.5499999999999999,33735989,0.8074,915726438,1513744759159992327,0.0,0.622,0.378,_jones Great interview sir. Also enjoy Game Theory. Keep doing what you do.gametheory ,Mention,Male,False
+99,Neutral,0.0,False,0.0,361395101,0.0,915726438,1513736114636410880,0.0,1.0,0.0,  of course!,Mention,Male,False
+100,Neutral,0.0,False,0.0,1508928571435331585,0.0,915726438,1513635428687040517,0.0,1.0,0.0,       ,Mention,Male,False
+101,Positive,0.5613839285714286,False,0.7107142857142857,933222918212825088,0.9255,915726438,1513597139816906753,0.0,0.585,0.415, _jones   Soooo good!!!! Love your insight and pov!! Both of you are so smart and funny. I never miss an episode.,Mention,Male,False
+102,Positive,0.2931818181818182,False,0.6522727272727273,4214201473,0.0,915726438,1513526790643494916,0.0,1.0,0.0,"Sports journalist _jones joins BlackOnTheAir with  to discuss his path to becoming a TV host for his new late-night series  
+
+https://t.co/WgiljLI4Pe",Mention,Male,False
+103,Neutral,0.0,False,0.0,432006408,0.0,915726438,1513328759511961603,0.0,1.0,0.0,_jones  ,Mention,Male,False
+104,Positive,0.6,False,0.35,135684302,0.6369,915726438,1513310332734906369,0.0,0.741,0.259,The best takes on this whole thing via podcast:   _jones ,Mention,Male,False
+105,Neutral,0.0,False,0.0,1897918189,0.5972,915726438,1513307865338982402,0.0,0.766,0.234,"  ""I  just got back from Africa, Wakanda jokes y'all looking for?""
+
+Man! 
+
+Please, don't stop!🤣🤣🤣 https://t.co/Vm6s54Jbj7",Mention,Male,False
+106,Positive,0.184090909090909,False,0.6,60724544,0.8478,915726438,1513288430876172296,0.0,0.793,0.207," Larry, agree 💯with your take on the Oscar’s slap. I watched it live and thought that Will’s acceptance speech was much more puzzling (troubling?) than the “slap“ itself.
+
+Also, nice interview with Bomani Jones. I set my VCR to record Game Theory going forward!",Mention,Male,False
+107,Positive,0.4136363636363637,False,0.3716666666666666,72375775,0.9744,27792033,1518372006974140418,0.0,0.523,0.477,  has great writing. Congrats to  and . 's first short film to win the Academy Award for Best Live Action Short Film.  's first win in the category.,Mention,Male,False
+108,Negative,-0.6666666666666666,False,1.0,1114741890266615808,0.25,27792033,1518292907962339329,0.0,0.6,0.4, Dream the impossible,Mention,Male,False
+109,Neutral,0.0,False,0.0,21968895,0.0,27792033,1518234540866633728,0.0,1.0,0.0, Dayum!!!,Mention,Male,False
+110,Neutral,0.0,False,0.0,838218934155362306,0.3818,27792033,1518226988351303682,0.0,0.833,0.167, Gotta protect Red Bull. It’ll be enables as soon as Leclerc passes Perez,Mention,Male,False
+111,Neutral,0.0,False,0.0,1507584316313903107,-0.4939,27792033,1518224158886301696,0.242,0.758,0.0,  The vax are dying and your blaming the unvaxxed.,Mention,Male,False
+112,Positive,0.2,False,0.3,1507584316313903107,-0.7003,27792033,1518222920723566592,0.325,0.582,0.092,   Yes it does obesity is a real problem and cause all kinds of problems give ur head a shake denying this.,Mention,Male,False
+113,Neutral,0.0,False,0.0,1507584316313903107,-0.802,27792033,1518222481126952960,0.419,0.581,0.0, Lies about the unvaxx we already know the vaccine causes cancer,Mention,Male,False
+114,Neutral,0.0,False,0.0,898390425458937856,-0.3818,27792033,1518216720577712131,0.565,0.435,0.0, screaming 😭😭,Mention,Male,False
+115,Neutral,0.0,False,0.0,21004169,0.0,27792033,1518080539424612353,0.0,1.0,0.0, Seems legit,Mention,Male,False
+116,Neutral,0.0,False,0.0,898869319,0.0,27792033,1518035756186488834,0.0,1.0,0.0,  🤣🤣🤣🤣,Mention,Male,False
+117,Positive,0.4,False,0.3999999999999999,2733852139,0.4215,27792033,1517985219252350976,0.0,0.714,0.286,_A_Prentice  That’s actually what it is lol,Mention,Male,False
+118,Positive,0.1,False,0.4,370456418,0.0,27792033,1517968238507958275,0.0,1.0,0.0, Is this anywhere near J-Zee’s Hats for Men or Barber Shop by Jorge Clooney?,Mention,Male,False
+119,Neutral,0.0,False,0.0,399148073,0.0,27792033,1517960379552440320,0.0,1.0,0.0, Im not pronouncing this Rihanna. This is RE-HAN-Na and that’s the end of it.,Mention,Male,False
+120,Neutral,0.0,False,0.0,142511369,0.0,27792033,1517948798395424769,0.0,1.0,0.0, That’s NYC for you 😊😊😊,Mention,Male,False
+121,Neutral,0.0,False,0.0,23888792,0.0,27792033,1517941054384873473,0.0,1.0,0.0, Alex Wong 🕺🏻,Mention,Male,False
+122,Positive,0.3,True,0.75,18473588,-0.3506,27792033,1517898683882246144,0.353,0.415,0.232, You can't write this shit lol,Mention,Male,False
+123,Neutral,0.0,False,0.0,1387241384235655168,0.0,27792033,1517857921115332608,0.0,1.0,0.0, 🤣🤣🤣,Mention,Male,False
+124,Neutral,0.0,False,0.0,1517239742982942721,0.0,27792033,1517648886042710018,0.0,1.0,0.0,_NFT NFT Hyundai_NFT        ,Mention,Male,False
+125,Positive,0.65625,False,0.65,1409990479203106820,0.8478,27792033,1517587480207314945,0.0,0.753,0.247," The Unbearable WAIT is over. The ""relentlessly funny"" MassiveTalent is now playing in theaters everywhere! Get tickets now - it'll be the best day of your life. Reply stop to opt-out.",Mention,Male,False
+126,Positive,0.35,False,0.5,226505320,0.8316,27792033,1517582591620042753,0.0,0.278,0.722, I love this statistic hahaha,Mention,Male,False
+127,Negative,-0.0625,False,0.2375,217058655,-0.555,27792033,1517581184418656256,0.135,0.865,0.0," Just watching this over and over! 🤣🤣🤣🤣🤣
+
+When Elon Musk's autopilot program is jealous of other transportation's auto pilot programs that actually work!",Mention,Male,False
+128,Neutral,0.0,False,0.0,837966013,0.0,27792033,1517580985252171782,0.0,1.0,0.0," “I do not have time for this, I do not have time for you” to an 80 pound apricot  Labradoodle not doing her business on West 113th.",Mention,Male,False
+129,Neutral,0.0,False,0.4,375289223,-0.3818,27792033,1517579862718005249,0.191,0.809,0.0, There’s a deep metaphor here related to Elon’s hostile bid for twitter….,Mention,Male,False
+130,Neutral,0.0,False,0.0,913131288,0.4215,27792033,1517577308739096576,0.0,0.811,0.189, This was never part of the GE Carousel of Progress at Disney.,Mention,Male,False
+131,Neutral,0.0,False,0.0,217100313,0.0,27792033,1517557810342551552,0.0,1.0,0.0, 🤣🤣🤣🤣🤣,Mention,Male,False
+132,Neutral,0.0,False,0.0,60246606,-0.0516,27792033,1517556285251592192,0.145,0.727,0.127," ‘Deadass, stop playing wit me’ another oldie but goodie",Mention,Male,False
+133,Negative,-0.2,False,0.6,353161051,-0.4767,27792033,1517555859471151104,0.508,0.492,0.0, Also someone crying.,Mention,Male,False
+134,Negative,-0.0625,False,0.125,411914368,-0.4215,27792033,1517547169225523203,0.078,0.922,0.0,   But did any of us grow up hearing South Asian etc. No we heard country. And Asian not too long ago meant not the continent but few countries and ethnicity. 2/2,Mention,Male,False
+135,Neutral,0.0,False,0.5,411914368,0.4404,27792033,1517547037235060738,0.0,0.9,0.1,"   https://t.co/Ua8VDO9OWp was just appreciating the term Asian coming from meaning race and country only (a lá Africa) to region. In this case, Asia-Pacific. 1/2",Mention,Male,False
+136,Neutral,0.0,False,0.1,968306971391725568,0.0,27792033,1517324649872322562,0.0,1.0,0.0, Did Jesus actually have a serotonin deficiency because that’s what this ad said to me,Mention,Male,False
+137,Positive,0.2,False,0.9,1326353708796370944,0.0,27792033,1517322880983322625,0.0,1.0,0.0, Absolutely,Mention,Male,False
+138,Positive,0.2,False,0.2,533731296,0.4404,27792033,1517322552061923330,0.0,0.756,0.244," Thanks. I read this tweet and I thought, ""He Gets Us"".",Mention,Male,False
+139,Neutral,0.0,False,0.0,56203247,0.0,27792033,1517321062165487622,0.0,1.0,0.0, 😂😂😂,Mention,Male,False
+140,Positive,0.4833333333333333,False,0.4416666666666667,101808963,0.7797,27792033,1517302194818584576,0.106,0.685,0.209,"  This is gonna have to be the BEST, most AMAZING season of StrangerThings ever now that we know about the $30 million-per-episode price tag. Anything less will be savaged by critics and viewers alike. 😬",Mention,Male,False
+141,Neutral,0.0,False,0.0,21004169,0.0,27792033,1517239497913741322,0.0,1.0,0.0, Should have gone with THE CNN+.,Mention,Male,False
+142,Neutral,0.0,False,0.0,94372707,0.3612,27792033,1517227538963173380,0.0,0.737,0.263, This sounds like something a vegan would say,Mention,Male,False
+143,Negative,-0.175,False,0.175,1301657254962192387,-0.296,27792033,1517212321252212736,0.258,0.604,0.137,"  Jesus, thank you ✨ I still refuse to watch her after that aloha mess",Mention,Male,False
+144,Positive,0.05,False,0.1,14123181,0.0,27792033,1517209575941890048,0.0,1.0,0.0, CNN+ barely lasted a Scaramucci.,Mention,Male,False
+145,Neutral,0.0,False,0.0,35860310,0.0,27792033,1517184077677445122,0.0,1.0,0.0, We should measure them in Scaramuccis,Mention,Male,False
+146,Neutral,0.0,False,0.0,86598343,0.2732,27792033,1517180709537927181,0.0,0.916,0.084,"     Well there was a documentary about that already, called  What does 38 at the Garden add to the mix?",Mention,Male,False
+147,Neutral,0.0,False,0.0,39114090,0.0,27792033,1517179901308129281,0.0,1.0,0.0, SIR 😂😂😂😂,Mention,Male,False
+148,Neutral,0.0,False,0.0,788586002,0.0,27792033,1517178195560349698,0.0,1.0,0.0,  Even with Working on these shows and just seeing the day to day industrial level shovelling of cash into the incinerator it’s still mind blogging to see these figures.,Mention,Male,False
+149,Positive,0.25,False,0.25,464138323,0.4404,27792033,1517174759557115906,0.0,0.58,0.42, And a better third act.,Mention,Male,False
+150,Neutral,0.0,False,0.0,760353522718081026,0.0,27792033,1517174579151589391,0.0,1.0,0.0, 🤣,Mention,Male,False
+151,Positive,0.7,False,0.6000000000000001,405964067,0.5927,27792033,1517174030016692224,0.0,0.51,0.49, But was it good? 🤔,Mention,Male,False
+152,Neutral,0.0,False,0.0,1258071897885081603,0.0,27792033,1517070566553014272,0.0,1.0,0.0, 🤣🤣 https://t.co/IrI2iA20KF,Mention,Male,False
+153,Positive,0.1,False,1.0,1516843349805875202,0.6669,27792033,1517048855396761600,0.0,0.821,0.179,      Must watch wow. Mr. Lin gave us Knicks fans a moment we will never forget. Put this one in my calendar guys,Mention,Male,False
+154,Positive,0.35,False,0.65,107828253,0.802,27792033,1517045501073698821,0.0,0.379,0.621, Certainly inspiring billions in ShanghaiLockdown2022 haha https://t.co/mqs3uFas09,Mention,Male,False
+155,Neutral,0.0,False,0.0,16422629,0.0,27792033,1516984915560214529,0.0,1.0,0.0, somehow we always do,Mention,Male,False
+156,Neutral,0.0,False,0.0,1544469936,0.0,27792033,1516973045654695936,0.0,1.0,0.0, This man used to be the Mayor of London. Then he became Prime Minister... https://t.co/qqzeITxRDf,Mention,Male,False
+157,Positive,0.1981481481481481,False,0.374074074074074,843670620793716736,0.5499,27792033,1516950285289144322,0.032,0.872,0.096," Pork rinds can speak to your SOUL, but THAT guy?
+
+Would have been better to leave him in his son's basement.
+
+Now everyone understands why they kept his azz down there in the first place 🤣 https://t.co/Y4LuCfU05V",Mention,Male,False
+158,Neutral,0.0,False,0.0,25144913,0.0,27792033,1516948708956508163,0.0,1.0,0.0,  i wanted Maya,Mention,Male,False
+159,Negative,-0.25,False,1.0,368196789,0.4404,27792033,1516947700373147648,0.137,0.526,0.337, sorry that was pretty cheesy https://t.co/DTylMM5qwQ,Mention,Male,False
+160,Neutral,0.0,False,0.0,79851229,-0.4767,27792033,1516947532076789767,0.162,0.838,0.0,  I can’t imagine what would happen if Sprewell choked out Coach PJ in the Twitter age.,Mention,Male,False
+161,Positive,0.5,False,1.0,368196789,-0.2263,27792033,1516946461300342784,0.174,0.826,0.0, who could forget that famous movie about addiction “cheesespotting”,Mention,Male,False
+162,Neutral,0.0,False,0.0,912480651609219072,0.5106,27792033,1516945990862921730,0.0,0.548,0.452," trust me, we knew",Mention,Male,False
+163,Neutral,0.0,False,0.0,1085036720431812609,0.0,27792033,1516941826841792512,0.0,1.0,0.0, And they could've had Maya.  Just baffling.,Mention,Male,False
+164,Negative,-0.2545454545454544,False,0.3737373737373737,540844830,-0.8398,27792033,1516941488445444096,0.276,0.724,0.0, I feel so bad for the people of New York because this mayor will destroy their city. You could have had  https://t.co/G5qXkYZOvV,Mention,Male,False
+165,Neutral,0.0,False,0.0,837966013,0.0,27792033,1516941381524238337,0.0,1.0,0.0," They elected Dr. Oz
+And the police Comish is the …. https://t.co/KrzjYVgWa1",Mention,Male,False
+166,Neutral,0.0,False,0.0,175380554,0.5106,27792033,1516940839863427073,0.0,0.476,0.524, “Sentient” seems generous.,Mention,Male,False
+167,Negative,-0.0499999999999999,True,0.6,19821831,-0.5413,27792033,1516940836830912513,0.368,0.632,0.0, Un-fucking-believable. More disappointing by the day.,Mention,Male,False
+168,Negative,-0.15,True,0.6,1265735590940741642,0.6414,27792033,1516939703739637765,0.0,0.541,0.459, He really doesn't know? WTF?,Mention,Male,False
+169,Positive,0.35,False,0.5,78946500,0.875,27792033,1516911983638941696,0.0,0.444,0.556,      oh yeah? hahaha love it,Mention,Male,False
+170,Neutral,0.0,False,0.0,953684126275485696,0.0,27792033,1516893270873235456,0.0,1.0,0.0,CAN NOT WAIT FOR THIS! Linsanity   https://t.co/lxOmztYtXl,Mention,Male,False
+171,Neutral,0.0,False,0.0,1374831183419166722,0.0,27792033,1516884400784347137,0.0,1.0,0.0,"  is asian. Indians count as Asians, you'all",Mention,Male,False
+172,Neutral,0.0,False,0.0,834275454727041025,0.0,27792033,1516826966673960961,0.0,1.0,0.0, https://t.co/jtWZRdb04P,Mention,Male,False
+173,Neutral,0.0,False,0.0,210876365,0.0,27792033,1516822066133045251,0.0,1.0,0.0, For some reason Judge Ito incorrectly came to mind,Mention,Male,False
+174,Neutral,0.0,False,0.0,78946500,0.0,27792033,1516819210147487744,0.0,1.0,0.0,38attheGarden premiering at  🎉🎉🎉  https://t.co/mX2AaWWdwm,Mention,Male,False
+175,Negative,-0.0833333333333333,False,0.0833333333333333,834275454727041025,-0.296,27792033,1516818443315515394,0.155,0.845,0.0, Why no one talkin about Silk Sonic tho 🙃 both half asian. Cmon,Mention,Male,False
+176,Positive,0.3333333333333333,False,0.5,78946500,0.7992,27792033,1516818383353769987,0.039,0.781,0.18,"i rant about many things but nothing gets me going like the magical moment that was Linsanity 🏀⛹🏻‍♂️
+
+im in this documentary talking about  alongside faves    🎉🎉🎉
+
+congrats to filmmakers   🏀🏀🏀 https://t.co/M0tYbwoee3",Mention,Male,False
+177,Neutral,0.0,False,0.0,834275454727041025,0.0,27792033,1516814279638282240,0.0,1.0,0.0,"_Mal   Not the ""filipino is pacific islander"" BS. We are asian. We do not fall under ""pacific islander"" even our languages dont fall under that.",Mention,Male,False
+178,Positive,0.0555555555555555,False,0.4111111111111111,834275454727041025,0.6486,27792033,1516813794881671174,0.0,0.719,0.281,   Hailee is less than half but she counts :],Mention,Male,False
+179,Positive,0.6,True,1.0,1336949729016442880,0.5994,27792033,1516788654785835008,0.0,0.672,0.328,    Lmao it lasted 4 weeks. Chill.,Mention,Male,False
+180,Neutral,0.0,False,0.0,1365381050910744576,0.3895,27792033,1516748024998817795,0.139,0.529,0.332,    Will never forget the excitement and energy. Thank you Jeremy.,Mention,Male,False
+181,Neutral,0.0,False,0.0,14354471,0.0,27792033,1516711688652955655,0.0,1.0,0.0,     Yassss!,Mention,Male,False
+182,Neutral,0.0,True,0.0,26200523,-0.5538,27792033,1516647449988849664,0.174,0.826,0.0,   Just set a cal event for 5/2. Trying to get me and girl some damn tickets!!!,Mention,Male,False
+183,Neutral,0.0,False,0.0,788126437383475200,0.0,27792033,1516636953365688321,0.0,1.0,0.0, Yoshiki Hayashi.,Mention,Male,False
+184,Positive,0.3166666666666666,False,0.5666666666666668,108953853,0.7269,27792033,1516624996751265798,0.0,0.534,0.466,   This actually looks pretty good 🏀🏀,Mention,Male,False
+185,Neutral,0.0,False,0.0,2616343532,0.0,27792033,1516624723001675777,0.0,1.0,0.0,   👀,Mention,Male,False
+186,Neutral,0.0,False,0.0,181781927,-0.743,27792033,1516624464062033924,0.474,0.526,0.0, Why ignore how Carmelo Anthony helped ruin Linsanity.,Mention,Male,False
+187,Positive,0.4000000000000001,False,0.5125000000000001,2181446503,0.9371,27792033,1516622602336411648,0.0,0.717,0.283,": I'm thrilled to finally be able to share that I helped produce a film about a  legend and Asian American icon  with the Academy Award winning team of  and , directed by Frank Chi. So proud that 38 at the Garden… https://t.co/yhvZarJ7MO",Mention,Male,False
+188,Neutral,0.0,False,0.0,2181446503,0.5719,27792033,1516622597311680512,0.0,0.73,0.27,: Here's the 38atTheGarden trailer for your viewing pleasure: https://t.co/CJKdwPNWwx,Mention,Male,False
+189,Positive,0.30625,False,0.75,2181446503,0.7645,27792033,1516622595046752257,0.0,0.809,0.191,": So today I'm extremely proud to announce this little journey I went on with my boy Frank Chi, Samir Hernandez and   is premiering at  film festival. https://t.co/BLTKnuJLwF",Mention,Male,False
+190,Neutral,0.0,False,0.0,2658514094,0.0,27792033,1516618327363309570,0.0,1.0,0.0,     ,Mention,Male,False
+191,Neutral,0.0,False,0.0,2848468613,0.0,27792033,1516616607434485764,0.0,1.0,0.0,     Wait—it’s already been 10 years?! Can’t wait to watch!!!,Mention,Male,False
+192,Neutral,0.0,False,0.0,542571294,0.0,27792033,1516604104398696449,0.0,1.0,0.0,     Tweet,Mention,Male,False
+193,Positive,0.3571428571428571,False,0.5714285714285714,1510378306088091649,0.4824,27792033,1516593629887873038,0.153,0.55,0.297,"    https://t.co/iawjcZPHhF 
+U.S. SPECIAL FORCES FIGHT UNDERGROUND 4-19-2020 PLEASE WATCH AND SHARE🇺🇸",Mention,Male,False
+194,Neutral,0.0,False,0.0,70731048,0.6688,27792033,1516587706301960192,0.0,0.471,0.529,    Congratulations!!,Mention,Male,False
+195,Positive,0.1666666666666666,False,0.6,322966183,0.8074,27792033,1516581710779060227,0.041,0.734,0.225,"    Man, if you think you only affected people that look like you, you are selling yourself short my friend
+
+You inspired people of many backgrounds and nationalities, including me",Mention,Male,False
+196,Neutral,0.0,False,0.0,1030665432808615936,0.0,27792033,1516579693788647428,0.0,1.0,0.0, https://t.co/iwW5vCCM1h,Mention,Male,False
+197,Neutral,0.0,False,0.0,749075387104292866,0.0,27792033,1516578785381990403,0.0,1.0,0.0,    And ours too❤️,Mention,Male,False
+198,Positive,0.3,False,0.8,390218111,0.4939,27792033,1516578236653875205,0.0,0.686,0.314,  An exciting time in the NBA.,Mention,Male,False
+199,Neutral,0.0,False,0.0,799748904,0.0,27792033,1516573234803617793,0.0,1.0,0.0,"_the_rice  Oh wait he’s not American, is he?",Mention,Male,False
+200,Neutral,0.0,False,0.0,799748904,0.0,27792033,1516573140004089862,0.0,1.0,0.0,_the_rice  Jackie Chan?!?!,Mention,Male,False
+201,Positive,0.2857142857142857,False,0.5357142857142857,1147121294971953153,0.0,27792033,1516573038820667399,0.0,1.0,0.0," Gotta be Tiger Woods, right?",Mention,Male,False
+202,Negative,-0.1,True,0.4,831785148,-0.836,27792033,1516568613657841664,0.364,0.578,0.058, They’re really into exercising their rights to kill whoever the fuck they want without consequence.,Mention,Male,False
+203,Neutral,0.0,False,0.0,1484987639631470592,0.0,27792033,1516564211152809984,0.0,1.0,0.0, Nathan,Mention,Male,False
+204,Positive,0.3333333333333333,False,0.5,42833043,0.0,27792033,1516564065992204292,0.0,1.0,0.0, i just saw everything everywhere all at once today. i can’t believe i left james hong off this list.. he’s def one of the most famous imo,Mention,Male,False
+205,Neutral,0.0,False,0.0,283102923,0.0,27792033,1516563939626299395,0.0,1.0,0.0, https://t.co/UWgk1kKqbE,Mention,Male,False
+206,Positive,0.1079545454545454,False,0.5181818181818182,1491439328744157196,0.0,27792033,1516561829278978053,0.0,1.0,0.0,"     🚀🚀RACA INU 🚀🚀
+
+Its time to get dextool trending !!!
+https://t.co/o5sBKAb986
+All links are updated so go there , put Raca INU on your watchlist !!!
+Also try refreshing your page every few mins !! Lfgooo time to get new ATH 🚀🚀🚀🚀🚀
+TG:https://t.co/Uea2cHukYC",Mention,Male,False
+207,Neutral,0.0,False,0.0,253556280,0.0,16028034,1518377573864116224,0.0,1.0,0.0," In Nawlins, before the Deluge, we understood this.
+
+https://t.co/AflPjk2fec",Mention,Male,False
+208,Positive,0.1,False,0.1625,2515744518,0.1154,16028034,1518372092441333760,0.0,0.97,0.03,  Just the basic understanding that a President proposes a budget but it is Congress that has the Constitutional Authority to pass/change the budget and fund the 💰. Dems don’t really have a Congressional majority. This is why we need to keep the House Majority &amp; add Dem Senators. https://t.co/9Vq5zQNpG5,Mention,Male,False
+209,Positive,0.225,False,0.525,2515744518,-0.3612,16028034,1518369695019069440,0.092,0.847,0.061,"  I don’t want to stifle critique or stop people from pushing for more progressive but because so many Americans now lack a fundamental understanding of how government works we have to be careful about how, when &amp; where we critique. Our citizenry doesn’t understand political nuance",Mention,Male,False
+210,Positive,0.2766666666666666,False,0.5166666666666667,149015072,0.4215,16028034,1518369633459486720,0.0,0.906,0.094,  I am planning to vote in my state's Republican primary in two years for this exact reason. Lucky that Missouri has an open primary system in place.,Mention,Male,False
+211,Positive,0.5633333333333334,False,1.0,494052340,0.7382,16028034,1518367907994079232,0.118,0.504,0.378,  Yeah but…don’t you feel like this could be very easily exploited? Like it has been for decades?,Mention,Male,False
+212,Positive,0.0333333333333333,False,0.2733333333333333,82395347,-0.5803,16028034,1518367879028224002,0.17,0.737,0.092, But what’s the difference between Black Samurai X and White Samurai X? And White X got 50 more X than the Black version? Feels like racism if you ask me.,Mention,Male,False
+213,Neutral,0.0,False,0.125,32256221,0.0,16028034,1518365823232094209,0.0,1.0,0.0, SAME,Mention,Male,False
+214,Neutral,0.0,False,0.0,191306246,0.0,16028034,1518362423601811456,0.0,1.0,0.0, Man listen,Mention,Male,False
+215,Neutral,0.0,False,0.0,1324174384609841152,0.0,16028034,1518362421391511552,0.0,1.0,0.0, You can’t tell me Jokic would’ve made that sideline pass if he didn’t watch Russ film,Mention,Male,False
+216,Positive,0.25,False,0.25,1214901905140400128,0.0,16028034,1518356865180131332,0.0,1.0,0.0, Exactly,Mention,Male,False
+217,Neutral,0.0,False,0.0,42941784,-0.3182,16028034,1518355924288741379,0.434,0.566,0.0," That too, smh",Mention,Male,False
+218,Neutral,0.0,False,0.0,319989744,0.0,16028034,1518344508685049857,0.0,1.0,0.0, Bonedega https://t.co/tr3tk4683F,Mention,Male,False
+219,Negative,-0.3,False,0.4,13522032,0.0,16028034,1518342978049388546,0.0,1.0,0.0, At least he didn’t have anything to do with it this time.,Mention,Male,False
+220,Negative,-0.0325,False,0.2933333333333333,1491568338983690240,0.0,16028034,1518339770467897346,0.0,1.0,0.0, Those egg cheeses don't last very long at all 😭,Mention,Male,False
+221,Neutral,0.0,False,0.0,16070597,0.0,16028034,1518339440711806986,0.0,1.0,0.0,  My man!,Mention,Male,False
+222,Positive,0.3333333333333333,True,0.5958333333333334,197697814,0.6908,16028034,1518337906556870656,0.176,0.539,0.286," Safe sex products *should* be up front and easy to know what they have so you can take care of your business safely and responsibly. No shame, no stigma",Mention,Male,False
+223,Neutral,0.0,False,0.0,495060702,0.0,16028034,1518335363365982216,0.0,1.0,0.0,  https://t.co/dCs8wCKcNI,Mention,Male,False
+224,Neutral,0.0,False,0.0,1210058939548626944,0.0,16028034,1518335163842777088,0.0,1.0,0.0,"  Besides, Bucks/Celtics next? https://t.co/wKioFAn4O0",Mention,Male,False
+225,Positive,0.85,False,1.0,495060702,0.765,16028034,1518334678859669504,0.0,0.548,0.452,  the harmony of a cohesive team is a beautiful sight.,Mention,Male,False
+226,Neutral,0.0,False,0.0,1210058939548626944,0.0,16028034,1518333860899016704,0.0,1.0,0.0," ""*I* ain't gonna be out here getting swept*",Mention,Male,False
+227,Positive,0.5,False,0.5,92441303,0.296,16028034,1518333082767560704,0.0,0.784,0.216," Ok, why you gotta rile us up, Rod?",Mention,Male,False
+228,Negative,-0.6,True,0.8,16070597,0.0,16028034,1518307223574917123,0.0,1.0,0.0, Who keeps fucking with you?,Mention,Male,False
+229,Positive,0.8,False,0.4,570586902,-0.7306,16028034,1518303907994390530,0.321,0.679,0.0," If he doesn't win, it's one of those ""Kareem can't win em all"" years",Mention,Male,False
+230,Positive,0.6,True,1.0,1491568338983690240,0.7605,16028034,1518303296049627136,0.109,0.453,0.438, Lmao please you like mango so we can forget about all this..,Mention,Male,False
+231,Negative,-1.0,True,1.0,1491568338983690240,-0.8122,16028034,1518301420658872322,0.545,0.455,0.0, Damn! No coconut? you're insulting Caribbean folks everywhere 😭🥴,Mention,Male,False
+232,Positive,0.8,False,0.7,1491568338983690240,0.6868,16028034,1518300090716282881,0.0,0.712,0.288, You like it? What about the orange coconut treats in from of the registers lol?,Mention,Male,False
+233,Neutral,0.0,False,0.0,1491568338983690240,0.0,16028034,1518298869750243329,0.0,1.0,0.0, Yess..did you have any chopped cheese yet,Mention,Male,False
+234,Neutral,0.0,False,0.0,1595548356,0.4019,16028034,1518268425696546816,0.0,0.27,0.73, Yes,Mention,Male,False
+235,Neutral,0.0,False,0.0,768757080,0.3612,16028034,1518258555622768642,0.0,0.667,0.333, does Jordan like Steve Nash?,Mention,Male,False
+236,Positive,0.6000000000000001,False,0.9,17836053,-0.1027,16028034,1518257887742763008,0.139,0.743,0.119,"   The food looks amazing, but I have no idea how I’m supposed to eat it",Mention,Male,False
+237,Neutral,0.0,False,0.0,21362856,-0.296,16028034,1518249202043793417,0.306,0.694,0.0," Buttered &amp; toasted, no ketchup",Mention,Male,False
+238,Neutral,0.0,False,0.0,454202673,-0.6679,16028034,1518239762498342915,0.472,0.528,0.0, Ban white women from arena!!!,Mention,Male,False
+239,Positive,1.0,False,1.0,30954675,0.5719,16028034,1518237738478223361,0.0,0.73,0.27,Had a wonderful brunch yesterday with   and his fiancé https://t.co/LtadYR8OVs,Mention,Male,False
+240,Neutral,0.0,False,0.0,191306246,0.296,16028034,1518236687503179778,0.0,0.312,0.688, Yep,Mention,Male,False
+241,Neutral,0.0,False,0.0,19992172,0.0,16028034,1518233632598630400,0.0,1.0,0.0, I never get ketchup either.,Mention,Male,False
+242,Neutral,0.0,False,0.0,32951806,0.0,16028034,1518228816136708097,0.0,1.0,0.0, I get mine with chipotle sauce but my bodegas are fancy 😂,Mention,Male,False
+243,Neutral,0.0,False,0.0,740710629078618112,0.0,16028034,1518227422767898624,0.0,1.0,0.0," Not gonna yuk your yum, but for me ketchup is always on the side. Mustard and mayonnaise go on the roll/biscuit/toast, ketchup is for dipping.",Mention,Male,False
+244,Neutral,0.0,False,0.0,1228491846013214721,0.0,16028034,1518223870603698181,0.0,1.0,0.0, Banana ketchup though?,Mention,Male,False
+245,Positive,0.6,False,0.9,1680622466,0.6249,16028034,1518223410345750528,0.0,0.819,0.181," Yes, the roll must be toasted.
+
+But why the ketchup? I like ketchup on potatoes and things but this kind of sandwich doesn't need it.",Mention,Male,False
+246,Neutral,0.0,False,0.0,33362883,0.0258,16028034,1518222595526643712,0.16,0.675,0.166, Yes. Did you fight the person who told you to add pickles?,Mention,Male,False
+247,Neutral,0.0,False,0.0,92441303,0.0,16028034,1518222026548211712,0.0,1.0,0.0, Of course.,Mention,Male,False
+248,Neutral,0.0,False,0.0,111591687,0.4019,16028034,1518221703134035970,0.0,0.27,0.73, Yes,Mention,Male,False
+249,Neutral,0.0,False,0.0,259551083,0.4019,16028034,1518221457305837575,0.0,0.27,0.73, Yes,Mention,Male,False
+250,Neutral,0.0,False,0.0,1158395065405825025,0.0,16028034,1518221346710376450,0.0,1.0,0.0, Try it on a toasted bagel 🥯,Mention,Male,False
+251,Negative,-0.1875,False,0.5,465019338,0.0,16028034,1518221228271624192,0.0,1.0,0.0, Absolutely.put a little butter on that toasted rolls,Mention,Male,False
+252,Neutral,0.0,False,0.0,37743120,0.4019,16028034,1518221175222120453,0.0,0.27,0.73, yes,Mention,Male,False
+253,Neutral,0.0,False,0.0,2409094812,-0.1027,16028034,1518206736691253248,0.318,0.682,0.0, Iykyk. Idk. 🤷‍♂️,Mention,Male,False
+254,Negative,-0.4,False,0.4,165871534,0.0,16028034,1518205474293886982,0.0,1.0,0.0, I 💜  this game.,Mention,Male,False
+255,Neutral,0.0,False,0.0,902267779952279553,0.1561,16028034,1518198991049142272,0.077,0.82,0.103," Nash ain't been coaching a thing. Remember how Kyrie said BK don't need a coach? Yeah, looks like they got what they wanted 😆",Mention,Male,False
+256,Neutral,0.0,False,1.0,884549528711516167,0.0,16028034,1518153367465439233,0.0,1.0,0.0," I think there is only one there.
+
+And when I lived there, not even once did I think ""let's try Arby's"".",Mention,Male,False
+257,Neutral,0.0,False,0.0,54415975,0.0,16028034,1518119589116321793,0.0,1.0,0.0, Annihilation https://t.co/7gnTvhmkaS,Mention,Male,False
+258,Positive,0.4121428571428571,False,0.687142857142857,342866525,0.5553,16028034,1518101289434902529,0.128,0.656,0.216," Also, the actors aren't supposed to create flattering portraits of these legacies. Every one of them is crushing the job of creating a unique, imperfect, impressive character and multiple relationship dynamics. The casting director can get any job they want right now.",Mention,Male,False
+259,Positive,0.5000000000000001,False,0.9,1367608347315306496,0.3802,16028034,1518083074705268736,0.0,0.794,0.206, Huge Euro Wine -- You can taste every step! 🤣🤣🤣,Mention,Male,False
+260,Positive,0.2,False,0.4,18297701,0.2263,16028034,1518081764668977153,0.0,0.678,0.322,  Straight up wellin' 😅,Mention,Male,False
+261,Positive,0.4,False,0.7625,1291374398814015489,0.886,16028034,1518078891419709441,0.0,0.648,0.352, Do yourself a favor and find a good Tongdak (Korean) chicken place. The fried variation is better in my opinion but the roasted is also awesome.,Mention,Male,False
+262,Neutral,0.0,False,0.0,78342951,0.0,16028034,1518077950104547328,0.0,1.0,0.0, Pruno,Mention,Male,False
+263,Negative,-0.05,True,0.4,34714631,-0.8316,16028034,1518077901324886016,0.527,0.473,0.0, A yo dead ass… that’s some wild ass villainy…,Mention,Male,False
+264,Negative,-0.0866666666666666,True,0.5633333333333332,37287411,-0.6597,16028034,1518077579600797700,0.434,0.331,0.235, Damn I didn't know white people loved chicken like that..they dead ass serious about this🤣😂🤣😂,Mention,Male,False
+265,Neutral,0.0,False,0.0,34714631,0.0,16028034,1518077540002410497,0.0,1.0,0.0, Hey umm… did she have a Ref costume on up under that!?!?!,Mention,Male,False
+266,Neutral,0.0,False,0.0,948584766,0.0,16028034,1518077128092303360,0.0,1.0,0.0, She was literally all over that.,Mention,Male,False
+267,Neutral,0.0,False,0.0,268286068,0.0,16028034,1518072184534716416,0.0,1.0,0.0,  Celts were pups.,Mention,Male,False
+268,Neutral,0.0,False,0.0,570586902,0.0,16028034,1518057708959715330,0.0,1.0,0.0, For which team remains to be seen,Mention,Male,False
+269,Positive,0.8,False,0.7,203281402,0.1531,16028034,1518052177243258880,0.275,0.375,0.35, Lol no he not,Mention,Male,False
+270,Positive,0.35,False,0.425,948584766,0.6808,16028034,1518052002642731008,0.0,0.588,0.412, I know a good developmental coach that got freed up recently.,Mention,Male,False
+271,Neutral,0.0,False,0.0,988893026201358338,0.0,16028034,1518051370246549507,0.0,1.0,0.0, And Rod’s crusade against Arby’s continues. One day they will songs ballads about your efforts.,Mention,Male,False
+272,Positive,0.296875,False,0.825,149123069,0.8057,16028034,1518050966548983814,0.0,0.491,0.509,  Oh wow this is niiice!! So cool!,Mention,Male,False
+273,Neutral,0.0,False,0.0,194515297,0.0,16028034,1518049534383124480,0.0,1.0,0.0,  😶,Mention,Male,False
+274,Positive,0.35,False,0.65,13522032,0.4215,16028034,1518048837985869824,0.0,0.263,0.737, True.,Mention,Male,False
+275,Neutral,0.0,False,0.0,16782243,0.0,16028034,1518048590073114624,0.0,1.0,0.0,How can she slap?!     https://t.co/V8tAI0IsRS,Mention,Male,False
+276,Neutral,0.0,False,0.0,83499321,-0.6908,16028034,1518048435353669637,0.49,0.34,0.17," like, fired before the press conference fired",Mention,Male,False
+277,Neutral,0.0,False,0.0666666666666666,92334777,-0.3321,16028034,1518047216908349443,0.088,0.857,0.055,I’m Milwaukee… we kinda still don’t like him : You ever think about how one made three changes how we view Steve Nash last year and how we view Coach Bud? Bud might've even gotten fired.,Mention,Male,False
+278,Neutral,0.0,True,0.0,39350321,0.0,16028034,1518046295461711874,0.0,1.0,0.0, He’ll never coach again.,Mention,Male,False
+279,Positive,0.5,False,0.5,129390841,0.4404,16028034,1518045831105896449,0.0,0.633,0.367, Better than for the Lakers.,Mention,Male,False
+280,Neutral,0.0,False,0.0,30954675,0.0,16028034,1518028888638644225,0.0,1.0,0.0,_ryan   _CLT  https://t.co/J43RrKznIm,Mention,Male,False
+281,Neutral,0.0,False,0.0,1158395065405825025,0.0,16028034,1518022243342819328,0.0,1.0,0.0, Brooklyn Dodgers =\= Brooklyn Nets,Mention,Male,False
+282,Neutral,0.0,False,0.0,818578899974193154,0.0,16028034,1518021001434611712,0.0,1.0,0.0, Jackie Robinson jersey. 🔥🔥,Mention,Male,False
+283,Neutral,0.0,False,0.0,959919017136939008,0.0,16028034,1518020853098758144,0.0,1.0,0.0,_ryan   _CLT   https://t.co/zQyfVgZZSU,Mention,Male,False
+284,Positive,0.35,False,0.65,2826909028,0.6597,16028034,1518019599077359624,0.0,0.426,0.574, Sweet play on words there,Mention,Male,False
+285,Positive,0.1166666666666666,True,0.7666666666666666,616283167,-0.6816,16028034,1518013294635884545,0.464,0.26,0.276, Plate numbers?!?!?! Shit nigga lyin like shit! Lol.,Mention,Male,False
+286,Positive,0.5,False,0.5,38168426,0.0,16028034,1517992618327748608,0.0,1.0,0.0," I had video of the Arby's line I was in, but I captured too many plate numbers.",Mention,Male,False
+287,Neutral,0.0,False,0.0,1595548356,0.0,16028034,1517990683700699138,0.0,1.0,0.0, 😂😂😂😂,Mention,Male,False
+288,Neutral,0.0,False,0.0,17632447,0.0,16028034,1517970229325754368,0.0,1.0,0.0, 🤣🤣🤣🤣🤣,Mention,Male,False
+289,Positive,0.8,False,0.7,315405806,0.4215,16028034,1517966218447237120,0.0,0.682,0.318, Those are all employee vehicles. Lol,Mention,Male,False
+290,Neutral,0.0,False,0.0,92441303,0.0,16028034,1517959286210527232,0.0,1.0,0.0,  We do. For a bus.,Mention,Male,False
+291,Neutral,0.0,False,0.0,28862856,0.0,16028034,1517958610281771011,0.0,1.0,0.0,"_ryan   _CLT   I thought that was called ""brunch""?",Mention,Male,False
+292,Neutral,0.0,False,0.0,570586902,0.0,16028034,1517958064103739393,0.0,1.0,0.0, Every car in that lot is registered to a laundromat,Mention,Male,False
+293,Positive,0.3770833333333333,False,0.6916666666666667,1457389079834906625,0.9259,16028034,1517955503778934785,0.0,0.684,0.316,"_ryan   _CLT   Go for it! The both of y'all are super sharp and have a lot of great insight, I would love to get weekly updates in a podcast.",Mention,Male,False
+294,Neutral,0.0,False,0.0,928438377065734144,0.0,16028034,1517953116456599552,0.0,1.0,0.0, https://t.co/tEuHpkJRFI,Mention,Male,False
+295,Neutral,0.0,False,0.0,3110929594,0.0,16028034,1517952767951790080,0.0,1.0,0.0, Front I'm telling you!,Mention,Male,False
+296,Positive,0.1,False,0.3,236161276,-0.1027,16028034,1517952477148205062,0.091,0.909,0.0, I heard they pay people to sit in the parking lot so it seems busy,Mention,Male,False
+297,Neutral,0.0,False,0.1,1681260343,0.4939,16028034,1517951268983037952,0.0,0.904,0.096,"So  and I are thinking of starting a podcast. Not involved with  or _CLT, just us discussing the happenings of the week. Inspired by  and . What do ya think?",Mention,Male,False
+298,Positive,0.1,False,0.9,86840694,0.2263,16028034,1517951102817292291,0.0,0.759,0.241, I’m surprised they got cars there,Mention,Male,False
+299,Neutral,0.0,False,0.0,22299947,0.3612,16028034,1517950427261767680,0.0,0.762,0.238, You found one . It’s like 2 in the city,Mention,Male,False
+300,Neutral,0.0,False,0.0,972616321,0.0,16028034,1517950156079091714,0.0,1.0,0.0, Lmaooo  🤣🤣🤣🤣🤣,Mention,Male,False
+301,Positive,0.5,False,0.6,360004861,0.6369,16028034,1517941721346318337,0.0,0.417,0.583,  I love this,Mention,Male,False
+302,Negative,-0.6666666666666666,False,0.7083333333333334,253556280,0.886,16028034,1517917773627863040,0.0,0.584,0.416, This. We don't fight evil with evil for the same reason you don't fight King Shark in the water.,Mention,Male,False
+303,Neutral,0.0,False,0.0,3273929654,0.0,16028034,1517875542191742976,0.0,1.0,0.0, Yo!!!!,Mention,Male,False
+304,Neutral,0.0,False,0.0,1418096622,0.0,16028034,1517872318072172546,0.0,1.0,0.0,Whew that took me out!  https://t.co/UFUcOnJJ5X,Mention,Male,False
+305,Positive,0.2,False,0.5,103587443,0.0,16028034,1517868235193991168,0.0,1.0,0.0, hahahaha,Mention,Male,False
+306,Neutral,0.0,False,0.0,216942313,0.0,16028034,1517866081095933953,0.0,1.0,0.0, 🤣🤣🤣,Mention,Male,False
+307,Neutral,0.0,False,0.0,309431700,0.0,344955115,1518273563157053441,0.0,1.0,0.0,"Photos of  from !
+https://t.co/yGjE0FkE5O",Mention,Male,False
+308,Neutral,0.0,False,0.0,871701045071798272,0.0,344955115,1518246011759742978,0.0,1.0,0.0,  @_silversmith         https://t.co/2QVmWresfy,Mention,Male,False
+309,Positive,0.2,False,0.1,1326231004609196035,-0.5574,344955115,1518164986043895808,0.244,0.661,0.095," reads a rant from a woman who wants to reclaim ""cunt"" as an acceptable curse word. Starts about 19:50. 
+
+https://t.co/jAFvOIc749",Mention,Male,False
+310,Positive,0.6,False,0.9,243929169,0.0,344955115,1518162683194920960,0.0,1.0,0.0,"As  might say, this is the kind of headline I read and my brain just comes to a screeching halt.  I just can't process this. https://t.co/yCKSOxc5aw",Mention,Male,False
+311,Negative,-0.1666666666666666,False,0.4333333333333333,24339128,0.0,344955115,1518104433824989184,0.0,1.0,0.0,"And now for a Lewis Black cartoon I probably drew around 17 years ago.
+LewisBlack  https://t.co/AnivUu0VFP",Mention,Male,False
+312,Negative,-0.0833333333333333,False,0.2166666666666666,288527616,0.4724,344955115,1518047249653149698,0.0,0.661,0.339,  Lewis Black is back!! Yeah!,Mention,Male,False
+313,Neutral,0.0,False,0.0,41314187,0.2134,344955115,1518046913932582913,0.051,0.88,0.069,"  Putin's Mother Russia wears army boots to kick Ukrainian kids in the face.
+ : ""Shut up, Vladimir. You lost. Now get out of OUR Ukraine.""
+How do you say RememberMariupol in Ukrainian?
+
+Bozo Putin : ""Is not war crimes. Is potato.""",Mention,Male,False
+314,Positive,1.0,False,0.75,245179984,0.6892,344955115,1518030613730709505,0.0,0.562,0.438,  We were there! Great show!,Mention,Male,False
+315,Positive,0.625,False,0.6,1014758070,0.6696,344955115,1518018569648230400,0.0,0.71,0.29, I'd love to see you in SF for my wedding anniversary!,Mention,Male,False
+316,Neutral,0.0,False,0.0,211148588,0.0,344955115,1517948886144352256,0.0,1.0,0.0,Paging  https://t.co/EJ4TsXie3S,Mention,Male,False
+317,Positive,0.1833333333333333,False,0.4916666666666667,3817803298,0.4588,344955115,1517894759741804544,0.0,0.857,0.143,So APPARENTLY everyone had the same idea to visit my favorite health club this morning.  ihop healthclub favoritejoke,Mention,Male,False
+318,Positive,0.125,True,0.4291666666666667,1217251083443212288,0.7424,344955115,1517879045274447878,0.0,0.589,0.411,  Great work last night Lewis!  Worth every fucking penny,Mention,Male,False
+319,Positive,0.4375,False,0.5,894516752821964800,0.9431,344955115,1517719877376790528,0.0,0.408,0.592,  What a fantastic show! Thank you for sharing your gift for making people f-ing laugh!,Mention,Male,False
+320,Positive,0.7,True,0.6000000000000001,970117502700347394,0.716,344955115,1517702430129070080,0.0,0.715,0.285,"  Another good one. I can't believe people bitch about this part of your show, f__k  'em.",Mention,Male,False
+321,Positive,0.4375,False,0.4333333333333333,845409408,0.636,344955115,1517695267050557440,0.0,0.792,0.208,  Loved the show! Three of us and none of us could catch Jeff’s last name,Mention,Male,False
+322,Neutral,0.0,False,0.0,29224409,0.0,344955115,1517692574206599168,0.0,1.0,0.0,  Luv it 😘,Mention,Male,False
+323,Positive,0.5666666666666667,False,0.3666666666666667,18081214,0.9062,344955115,1517688619657535489,0.0,0.415,0.585," Lew, just thanks. Always love your shows. All the best.",Mention,Male,False
+324,Positive,1.0,False,1.0,87495066,0.636,344955115,1517649510436155393,0.0,0.625,0.375,Goodyear Theater looking beautiful for  tonight! https://t.co/anq1cXyZp4,Mention,Male,False
+325,Neutral,0.0,False,0.0,927006804852162560,0.0,344955115,1517641386782171136,0.0,1.0,0.0,happyFriday! followfriday to                    https://t.co/dsMWduB4ls,Mention,Male,False
+326,Negative,-0.3,False,0.6,44066303,0.0,344955115,1517606827705487368,0.0,1.0,0.0," I’m running late tonight, do you have an opener?",Mention,Male,False
+327,Positive,0.15,True,0.675,1180197237474942977,0.5255,344955115,1517590009922179073,0.111,0.669,0.22,"To quote the great  
+
+""There comes a point where we all look at a piece of footage and agree on what the fuck reality is!""",Mention,Male,False
+328,Positive,0.8,False,0.6499999999999999,1224050537513046016,0.8898,344955115,1517578126271918081,0.0,0.46,0.54," Thanks, Lewis.
+
+BTW, still looking for Jewy-Jew's Guns. LOL!
+
+Priceless. LOL!",Mention,Male,False
+329,Negative,-0.05,False,0.4,537634013,0.5106,344955115,1517567117339488256,0.085,0.694,0.221, I wonder how long until we get a 1 800 number to call for climate change… like we do for all the societal problems we don’t care about,Mention,Male,False
+330,Neutral,0.0,False,0.0,1473057693153865736,0.0,344955115,1517549520690819078,0.0,1.0,0.0, _moviebob We had the Rockets and the saran wrap! Why didn’t we do something sooner?,Mention,Male,False
+331,Negative,-0.1,False,0.1,93522755,0.0,344955115,1517543946704011266,0.0,1.0,0.0,"This reminds me skit from  
+
+“If it weren't for my house, I wouldn't have spent that year in college”
+
+https://t.co/LQU8Xp6XMO https://t.co/BlMqnZiN33",Mention,Male,False
+332,Neutral,0.0,False,0.0,28548164,0.765,344955115,1517503135777927169,0.0,0.837,0.163,"Veteran comedian  is on the road with his “Off the Rails” tour.  He took time to have a conversation with 's  guest host Emily Votaw. They talked about his philosophy of comedy and the importance of education in our society.
+https://t.co/3NoEHCgoXd https://t.co/FKW8Seybla",Mention,Male,False
+333,Neutral,0.0,False,0.0,23814808,0.0,344955115,1517473748072468481,0.0,1.0,0.0,"Ice Cream,  and and 80s Themed Pop Up Bar, all things to do this weekend. 
+https://t.co/AXeB6lMeUH",Mention,Male,False
+334,Positive,0.25,False,0.3333333333333333,1459711644314054656,-0.4767,344955115,1517465876156624896,0.097,0.903,0.0,   I saw Harvest of Shame for the first time. Given that I was made in the 60s it was still eye opening to watch.thank you for recommending it sir.,Mention,Male,False
+335,Positive,0.25,False,1.0,140993299,0.4039,344955115,1517367575205842944,0.0,0.787,0.213," “Grumpy, but funny?”
+
+So your doing ’s act now?
+
+jk 🤣",Mention,Male,False
+336,Positive,0.2772727272727272,False,0.3975757575757576,1440847723587006475,0.9337,344955115,1517348326970212354,0.0,0.593,0.407," I took my 16 year old son to his first comedy show tonight. He loved you. Maybe you inspired a new comedian. Thanks for visiting Cincinnati 5WayChili
+RantIsDue",Mention,Male,False
+337,Positive,0.5,False,1.0,16747539,0.0,344955115,1517325112747438080,0.0,1.0,0.0,  Are you up for some famous Cincinnati chili while there?,Mention,Male,False
+338,Neutral,0.0,False,0.0,489505256,-0.3595,344955115,1517312896404967427,0.238,0.762,0.0, Hi! No shows in Canada? Besides Niagara falls.,Mention,Male,False
+339,Negative,-0.55,False,0.6,704135879124606977,-0.5994,344955115,1517301971438522369,0.15,0.804,0.046," Hate Ticketmaster. All their protocols to “protect” me from scalpers so I can watch them charge $173 for $63 face value tix. Happened Monday for  tix. I got cheaper seats, but Ticketmaster sucks.",Mention,Male,False
+340,Positive,0.7,False,0.6000000000000001,53674974,0.7096,344955115,1517262641806209024,0.0,0.753,0.247, Good Luck Sir May you continually sell out each and every venue you place your name on the marquee,Mention,Male,False
+341,Positive,0.5,False,0.5,387148002,0.4404,344955115,1517255403339399171,0.0,0.805,0.195, Lewis fallfest at WVU. You’re safe at WVU. TR**pers existence is elsewhere.,Mention,Male,False
+342,Neutral,0.0,False,0.0,387148002,0.0,344955115,1517254430286094337,0.0,1.0,0.0,"  has a 65,000+ stadium. With a 14,400 coliseum. The loudest in ALL of college basketball. HailWV",Mention,Male,False
+343,Neutral,0.0,True,0.0,387148002,-0.4215,344955115,1517254243148828680,0.142,0.777,0.081, When you gonna play  with ? Add  just for a trifecta of pissed off white guys.   could be the token blacks.,Mention,Male,False
+344,Neutral,0.0,True,0.0,387148002,-0.4215,344955115,1517252674374225920,0.142,0.777,0.081, When you gonna play  with . Add  just for a trifecta of pissed off white guys.   could be the token blacks.,Mention,Male,False
+345,Positive,0.3571428571428571,False,0.5357142857142857,801128053,0.0,344955115,1517244477127028736,0.0,1.0,0.0, Right on!,Mention,Male,False
+346,Positive,0.8,False,0.9,26885964,0.6696,344955115,1517239436236529664,0.0,0.732,0.268, we are headed to Boca for dinner before your show tonight. Join us! Welcome to Cincinnati.,Mention,Male,False
+347,Neutral,0.0,False,0.0,177072212,0.0,344955115,1517238730716762112,0.0,1.0,0.0, Thank-you.,Mention,Male,False
+348,Neutral,0.0,False,0.0,1943003100,-0.25,344955115,1517233959440052224,0.091,0.909,0.0, how about the Vancouver B.C. show that was cancelled at the beginning of Covid will you be rescheduling that show?,Mention,Male,False
+349,Negative,-0.109090909090909,True,0.5696969696969697,1447737543710199811,-0.34,344955115,1517232010628055040,0.085,0.915,0.0," Just happened to me..needed a new password..new texts, new sign in. Ticket not on iPad had to resign in on my phone,..new password didn’t work 2 fucking hours.",Mention,Male,False
+350,Positive,0.390625,False,0.3333333333333333,1314282779086065666,0.2695,344955115,1517229016528347138,0.151,0.63,0.219," Sent my first rant this week! Hope you read it, Lewis!",Mention,Male,False
+351,Positive,0.121875,False,0.3875,182108140,-0.3595,344955115,1517110983277305856,0.068,0.932,0.0,"TONIGHT: The *rant* is due when  goes ""Off The Rails"" at Taft Theatre! Tickets are still available: https://t.co/kzUmv2vdB9
+
+DOORS: 7:00 PM
+SHOW: 8:10 PM
+
+- There Are No Health Entry Requirement For This Event. https://t.co/4n2mHRJsVB",Mention,Male,False
+352,Positive,0.225,False,0.7,172866601,0.4199,344955115,1516876753259712513,0.0,0.741,0.259, It's absolutely you - and Chicagoland is ready! 👍😆,Mention,Male,False
+353,Positive,0.4840909090909091,False,0.725,41314187,-0.4973,344955115,1516870270031904768,0.078,0.922,0.0," I know you can't take the bus to Japan so I can see you live, but maybe it would be cheaper for you to fly anyway? (Okay, so I know you're probably living in the bus, but not my favorite lifestyle.)",Mention,Male,False
+354,Positive,0.4,False,0.8,41314187,0.5402,344955115,1516869921518780417,0.106,0.721,0.172,"History name? How about Tsar PutinTheWorst ?
+Feel free to use it or create a nastier one.
+
+ : ""Shut up, Vladimir. You lost. Now get out of OUR Ukraine.""
+
+How do you say RememberMariupol in Ukrainian?
+
+Bozo Putin : ""Is not war crimes. Is potato.""
+
+",Mention,Male,False
+355,Negative,-0.5,False,0.7,20857346,0.0,344955115,1516868969298284544,0.0,1.0,0.0, I'd read it if weren't behind a paywall! 🤬,Mention,Male,False
+356,Positive,0.15,True,0.4,1458187047567601665,0.2235,344955115,1516868333701902338,0.0,0.894,0.106," There ain't no fucking body that can do Lewis,like our Lewis 
+Come back to Columbus,Ohio soon",Mention,Male,False
+357,Positive,0.2833333333333333,False,0.5296296296296296,1139056372480323585,0.7044,344955115,1516868275459657728,0.0,0.765,0.235, I don't know. Clones and holograms are everywhere! Are you sure you're still alive? Or were even real to begin with?!,Mention,Male,False
+358,Neutral,0.0,False,0.0,343030244,0.3612,344955115,1516742601298386957,0.0,0.545,0.455,  would agree.,Mention,Male,False
+359,Neutral,0.0,False,0.65,7313362,0.3612,344955115,1516550044710846466,0.154,0.599,0.247,My worst moment:  and the time a TV network decided he wasn’t the best person to play himself https://t.co/Ow551xCd40,Mention,Male,False
+360,Positive,0.4,False,0.4,15457366,0.0,344955115,1516535499745333256,0.0,1.0,0.0,"This Friday!  at the Goodyear Theater in Akron,  tickets are available at the box office or you can buy them here 👉 https://t.co/PcS5kZu6YH https://t.co/VUh7pnmgG2",Mention,Male,False
+361,Positive,0.5,False,1.0,486153950,0.4019,344955115,1516504788875321359,0.0,0.769,0.231, _baskin this is hilarious. I may go see  now,Mention,Male,False
+362,Neutral,0.0,False,0.0,348466153,0.3818,344955115,1516501849339314179,0.0,0.729,0.271,"Comedian  joins _baskin and  next - 
+
+https://t.co/nLi6PJl1sm",Mention,Male,False
+363,Neutral,0.0,False,0.0,2206603852,0.0,344955115,1516501267358662663,0.0,1.0,0.0, None of those - but I had lamb chops,Mention,Male,False
+364,Positive,0.10625,False,0.325,16381558,0.69,344955115,1516393774825496579,0.0,0.881,0.119,"""I knew this character because I had given them half the lines! It was really written for me. And I’m easy to write for — it’s like writing for a big, barking dog."" And then the TV network hired someone else.  tells _Metz the story.  https://t.co/g2qelL79Xu",Mention,Male,False
+365,Negative,-0.225,False,0.6444444444444444,165151788,0.1124,344955115,1516391432214491139,0.101,0.775,0.124,"  
+Think you guys need to play a round here. Not sure where this is though. https://t.co/NtlunWgAPR",Mention,Male,False
+366,Neutral,0.0,False,0.0,285272770,0.0,344955115,1516385212103630849,0.0,1.0,0.0,"For MyWorstMoment:
+
+ tells me about the time he auditioned for a role that was based on his act — the character was basically him! — and they gave it someone else. 
+
+He comes to Chicago later this month. https://t.co/1kqjaEo9Wl",Mention,Male,False
+367,Neutral,0.0,False,0.0,2184989877,0.0,344955115,1516235266041786370,0.0,1.0,0.0, GoHeels,Mention,Male,False
+368,Positive,0.1273437499999999,False,0.5135416666666667,951616296,0.6943,344955115,1516228877277933568,0.0,0.859,0.141,"90s comedy in my head:
+""If it weren't for my horse...""  
+""I eat the last two just to tidy up, really.""  
+""I don't mean to offend you, but you look like Bobcat Goldthwait.""  
+""Rar!""  stomping across a mini Golden Gate Bridge",Mention,Male,False
+369,Positive,0.0681818181818181,False,0.7272727272727273,399547483,0.631,344955115,1516146825031471108,0.0,0.81,0.19,    That’s your opinion. Maher has his moments (especially his New Rules segment) but I keep getting entitled Boomer jokes from him.,Mention,Male,False
+370,Negative,-0.0277777777777777,False,0.3722222222222222,25449240,0.4927,344955115,1516144601048006656,0.048,0.825,0.127,"    By the way, Maher is way funnier than Lewis black. There’s a reason Maher has been working consistently for decades, and Lewis black is a ha am been with almost no career since 2012.",Mention,Male,False
+371,Positive,0.4333333333333333,False,0.7333333333333333,25449240,0.25,344955115,1516143963614425092,0.198,0.517,0.284,    Covid provokes strong opinions.,Mention,Male,False
+372,Neutral,0.0,False,0.75,399547483,-0.3657,344955115,1516143462474825737,0.19,0.68,0.131,   He’s turning more into a comedian in the mold of Dennis Miller than the subversive antagonist he used to be.  is waaay funnier when he’s being angry or griping about something.,Mention,Male,False
+373,Neutral,0.0,False,0.0,1315718054538600449,0.0,344955115,1516048939249770499,0.0,1.0,0.0,Hey  I think they’re horning into your business. https://t.co/Ji0hcAfiZW,Mention,Male,False
+374,Neutral,0.0,False,0.0,260808593,0.0,344955115,1516023123371606021,0.0,1.0,0.0," It took you a while, but you got to me. 
+Fore!",Mention,Male,False
+375,Positive,1.0,False,1.0,1172677350254886913,0.7263,344955115,1516013137006313474,0.0,0.568,0.432," Happy mythology day of your choice as well, Lew!",Mention,Male,False
+376,Neutral,0.0,False,0.0,35411013,0.0,344955115,1515892383136763906,0.0,1.0,0.0,AngryASMR I need me some  asmr 😂😂😂 https://t.co/prB7uOy8E5,Mention,Male,False
+377,Positive,0.98828125,False,0.8,1496294517577854977,0.877,344955115,1515891975442079747,0.0,0.436,0.564, Happy just another fkng day Lewis! Love you!!!,Mention,Male,False
+378,Positive,0.1428571428571428,False,0.2678571428571428,26826720,0.0,344955115,1515886226439487491,0.0,1.0,0.0, Right back atcha'.,Mention,Male,False
+379,Neutral,0.0,False,0.0,22877241,0.5228,344955115,1515861237309005824,0.0,0.842,0.158," Uh oh, I was the 666th ""like"" on this. Hope that doesn't negate both my Easter and my Passover.",Mention,Male,False
+380,Positive,0.7,False,0.6000000000000001,23812623,0.4404,344955115,1515844456972525569,0.0,0.633,0.367," To you also, good sir.",Mention,Male,False
+381,Neutral,0.0,False,0.0,1418990308780544010,0.0,344955115,1515818051865915401,0.0,1.0,0.0, 🙏,Mention,Male,False
+382,Positive,1.0,False,1.0,821983798212444161,0.8395,344955115,1515813733737857024,0.0,0.334,0.666, Happy Passover! Happy Easter! https://t.co/8bgm4ZCP0d,Mention,Male,False
+383,Neutral,0.0,False,0.0,927006804852162560,0.0,344955115,1515810997986111489,0.0,1.0,0.0,HappyEaster  to                    https://t.co/c4n2Zgcex4,Mention,Male,False
+384,Neutral,0.0,False,0.0,993625121834205184,0.0,344955115,1515807793395433473,0.0,1.0,0.0," talks to   on maintaining a cantankerous sort of optimism.
+
+https://t.co/VqNrBziJ4I",Mention,Male,False
+385,Positive,0.8,False,1.0,1381413312852717568,0.5719,344955115,1515804035420459014,0.0,0.519,0.481, Happy Zombie Jesus Day.,Mention,Male,False
+386,Neutral,0.0,False,0.0,751053614840438784,0.0,344955115,1515802897929445380,0.0,1.0,0.0, INCLUDING Atheism,Mention,Male,False
+387,Neutral,0.0,False,0.0,260756651,0.0,344955115,1515802894318022658,0.0,1.0,0.0, bah humbug,Mention,Male,False
+388,Positive,0.1,False,0.2,105926699,0.0,344955115,1515799234905182210,0.0,1.0,0.0," donating old firearms to Ukaine?
+https://t.co/whnERmoEJz",Mention,Male,False
+389,Neutral,0.0,False,0.0,529592118,0.0,344955115,1515798026954199040,0.0,1.0,0.0, https://t.co/ds7O7m4oIh,Mention,Male,False
+390,Positive,0.15625,False,0.5625,1146090200323559426,0.5983,344955115,1515797878572212243,0.0,0.505,0.495," same to you, my funny escape!",Mention,Male,False
+391,Neutral,0.0,False,0.0,2252408713,0.0,344955115,1515796999035047940,0.0,1.0,0.0, 🙌🏽🎉🎉🎉🎉🎉💥💥🔥🔥🔥👍🏽👊🏽🤘🏽🤘🏽👊🏽👍🏽🤌🏽🇺🇸🗽🇺🇦💯🎯✌🏾🐇💥🐇,Mention,Male,False
+392,Neutral,0.0,False,0.0,161882442,0.0,344955115,1515796974108348417,0.0,1.0,0.0, 3 days later He came back as a white guy. https://t.co/pHYhlGURum,Mention,Male,False
+393,Neutral,0.0,False,0.0,920676386335023104,0.0,344955115,1515796776724348930,0.0,1.0,0.0, https://t.co/IO4NsabXTH,Mention,Male,False
+394,Neutral,0.0,False,0.0,2740757913,0.0,344955115,1515796209788674052,0.0,1.0,0.0, My middle finger trips my trigger.,Mention,Male,False
+395,Neutral,0.0,False,0.0,1390699201818873857,0.0,344955115,1515796141186682885,0.0,1.0,0.0, Looking forward to seeing you in 12 days in Detroit.,Mention,Male,False
+396,Positive,0.2,True,0.8,1509500656440074242,0.0516,344955115,1515795891419955200,0.343,0.294,0.363, Happy go fuck yourselves,Mention,Male,False
+397,Positive,1.0,False,1.0,27864496,0.6114,344955115,1515795826546782215,0.0,0.334,0.666, Happy Curmudgeoning!,Mention,Male,False
+398,Positive,0.8,False,1.0,844386235493732353,0.5719,344955115,1515795770074550272,0.0,0.351,0.649, Happy bonging,Mention,Male,False
+399,Positive,0.8,False,1.0,1242935575709171714,0.5719,344955115,1515795293303934985,0.0,0.684,0.316, Happy Passover Lewis- to you and your family❤️,Mention,Male,False
+400,Positive,1.0,False,1.0,781246423,0.6249,344955115,1515795118787379209,0.0,0.196,0.804, Awesome,Mention,Male,False
+401,Positive,0.8,False,1.0,1356669858495275011,0.6114,344955115,1515795063032500229,0.0,0.75,0.25,  Lewis is in my sister in laws bathroom! Happy Easter 💜 https://t.co/y22tm1JGwE,Mention,Male,False

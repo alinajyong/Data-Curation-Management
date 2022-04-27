@@ -1,0 +1,692 @@
+,Analysis,Polarity,Profanity,Subjectivity,author id,compound,for,id,neg,neu,pos,text,type,Gender,Activist
+0,Positive,0.5,False,0.7,987949034911383552,-0.2732,21456548,1490320680831037443,0.141,0.763,0.096," ON THE RECORD - defund police/soft on crime - innocent killings-Cori Bush, A Orcasio-Cortez,Ilhan Omar,Pressley,LetitiaJames,DiBlasio,MayorWheeler (Or), Kim Foxx,Larry Krasnier,Bragg,Kim Gardner,Chesea Boudin,Abrams GeorgeGascon,Bidens,Psaki,Eric Adams,Tlaibetc",Mention,Male,True
+1,Positive,0.4,True,0.9444444444444444,1416120591095148550,0.6249,21456548,1490186908202422276,0.0,0.812,0.188," You're correct.  Let's make sure to vote them out. There are ""powerful people""
+working tirelessly to keep Trump aka Hitler out the Whitehouse.",Mention,Male,True
+2,Positive,0.05,False,0.2416666666666666,1416120591095148550,0.5719,21456548,1490169182599659521,0.0,0.879,0.121," ""Political Discourse"" is what they say it is (01/06/21, never happened. However, it's  just a Redherring. It's clear that January 6, 2021, was committed by dysfunctional people who believe that the country  is overrun by immigrants.",Mention,Male,True
+3,Negative,-0.078125,False,0.328125,16795628,-0.128,21456548,1489877425567809541,0.061,0.939,0.0,": : What does ""legitimate political discourse"" mean, coming from the same people currently censoring educators, banning books, and silencing voters? https://t.co/1MBG0f3efB",Mention,Male,True
+4,Neutral,0.0,False,0.1,1276279148,0.4019,21456548,1489767623646605319,0.0,0.828,0.172," I think to them it means ""any expression in favor of our political views.""",Mention,Male,True
+5,Neutral,0.0,False,0.0,245424983,-0.7003,21456548,1489742717173129222,0.365,0.516,0.119," Discourse yes, but what about that violence and incitement ?",Mention,Male,True
+6,Neutral,0.0,False,0.25,2925941466,0.2732,21456548,1489738479189831684,0.0,0.826,0.174, Just recently happened in Las Vegas as well. To a 19-year-old.,Mention,Male,True
+7,Negative,-0.5,False,1.0,82764915,-0.4767,21456548,1489737869816119302,0.22,0.78,0.0, Sad thing is. Without that video. This would get covered up.,Mention,Male,True
+8,Negative,-0.078125,False,0.328125,215089930,-0.128,21456548,1489737230847410177,0.061,0.939,0.0,"""What does 'legitimate political discourse' mean, coming from the same people currently censoring educators, banning books, and silencing voters?"" asks  
+https://t.co/8a9QhV3tMX via ",Mention,Male,True
+9,Positive,0.5,False,0.5,2254236379,0.91,21456548,1489705321945829383,0.0,0.675,0.325,"Honored to join my remarkable peers  ,  , and   to discuss philanthropy’s role in supporting racial equity. Listen to our  GivingDoneRight episode. BlackHistoryMonth  https://t.co/V3mNxKNnZq https://t.co/27ST6zJRVi",Mention,Male,True
+10,Neutral,0.0,False,0.0,3035456878,0.0,21456548,1489689585542119440,0.0,1.0,0.0, nothing legitimate about it. https://t.co/VViawFN54X,Mention,Male,True
+11,Positive,0.1361111111111111,False,0.3055555555555555,3130741773,0.8442,21456548,1489688645976006658,0.0,0.818,0.182,  It means that they maintain epistemic rich wyt male privilege to determine the narratives and construct social norms that benefit them and oppress the rest of us. They are claiming their devine entitlement and situating their perceived legitimacy as the ruling class.,Mention,Male,True
+12,Positive,0.25,False,0.3125,52878071,0.6124,21456548,1489687628530294793,0.0,0.8,0.2," mostly it has to do with whether the people involved look like them, talk like them, go to the same churches",Mention,Male,True
+13,Negative,-1.0,False,1.0,1101113420764581888,-0.5267,21456548,1489687051045904393,0.531,0.469,0.0, They're disgusting smdh,Mention,Male,True
+14,Negative,-0.0277777777777777,True,0.5555555555555556,159476726,-0.0857,21456548,1489423175528194048,0.081,0.805,0.114,"  Earlier today I posted on FB about C&amp; the increased number of books about and/or by Black people. I shared this in the comments. My sister-in-law, an associate professor at a local college, responded with ""The level of STUPID surrounding this whole issue is astounding.""",Mention,Male,True
+15,Positive,0.4375,False,0.65,2393038355,0.9041,21456548,1489212472745676800,0.0,0.455,0.545, hoping you and accept the collegefundchallenge to help my college dream come true! https://t.co/Leetc6I0eb,Mention,Male,True
+16,Negative,-0.3083333333333333,True,0.4916666666666667,1419837538685046789,-0.7003,21456548,1489057384114888708,0.244,0.756,0.0,  A person has to wonder why proper forest fire management wasn't done. Saving some money for other stupid stuff?,Mention,Male,True
+17,Positive,0.2348484848484848,False,0.5606060606060606,892340299,-0.0258,21456548,1489044093619552261,0.12,0.763,0.118,"  The people who say ""We Need Bold New Idea to Combat Climate Change” are the ones who is refusing to just listen for that change they speak of. Inverted Transfer Energy eco-tech is designed to maintain the battery bank charged for off-grid renewable energy system whenever needed. https://t.co/5azUrMZemk",Mention,Male,True
+18,Neutral,0.0,False,0.0,987949034911383552,0.0,21456548,1489027137722253312,0.0,1.0,0.0,"  Gen.McInerney/Flynn-Genocide-CovidFentanyl-Evil Enterprise-'HammerandScorecard'fraud/etc explained.Ledby Barack Hussein Obama(Rice,Clapper,Brennan,Gates,Soros,Clinton,Biden,etc) Masonic/judiciary/military/congress.Post Olympicglobalspread.
+https://t.co/5nGyfp4RYo",Mention,Male,True
+19,Neutral,0.0,False,0.0,1308541572955467778,0.0,21456548,1489005266792325124,0.0,1.0,0.0," ...
+Others won't hear the dog whistle, just Kennedy being faux folksy, albeit pathologically opposed to anything hinting of judicial activism.",Mention,Male,True
+20,Positive,0.1287878787878787,False,0.3181818181818182,1308541572955467778,-0.7717,21456548,1489004727387971592,0.19,0.723,0.087," Re ""This isn't a dogwhistle, it's a bullhorn"":
+
+Well, bullhorn to people who are either
+
+a. Already convinced that Kennedy is a racist, which primes them to find an offensive meaning in the J Crew phrase, or
+
+b. Aware that racists have recently adopted ""woke"" as a new n-word....",Mention,Male,True
+21,Neutral,0.0,False,0.0,1462034006468403204,0.0,21456548,1488929491435012101,0.0,1.0,0.0, https://t.co/dKCwEF36be,Mention,Male,True
+22,Neutral,0.0,False,0.0,1351552880487108610,0.0,21456548,1488918075302989828,0.0,1.0,0.0,"_Black_Jedi  aahhh, makes sense",Mention,Male,True
+23,Neutral,0.0,False,0.0625,3433599424,-0.4329,21456548,1488917168557379585,0.226,0.673,0.101,  Are these the same white supremacist that attacked Jussie Smollett?? 🤔,Mention,Male,True
+24,Neutral,0.0,False,0.0,3433599424,0.0,21456548,1488916212193112069,0.0,1.0,0.0,  Jussie Smollett told them…,Mention,Male,True
+25,Neutral,0.0,False,0.0,17410792,0.0,21456548,1488604233633042434,0.0,1.0,0.0,"Hold your horses, Ivermectin stans           _Kosuth     https://t.co/hs8edqCP6G",Mention,Male,True
+26,Neutral,0.0,False,0.0,1351552880487108610,0.1531,21456548,1488599422967730177,0.091,0.795,0.114," ""white nationalists have targeted""
+How do you know this?
+The article didn't say that they had any suspects or persons of interest.",Mention,Male,True
+27,Neutral,0.0,False,0.0,1377725744776933382,-0.5267,21456548,1488454320727248898,0.207,0.793,0.0,         My Civil-rights were violated. https://t.co/9zo6hZxoAc,Mention,Male,True
+28,Positive,0.0666666666666666,True,0.7333333333333334,1457372124348305412,-0.5423,21456548,1488354222890487815,0.108,0.892,0.0, Gee. Evidence means fuck all to some folks now don’t it. And when the prosecutions own witnesses didn’t testify the way they wanted them to? Must’ve been a different trial.,Mention,Male,True
+29,Neutral,0.0,False,0.0,1487660163641143296,0.0,21456548,1488332622249877508,0.0,1.0,0.0,"لَیۡلَۃُ  الۡقَدۡرِ   ۬ ۙ خَیۡرٌ  مِّنۡ  اَلۡفِ شَہۡرٍ ؕ﴿ؔ۳﴾
+ شب قدر ایک ہزار مہینوں سے بہتر ہے ۔  
+نماز_قائم_کرو 
+خاتم_النبیین_محمدﷺ 
+",Mention,Male,True
+30,Negative,-0.2172981770833333,False,0.4541666666666666,1161457548,-0.9175,21456548,1488327392233930762,0.27,0.73,0.0," Exactly!!! And those very vicious racists, revisionists, and pseudo white supremacists are also attempting to socio-politically paint all Black cultural, educational and very painful history here in America with the utterly FALSE narrative brush and label of CriticalRaceTheory!",Mention,Male,True
+31,Positive,0.475,False,0.475,279625079,0.7332,151967576,1518735534037811210,0.182,0.589,0.229,"  : Hatred is not the way. Neither is fear. The cowards in the above video will get theirs a.k.a. karma. Or maybe they won't.
+
+But we have to put our best foot forward through protest, art, and, most importantly, meritorious litigation via lawsuits to make them stop.",Mention,Male,True
+32,Positive,0.4839015151515151,False,0.4696969696969697,1047223647595839488,0.8553,151967576,1518732899339669505,0.106,0.447,0.447,    Positive Black Power at its Best keep up the good fight! ❤,Mention,Male,True
+33,Neutral,0.0,False,0.0,1455980217898520578,0.0,151967576,1518731826243768321,0.0,1.0,0.0, 💔💔💔💔💔💔,Mention,Male,True
+34,Neutral,0.0,False,0.0,717337177,-0.2732,151967576,1518723782474706948,0.344,0.656,0.0,  blocked - Done ✔️,Mention,Male,True
+35,Neutral,0.0,False,0.0,717337177,0.0,151967576,1518723471009845255,0.0,1.0,0.0,  go away,Mention,Male,True
+36,Negative,-0.1666666666666666,False,0.4333333333333333,717337177,0.5267,151967576,1518721899303522304,0.0,0.841,0.159,   for you to think that a black child and his family don’t deserve justice is your bigotry,Mention,Male,True
+37,Positive,0.3428571428571428,False,0.4678571428571428,1385666555426578435,-0.3291,151967576,1518719712192040966,0.126,0.821,0.052," Mr Crump. Can you please look into this story. Idk these ppl at all, but this story doesn't sound right and screams of coverup
+JusticeForShed
+
+https://t.co/SwxGe9pwXF https://t.co/80zsoqq58m https://t.co/eSMaUC8cLY",Mention,Male,True
+38,Positive,0.1,False,0.4,1494050959881764864,0.0,151967576,1518716688845262849,0.0,1.0,0.0, My heart continues to be with the young man’s family.,Mention,Male,True
+39,Neutral,0.0,False,0.1,33591930,-0.8555,151967576,1518716632125919234,0.251,0.749,0.0,HAPPENING TOMORROW:  will hold a press conference in Orlando tomorrow discussing the filing of a lawsuit in the death if Tyre Sampson who died following a fall from a ride at ICON Park. https://t.co/HVpymIU9DV,Mention,Male,True
+40,Positive,0.5,False,0.5,474545548,0.5256,151967576,1518716076149944320,0.0,0.747,0.253,   you should probably focus on getting more friends,Mention,Male,True
+41,Neutral,0.0,False,0.0,3805176615,0.3612,151967576,1518714900583010304,0.0,0.444,0.556, Thank you,Mention,Male,True
+42,Negative,-0.05,False,0.2,815968436799078400,0.1027,151967576,1518712056119185408,0.082,0.776,0.142, I want to start a class action lawsuit on behalf of workers in Republican States that were permanently disabled. Would I have a chance.,Mention,Male,True
+43,Neutral,0.0,False,0.0,717337177,0.4939,151967576,1518711638534328323,0.0,0.61,0.39,   and don’t care,Mention,Male,True
+44,Neutral,0.0,False,0.0,346020368,0.4019,151967576,1518707602221420544,0.0,0.69,0.31,    Yes ma’am ✊🏾❤️🇺🇸,Mention,Male,True
+45,Negative,-0.05,False,0.05,69221077,0.0772,151967576,1518705392007622656,0.0,0.874,0.126,  &lt;sigh&gt; He's a civil rights attorney. What's your excuse?,Mention,Male,True
+46,Negative,-0.03125,False,0.46875,69221077,0.4019,151967576,1518705212390739968,0.0,0.787,0.213,"  Yes Karen, I mean Christina...that's exactly what he's talking about.",Mention,Male,True
+47,Neutral,0.0,True,0.0,984969226749468673,-0.6808,151967576,1518704639364980738,0.315,0.685,0.0,   What the hell are you saying? Try English.,Mention,Male,True
+48,Neutral,0.0,False,0.0,38505682,0.6862,151967576,1518697079287074816,0.053,0.649,0.298,"    Don't Stop , Want Stop, Ever for our Rights all Rights and Respect. And Policy Change.",Mention,Male,True
+49,Negative,-0.1666666666666666,False,0.4333333333333333,474545548,0.0,151967576,1518695309198733313,0.0,1.0,0.0,   also needs to sue Florida for passing congressional maps that eliminate 2 black voting districts,Mention,Male,True
+50,Neutral,0.0,False,0.0,1063168788236042242,0.0,151967576,1518687159204597763,0.0,1.0,0.0,"    
+  https://t.co/NRunjDwrd8",Mention,Male,True
+51,Positive,0.8,False,0.7,717337177,0.4215,151967576,1518682996735451137,0.0,0.417,0.583,  lol,Mention,Male,True
+52,Neutral,0.0,False,0.0,984969226749468673,0.0,151967576,1518682818829643776,0.0,1.0,0.0,   You will never learn.,Mention,Male,True
+53,Positive,0.4,False,0.8,877341770081808385,-0.8002,151967576,1518682089012477952,0.217,0.681,0.101,"MEDIA ALERT:  and Bob Hilliard will hold a news conference tomorrow (4/26) at 2 PM ET to discuss the filing of a lawsuit in the death of Tyre Sampson, the 14-year-old who tragically fell to his death from the Orlando Free Fall ride at ICON Park on March 24. https://t.co/KCuBE6BYb5",Mention,Male,True
+54,Positive,0.2,False,0.2,3926697793,0.7964,151967576,1518676545434492929,0.0,0.855,0.145,"     If WE who believe in FREEdom can not rest was a picture I would include you all + me. Thanks to each of you for the WORK you do ForThePeople towards CivilRights in Media, Voting Rights &amp; Voter Education. UnitedWeWin LjHollowayForCongress 💪🏾⚖️🗳",Mention,Male,True
+55,Neutral,0.0,False,0.0,804066628065431553,-0.4939,151967576,1518670488301707264,0.516,0.484,0.0, You are a disgrace,Mention,Male,True
+56,Neutral,0.0,False,0.0,1242586450195087366,0.0,151967576,1518669482784350210,0.0,1.0,0.0, You need to be voted out also,Mention,Male,True
+57,Neutral,0.0,False,0.0,1355953670,-0.3818,151967576,1518663775154577410,0.464,0.536,0.0, Fight the power,Mention,Male,True
+58,Neutral,0.0,False,0.0,890539558865182720,0.0,151967576,1518657812087324673,0.0,1.0,0.0,_MD                    ,Mention,Male,True
+59,Negative,-0.6333333333333332,False,0.6888888888888888,717337177,-0.9042,151967576,1518644523278213120,0.505,0.495,0.0, all these whyt people on here are disgusting talking bad about a dead child,Mention,Male,True
+60,Neutral,0.0,False,0.0,717337177,0.0,151967576,1518644307414159361,0.0,1.0,0.0,   You’re a troll 😈,Mention,Male,True
+61,Negative,-0.5,False,0.9,717337177,-0.4767,151967576,1518644116900483072,0.147,0.853,0.0,   He don’t know the rules. He is a child. An employee does. What is wrong with you?,Mention,Male,True
+62,Neutral,0.0,False,0.0,1328159191773700096,0.0,151967576,1518640604795838466,0.0,1.0,0.0, https://t.co/zeO2VHyAUJ,Mention,Male,True
+63,Negative,-0.25,False,0.1999999999999999,1328159191773700096,-0.5423,151967576,1518634197203750913,0.412,0.588,0.0,"  Oof, big fail. https://t.co/ymW5d5Nlse",Mention,Male,True
+64,Positive,0.5,False,0.8888888888888888,1328159191773700096,0.5719,151967576,1518632350728523778,0.0,0.63,0.37," Make sure you play the race card, grifter crump.",Mention,Male,True
+65,Negative,-0.5,True,0.6,812065854,-0.8011,151967576,1518630371847557120,0.444,0.556,0.0,"Check out 🖤💜Melissa🖤💜's video! TikTok https://t.co/cMGXiwf6v9
+ 
+Fuck the goddamn police!",Mention,Male,True
+66,Neutral,0.0,False,0.0,1249777753337012224,0.0,151967576,1518623311726628864,0.0,1.0,0.0,,Mention,Male,True
+67,Positive,0.85,False,1.0,3308827023,0.5994,151967576,1518622575152226307,0.0,0.506,0.494,    Beautiful,Mention,Male,True
+68,Negative,-0.75,False,0.75,3434298399,-0.8481,151967576,1518615626641780736,0.242,0.758,0.0,"BREAKING:  and  are among the attorneys that filed a lawsuit moments ago on behalf of the family of Tyre Sampson, 14, whose tragic death in March at the  stunned the nation.  lawtwitter 
+https://t.co/xgOcVNei0Q",Mention,Male,True
+69,Negative,-0.1666666666666666,False,0.4333333333333333,470283065,0.0,151967576,1518612549905928195,0.0,1.0,0.0, _dem               _2 _OldGeezer1950  Those boys don’t know it means you can’t teach black history.,Mention,Male,True
+70,Neutral,0.0,False,0.0,1061123857,0.0,151967576,1518611634297602048,0.0,1.0,0.0, ❤️💯,Mention,Male,True
+71,Neutral,0.0,False,0.0,1458176120,-0.2263,151967576,1518608791000035329,0.174,0.826,0.0,Watch  press conference now re lawsuit against wellsfargo : https://t.co/ryBned1sF7,Mention,Male,True
+72,Positive,0.1072727272727272,True,0.2692424242424242,65168928,0.5319,151967576,1518600118307803137,0.0,0.928,0.072,   _NLG   It’s the same thing released the day of the shooting… it’s been over a week and nothing new as came to light? My daughter called your office last week and still hasn’t received a call back.   WE NEED HELP,Mention,Male,True
+73,Neutral,0.0,False,0.0,1237524714152759301,0.0,151967576,1518595914717437956,0.0,1.0,0.0,    Power.,Mention,Male,True
+74,Neutral,0.0,False,0.0,1249777753337012224,0.0,151967576,1518594734654173184,0.0,1.0,0.0, https://t.co/Yjnu6kybgu,Mention,Male,True
+75,Neutral,0.0,False,0.0,2410178711,-0.6562,151967576,1518592529465233409,0.193,0.683,0.124,  Please understand that there is no heaven that people go to immediately after death because if that was the case there would be no need for a resurrection and a judgment. We should continue helping the people of Ukraine and also fix the water problem in Flint Michigan as well!!!!,Mention,Male,True
+76,Neutral,0.0,False,0.0,2276474864,0.0,151967576,1518577877410848770,0.0,1.0,0.0,       https://t.co/99dYBa5tOL,Mention,Male,True
+77,Neutral,0.0,False,0.0,1241763048995635200,0.0,151967576,1518565005402292225,0.0,1.0,0.0,  🤦🏼,Mention,Male,True
+78,Negative,-0.1,False,0.475,24600821,-0.7003,151967576,1518564156911370245,0.188,0.812,0.0,   imagine if we were all judged by a childhood mistake to be destined to be a career criminal requiring police intervention to be “scared straight” …🤦🏾‍♀️,Mention,Male,True
+79,Neutral,0.0,False,0.0,888672024,0.0,151967576,1518557570209824768,0.0,1.0,0.0,    ❤️,Mention,Male,True
+80,Neutral,0.0,False,0.0,25878163,0.0,151967576,1518542400649678848,0.0,1.0,0.0, Awwww!🤗,Mention,Male,True
+81,Neutral,0.0,False,0.0,2346523186,0.0,151967576,1518538351510441985,0.0,1.0,0.0,    https://t.co/OPnCgTY3Yl,Mention,Male,True
+82,Neutral,0.0,False,0.0,1079429091546316800,0.0,151967576,1518537033572130816,0.0,1.0,0.0,    ❤❤❤❤❤,Mention,Male,True
+83,Neutral,0.0,False,0.0,1286161147,0.7644,151967576,1518521343117045760,0.0,0.577,0.423,    This photo brings hope and inspiration! ❤️,Mention,Male,True
+84,Positive,0.175,False,0.4916666666666666,1364756283186905089,-0.9711,151967576,1518507896371359744,0.376,0.519,0.105,"  Yes. I know there are some good cops, but the killer ones are giving them all a bad name. People complain about cop killers, BUT so much of the time, some cops have harassed the shooters of cops one too many times.",Mention,Male,True
+85,Negative,-0.0431972789115646,False,0.6292517006802721,1364756283186905089,0.2975,151967576,1518507403360227329,0.161,0.627,0.212,"  No, Michele, it is not ""just you"". It seems to me they are targeting black people in general, with college students a favorite ""category"". They probably play it like a game and get ""bonus points"" when killing certain one. It is the most disgusting thing I've ever seen.",Mention,Male,True
+86,Positive,0.25,False,0.25,1364756283186905089,0.128,151967576,1518506756305006593,0.0,0.903,0.097,  I would bet that most (if not all) do belong to a white supremacist group.,Mention,Male,True
+87,Positive,0.2104166666666666,False,0.5125,1364756283186905089,-0.474,151967576,1518506508358754306,0.18,0.687,0.133,  Every time an innocent person is shot in the street by cops with NO cause for it we should all be screaming for JUSTICE from Law Enforcement. Labeling people of other races does not work and in the long run causes more murders of innocent people. Should have stopped LONG AGO!,Mention,Male,True
+88,Positive,0.5,True,0.7,1364756283186905089,-0.6734,151967576,1518505923555348481,0.277,0.576,0.147,   knows there are millions who support him and his work for all the innocent victims of murder by cops who don't care.,Mention,Male,True
+89,Negative,-0.375,True,0.625,1364756283186905089,-0.9184,151967576,1518505483031781379,0.317,0.683,0.0,   Hundreds of them have been getting away with exactly that. It is sickening. They shoot to kill people they know NOTHING about and it needs to stop (years ago!).,Mention,Male,True
+90,Positive,0.49375,False,0.5874999999999999,1364756283186905089,-0.7088,151967576,1518505003400540160,0.204,0.728,0.067,  Exactly. They just look at a person and think they perceive what kind of person they see. We need to prosecute more cops who are murdering innocent people!,Mention,Male,True
+91,Neutral,0.0,True,1.0,1364756283186905089,0.3578,151967576,1518504673656905729,0.111,0.725,0.164," Thank God Finally!! These renegade cops who think they are ""GOD"" and that any assumption they have about any person will be correct MUST be stopped. People like this should be in prison, NOT working for ""Law Enforcement"".",Mention,Male,True
+92,Neutral,0.0,False,0.0,229552128,0.0,151967576,1518500825424961536,0.0,1.0,0.0,    ❤️❤️❤️,Mention,Male,True
+93,Positive,0.3546875,False,0.475,229552128,0.9802,151967576,1518499312568872962,0.0,0.507,0.493,If you need a little hope…Here’s a photo of the legal dream team and my friends. Having lunch with these Brilliant legal minds that love justice and love our people! ⁦ ⁦⁩ ⁦⁩. Love is an action word. ❤️ https://t.co/hQJxKsl93e,Mention,Male,True
+94,Negative,-0.11875,False,0.6125,1300517639639498752,-0.9404,151967576,1518456196394532864,0.336,0.591,0.073," Ben, 17 deaths per 100k is an awfully low number. While a child birth death is tragic to any mother and family, to sound the alarm like the numbers are out of control and call it a crisis is extremely misleading. jmo",Mention,Male,True
+95,Positive,0.45,False,0.6784722222222221,879405971935698944,0.9287,151967576,1518439149409234944,0.0,0.599,0.401," 1 it's a girl 2 children need encouragement, positivity and kind words 3 I too am sure she will have a bright future in whatever she chooses to do.",Mention,Male,True
+96,Neutral,0.0,False,0.5333333333333333,1267765026665803776,-0.8221,151967576,1518436265305292806,0.27,0.608,0.122," The death rate of women during pregnancy is extremely low in the US, so 3x of basically nothing is also basically nothing.
+
+This misleads at best, and at worst makes uninformed followers dream up conspiracy theories.",Mention,Male,True
+97,Positive,0.2,True,0.3,42430870,-0.9531,151967576,1518415637546258432,0.448,0.552,0.0,"   Think the real problem is racism and the history burning bodies hanging from tress,  murder, rape and I could go on forever",Mention,Male,True
+98,Negative,-0.5,False,0.55,970196622,-0.5267,151967576,1518411652475113473,0.274,0.726,0.0,_Flynn1405  You are a disgusting human for even typing this.,Mention,Male,True
+99,Negative,-0.0333333333333333,True,0.5666666666666668,42430870,-0.8055,151967576,1518392569226481664,0.192,0.761,0.047,   You wyt ppl kill me with that shit why not just don’t  shoot someone. Is it because young wyt kids not getting shot even though we see countless videos of them not complying,Mention,Male,True
+100,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518390144818384896,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/RueTsNwCRn",Mention,Male,True
+101,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518390006418743305,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/4WQXRZrvdQ",Mention,Male,True
+102,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518389873052319744,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/DDitVJNO5s",Mention,Male,True
+103,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518389214894776321,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/OvtjmxoZ8d",Mention,Male,True
+104,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518388971432300544,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/qDUdI32gPT",Mention,Male,True
+105,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518388836237295616,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/zl1yD0YMls",Mention,Male,True
+106,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518388380798787587,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/l9Kt6Q1F7X",Mention,Male,True
+107,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518388165903540227,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/N0WgpgRT5k",Mention,Male,True
+108,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518388057015214082,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/hnE3io3CH0",Mention,Male,True
+109,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518387913150672896,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/OjeuG71uOn",Mention,Male,True
+110,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518387735588970497,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/NvzuugZvnL",Mention,Male,True
+111,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518387407913107456,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/bG3gyvL9qu",Mention,Male,True
+112,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518386949077229568,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/Wpx8XsXWLD",Mention,Male,True
+113,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518386640305147904,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/uPSKivSCNm",Mention,Male,True
+114,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518386497522745344,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/gjvYPtITo1",Mention,Male,True
+115,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518386133540827137,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/sDoXttKd7V",Mention,Male,True
+116,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518385861729128448,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/9Z4hV0ydQB",Mention,Male,True
+117,Positive,0.6,False,0.55,1502326314442706944,0.1103,151967576,1518385535206580226,0.09,0.793,0.117,"  Either an applicant can prove they have the means to repay a loan or they cannot. That means good credit score, assets to debt ratio and sustained gainful employment of more than 6 months. It is not discrimination to deny lending to those who cannot meet that criteria.",Mention,Male,True
+118,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518384703778217984,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/rTDH8fKeBp",Mention,Male,True
+119,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518384574912421888,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/pomRx78fIw",Mention,Male,True
+120,Positive,0.0224999999999999,True,0.3777777777777777,1302027722084855808,-0.5994,151967576,1518384445836775424,0.139,0.809,0.052, I think you should represent that mom and grandmother that forced the 4 yr old little girl to drink vodka as a punishment. I’m sure that some “Karen” is at the root of that. Gotta be BIG money there for you.,Mention,Male,True
+121,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518384267109314561,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/MyjnVvdV3O",Mention,Male,True
+122,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518383992948539392,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/wlP2AIfxz2",Mention,Male,True
+123,Negative,-0.1666666666666666,False,0.4333333333333333,1492315442052018176,0.0,151967576,1518383778737143814,0.0,1.0,0.0,"BlackHistoryandConnections Black
+blackexcellence BlackOwned BlackLivesMatter ReparationsNow BlackHistoryMonth Freedmen BHM  _LDF      https://t.co/MaOwUV6dgF",Mention,Male,True
+124,Positive,0.1629629629629629,False,0.5574074074074074,1502326314442706944,0.7476,151967576,1518382936927596544,0.186,0.534,0.28, Maybe if black women took better care of themselves they wouldn’t have this mortality crisis. What is the % of black women dying compared to those who don’t are obese vs a healthy weight? Poor dirty vs great healthy diet? Self-reflection sounds better than blame the “system.”,Mention,Male,True
+125,Neutral,0.0,True,0.0,298893654,-0.6369,151967576,1518382372252758017,0.127,0.873,0.0,Texas mom scheduled for execution asks for pardon……Somebody get ⁦⁩  ⁦⁩  on the dam phone…. Where’s ⁦⁩ when you need her🤦🏾‍♀️anyway…cause she pissed me off in the ⁦⁩  interview 🤬 https://t.co/bxpoCf6Z4y,Mention,Male,True
+126,Positive,0.0833333333333333,False,0.3833333333333333,1502326314442706944,-0.743,151967576,1518382319454720001,0.13,0.87,0.0, Black women &amp; men are just built differently than Caucasians. That is just a fact. Blacks are more inherently prone to Cardiomyopathy &amp; Blood Pressure Disorders that whites. That biological and physiological fact has nothing to do with any medical health disparities or racism.,Mention,Male,True
+127,Neutral,0.0,False,0.0,81985580,0.0,151967576,1518372743137439747,0.0,1.0,0.0,  When does Ben sleep?,Mention,Male,True
+128,Neutral,0.0,False,0.0,1119662388809224192,0.4824,151967576,1518371063780061186,0.043,0.839,0.118,"MEDIA ALERT: 
+
+ and co-counsel Linda Friedman &amp; Suzanne Bish will hold a press conference tomorrow (4/25) at 11 AM ET with plaintiffs and class members in the ongoing litigation against Wells Fargo for its discriminatory loan practices. https://t.co/tql7cvPNsT",Mention,Male,True
+129,Neutral,0.0,False,0.0,877341770081808385,0.4824,151967576,1518369536369696768,0.043,0.839,0.118,MEDIA ALERT:  and co-counsel Linda Friedman &amp; Suzanne Bish will hold a press conference tomorrow (4/25) at 11 AM ET with plaintiffs and class members in the ongoing litigation against Wells Fargo for its discriminatory lending practices. https://t.co/Nz6UXJE2ts,Mention,Male,True
+130,Positive,0.55,False,0.95,45979899,0.5954,151967576,1518368788135268362,0.065,0.74,0.195,"  You ask excellent questions. These cases have moved to the multi-million dollar category, so don't be surprised if every answer is well managed.",Mention,Male,True
+131,Negative,-0.625,False,1.0,119972954,-0.5441,16976061,1518317561447804928,0.53,0.47,0.0, I’m so sorry I missed this!,Mention,Male,True
+132,Positive,0.4931818181818181,False,0.7272727272727273,32608975,0.9062,16976061,1518311376573407237,0.0,0.601,0.399,"Blessed to have a new piece from  in our home. Pairs beautifully with another by  
+
+Celebrating JusticeKetanjiBrownJackson ♥️♥️ https://t.co/VOCMqbKUhv",Mention,Male,True
+133,Neutral,0.0,False,0.0,1517476246858387456,0.0,16976061,1518205056847429639,0.0,1.0,0.0, Eligible:    _      _motto  _demarzo  __Dean   _CCCR  _nft   ,Mention,Male,True
+134,Neutral,0.0,False,0.0,1517476246858387456,0.0,16976061,1518180339633512449,0.0,1.0,0.0, Eligible:    _      _motto  _demarzo  __Dean   _CCCR  _nft   ,Mention,Male,True
+135,Neutral,0.0,False,0.0,1516211945195642881,0.0,16976061,1518100369771057152,0.0,1.0,0.0, _nft    _NFT_Artist     _Newport           _5oo,Mention,Male,True
+136,Neutral,0.0,False,0.0,1516221542383984644,0.0,16976061,1518100367619334145,0.0,1.0,0.0,     _      _motto  _demarzo  __Dean   _CCCR  _nft ,Mention,Male,True
+137,Neutral,0.0,True,0.0,1399600538744852487,0.0,16976061,1517862484157374464,0.0,1.0,0.0," _Lunartics  
+ 
+
+letss go omg",Mention,Male,True
+138,Neutral,0.0,False,0.0,1416751341117087747,0.0,16976061,1517520263772004353,0.0,1.0,0.0,"_eth    
+ 
+",Mention,Male,True
+139,Neutral,0.0,False,0.0,1437490579529613312,0.0,16976061,1516448093247610885,0.0,1.0,0.0,"   __ 
+",Mention,Male,True
+140,Negative,-0.2444444444444444,False,0.6444444444444445,1452580494709776393,0.3612,16976061,1516445625583341580,0.085,0.746,0.169,"   yes, please read another ridiculous book Anti-Racist Baby. All a bunch of divisive trash being shoved down the throats of our children ",Mention,Male,True
+141,Positive,0.45,False,0.7000000000000001,1169306665562398720,0.5994,16976061,1516128370932736009,0.0,0.83,0.17," This is beautiful. Look at your work, it is different now... On this one there is a lot more movement.",Mention,Male,True
+142,Positive,0.5,False,0.75,95148118,0.8353,16976061,1515873338928902145,0.0,0.388,0.612,   Congrats! Such a beautiful book!,Mention,Male,True
+143,Neutral,0.0,False,0.0,1513147958442799111,0.0,16976061,1515728415168606210,0.0,1.0,0.0,"_Ukiyo 
+
+
+
+",Mention,Male,True
+144,Positive,1.0,False,0.3,1211920279955365888,0.6696,16976061,1515450208209051651,0.0,0.471,0.529,  is the best!,Mention,Male,True
+145,Neutral,0.0,False,0.0,1322983523398127618,0.0,16976061,1515406956105814016,0.0,1.0,0.0,   🥲😍,Mention,Male,True
+146,Neutral,0.0,False,0.0,1416740930112024582,0.0,16976061,1515291464237924353,0.0,1.0,0.0,"   
+ 
+",Mention,Male,True
+147,Positive,0.85,False,1.0,3057771550,0.6361,16976061,1515092414976958464,0.0,0.589,0.411,  This is absolutely beautiful ❤️,Mention,Male,True
+148,Positive,0.0928571428571428,False,0.3678571428571429,558144869,-0.2023,16976061,1514728055490715658,0.09,0.855,0.056, Wait till you get to the age where you have to hesitate for a bit to mentally doublecheck it’s the right number. 🥳,Mention,Male,True
+149,Negative,-0.25,False,0.7,707995250,-0.4767,16976061,1514620704527831050,0.129,0.871,0.0,"  An erratic, meddlesome, egocentric billionaire with carte blanche rights over the world's biggest open mic. What can possibly go wrong?",Mention,Male,True
+150,Neutral,0.0,False,0.0,1158391977412648961,0.0,16976061,1514432830629191682,0.0,1.0,0.0,"   King Me! King Me!
+- R. DeSantis",Mention,Male,True
+151,Neutral,0.0,False,0.0,2951742165,0.0,16976061,1514432100556058625,0.0,1.0,0.0,   https://t.co/RSfbaBf8Iv,Mention,Male,True
+152,Neutral,0.0,False,0.0,1427612594366517250,0.0,16976061,1514384982902550528,0.0,1.0,0.0,"   B83 Me15
+ae ae ae lets go",Mention,Male,True
+153,Neutral,0.0,False,0.0,954376046232653826,0.4912,16976061,1514333588891783170,0.0,0.901,0.099,"If you are DCPS Staff and want a copy of ANY of the books featured in our spotlights, please email elizabeth.bannan.dc.gov &amp; we will send it to you!     The1619Project BornontheWater Resources about terminology linked in our bio! https://t.co/TQnnKUqyTk",Mention,Male,True
+154,Negative,-0.1555555555555555,False,0.2888888888888889,345150925,-0.1027,16976061,1513931330240851977,0.085,0.915,0.0,"  AllRise?
+Nah. How about sit yo' lyin' ahss down and shut the heck up...",Mention,Male,True
+155,Neutral,0.0,False,0.0,1416690072611610625,0.0,16976061,1513913520102031362,0.0,1.0,0.0,"   
+ 
+",Mention,Male,True
+156,Neutral,0.0,False,0.0,1427393898515681285,0.0,16976061,1513904388384907270,0.0,1.0,0.0,"   
+ 
+",Mention,Male,True
+157,Neutral,0.0,False,0.0,1014996361643634688,0.0,16976061,1513756620941004802,0.0,1.0,0.0, As it should be !!! 🇺🇸🇺🇸🇺🇸,Mention,Male,True
+158,Positive,0.4333333333333333,False,0.7333333333333333,51971452,0.7997,16976061,1513711971811880963,0.059,0.74,0.202," JusticeKetanji
+
+I am a Democrat running against Tim Scott to represent South Carolina in the United States Senate.  Let his NO to KetanjiBrownJackson for SCOTUS inspire you to donate to my campaign today -  Let us act on behalf of a strong democracy!🗽⬇️https://t.co/ns06wlNB8k https://t.co/UCWHftLkH5",Mention,Male,True
+159,Neutral,0.0,False,0.0,259583180,0.9114,16976061,1513599514682138624,0.0,0.645,0.355,"Congrats to   &amp; !! BORN ON THE WATER is the winner of the 2022 Lee Bennett Hopkins Poetry Award! PoetryMonth NationalPoetryMonth 
+https://t.co/N95lgNC8kp",Mention,Male,True
+160,Positive,1.0,False,0.9,84419630,0.0,16976061,1513584975815266314,0.0,1.0,0.0,   holy moly that’s INCREDIBLE! https://t.co/OjfncUOjfd,Mention,Male,True
+161,Neutral,0.0,False,0.0,1415739320728576001,0.0,16976061,1513546298401558528,0.0,1.0,0.0,"   
+ 
+ 
+ 
+",Mention,Male,True
+162,Positive,0.2142857142857142,False,0.5,989853918078390272,0.5267,16976061,1513541685132865536,0.0,0.764,0.236,   I just ordered a print on  website https://t.co/XfvvTR2vWc Pure inspiration 💜,Mention,Male,True
+163,Neutral,0.0,False,0.0,1497653537421025291,0.0,16976061,1513536070964633607,0.0,1.0,0.0,"JudgeKetanjiBrownJackson KetanjiBrownJackson JusticeKetanjiBrownJackson KBJ TheKamalaProject blackexcellence BlackWomen michelleobama 
+girlscan iseeyouSistah
+ https://t.co/Y1iTHxpcA2",Mention,Male,True
+164,Neutral,0.0,False,0.0,914524560183062529,0.0,16976061,1513374140010434564,0.0,1.0,0.0,  *BARF!*,Mention,Male,True
+165,Positive,0.0610677083333333,False,0.6354166666666666,1511492828672651265,-0.2462,16976061,1513314762192424960,0.132,0.868,0.0,  I only rise after I take a floyd 💩; look affirmative action hard at work!!,Mention,Male,True
+166,Neutral,0.0,False,0.0,105213344,0.7041,16976061,1513298559050911758,0.131,0.498,0.37,  I'm so elated you couldn't resist! Thank you!,Mention,Male,True
+167,Neutral,0.0,False,0.0,565170984,0.0,16976061,1513282589645320195,0.0,1.0,0.0,  Where can I buy this,Mention,Male,True
+168,Neutral,0.0,False,0.0,35353147,0.0,16976061,1513222167458193411,0.0,1.0,0.0,  ❤🙌🏾❤,Mention,Male,True
+169,Neutral,0.0,False,0.0,65411826,0.0,16976061,1513212388681531392,0.0,1.0,0.0,   https://t.co/VoxSnnNrZR,Mention,Male,True
+170,Neutral,0.0,False,0.0,400140091,0.5951,16976061,1513210653577777152,0.0,0.437,0.563,  yes indeed!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mention,Male,True
+171,Neutral,0.0,False,0.0,1121760984249581570,0.0,16976061,1513208575467864074,0.0,1.0,0.0,  Magnifique 👏👏👏,Mention,Male,True
+172,Neutral,0.0,False,0.0,502605104,0.0,16976061,1513204287521931276,0.0,1.0,0.0,  https://t.co/Mijk6uBTBY,Mention,Male,True
+173,Neutral,0.0,False,0.0,1509210088438968323,0.0,16976061,1513199316516712448,0.0,1.0,0.0,  spreadthelovenotthehate❤,Mention,Male,True
+174,Neutral,0.0,False,0.0,178883183,0.0,16976061,1513199046550167552,0.0,1.0,0.0,  👏🏽👏🏽👏🏽❤️‍🔥,Mention,Male,True
+175,Neutral,0.0,False,0.0,2316128815,0.0,16976061,1513171105376313345,0.0,1.0,0.0," 
+
+Saludos https://t.co/QWWu9rb6JR",Mention,Male,True
+176,Positive,0.4019791666666667,False,0.6266666666666667,940383423461515267,0.9226,16976061,1513134219991654401,0.107,0.565,0.328,  All Rise????? Are you joking? More like ...all die!!! Thanks Dems for placing another joke into our system of life and thinking. Glad that she will protect the children and glad that she didn't make this about her being BLACK. Way to play the race card. Shameful,Mention,Male,True
+177,Negative,-0.0555555555555555,False,0.8111111111111112,1088765119583014912,0.0,16976061,1513126784371470337,0.0,1.0,0.0,  She’s only there because Obama and Biden put her there because she’s black and a woman. Only reason.,Mention,Male,True
+178,Neutral,0.0,False,0.0,1353354057331695616,0.0,16976061,1513099257854709765,0.0,1.0,0.0,  Baaaaaaaaaaaaaaawwwwwww,Mention,Male,True
+179,Positive,0.9765625,False,0.6,1382194384045813760,0.7249,16976061,1513017059701149699,0.0,0.441,0.559,  Love the painting!!!,Mention,Male,True
+180,Positive,0.5,False,0.6,815213509,0.6369,16976061,1512940721464094725,0.0,0.488,0.512,   Love this,Mention,Male,True
+181,Neutral,0.0,False,0.0,2402614476,-0.296,16976061,1512891182300364801,0.071,0.929,0.0,    I saw her once.  She needed a ride home and was asking co workers for one.  One offered.  I’d have done it myself if no one had offered.,Mention,Male,True
+182,Positive,1.0,False,1.0,717460470542807040,0.6892,16976061,1512885978242846723,0.0,0.176,0.824, Awesome!!,Mention,Male,True
+183,Negative,-0.09375,False,0.3,956938646250237952,0.8975,16976061,1512868006371672078,0.0,0.615,0.385,"To all the little girls with BIG dreams - never stop dreaming! ⭐️
+AllRise
+
+🎨: Supreme Court Justice Ketanji Brown Jackson by  https://t.co/62KQUBLdDT",Mention,Male,True
+184,Positive,0.2208333333333333,False,0.5666666666666667,125319065,0.9325,16976061,1512863436274913280,0.0,0.754,0.246,"Congratulations to Ketanji Brown Jackson for your appointment as the first black woman in 232 years to be selected to serve in the Supreme Court in the United States.
+
+I am happy when I see women climb up the ladder to serve in various capacities in leadership.  https://t.co/CUdJFhWRnD",Mention,Male,True
+185,Positive,0.2,False,0.9,2385917060,0.0,16976061,1512844103989477376,0.0,1.0,0.0,  Just absolutely awesomeness…. SCOTUS JusticeKetanjiBrownJackson,Mention,Male,True
+186,Neutral,0.0,False,0.0,18034097,-0.4145,16976061,1512808630059421697,0.147,0.853,0.0,  And Amy and Clarence as conservatives are part of those five not white males - Yeah!!!,Mention,Male,True
+187,Neutral,0.0,False,0.0,707781288149786624,0.7906,16976061,1512693570762940419,0.0,0.588,0.412,"ananavarro: : Supreme.
+Court.
+Justice. 
+Ketanji. 
+Brown. 
+Jackson.
+
+AllRise 👩🏾‍⚖️ https://t.co/Yuzs5ShM27",Mention,Male,True
+188,Neutral,0.0,False,0.0,4795408345,0.0,16976061,1512674468593688576,0.0,1.0,0.0, Yes❣️❣️❣️,Mention,Male,True
+189,Neutral,0.0,False,0.0,1506486858443804678,0.0,16976061,1512655666502160384,0.0,1.0,0.0,  https://t.co/UoBITIQBZd,Mention,Male,True
+190,Neutral,0.0,False,0.0,1506486858443804678,0.0,16976061,1512655581642903560,0.0,1.0,0.0,  Trash https://t.co/P0OjPNav1o,Mention,Male,True
+191,Positive,0.5,False,0.5,1506486858443804678,0.4404,16976061,1512655517717520384,0.0,0.707,0.293,  Found a better picture of it https://t.co/JSsdw1gFct,Mention,Male,True
+192,Negative,-0.625,False,1.0,25408012,-0.0258,16976061,1512646810887614468,0.311,0.388,0.301,   Mad respect 🤛🏻,Mention,Male,True
+193,Neutral,0.0,False,0.0,25408012,0.4199,16976061,1512645164300267520,0.0,0.782,0.218,   I didn’t know who the artist was. Thank you!,Mention,Male,True
+194,Positive,0.7,False,0.8944444444444444,17183158,0.6808,16976061,1512643530216259584,0.0,0.699,0.301,  Make sure to tag the artist to show your appreciation.  is incredible.,Mention,Male,True
+195,Neutral,0.0,False,0.0,1268994484764676096,0.7906,16976061,1512626282751684610,0.0,0.533,0.467,"Supreme.
+Court.
+Justice.
+Ketanji.
+Brown.
+Jackson.
+
+AllRise 👩🏾‍⚖️
+ https://t.co/x223PZVtlD",Mention,Male,True
+196,Positive,0.85,False,1.0,1179528759034236929,0.9136,16976061,1512613493555478528,0.0,0.079,0.921, Beautiful Beautiful Beautiful 💕,Mention,Male,True
+197,Positive,0.6000000000000001,False,0.9,2905165048,0.5859,16976061,1512603936720621574,0.0,0.441,0.559, Amazing. gloriousKBJ AllRise,Mention,Male,True
+198,Neutral,0.0,False,0.0,757704392372092928,0.0,16976061,1512600670964174853,0.0,1.0,0.0,"Ketanji Brown Jackson
+
+Artist:  https://t.co/tHq4qfJwqS",Mention,Male,True
+199,Positive,0.625,False,0.6,871939261,0.6696,16976061,1512600547576082432,0.0,0.308,0.692, I love this!,Mention,Male,True
+200,Neutral,0.0,False,0.0,1195531280525512705,0.0,16976061,1512594652330872835,0.0,1.0,0.0,  .....any say goodbye to your republic.,Mention,Male,True
+201,Neutral,0.0,False,0.0,1317289746570248192,0.0,16976061,1512582721251385344,0.0,1.0,0.0, LFG! https://t.co/qF7qZJp4NQ,Mention,Male,True
+202,Neutral,0.0,False,0.0,977954172556361733,0.0,16976061,1512577430602457091,0.0,1.0,0.0, THIS! All of this!!! 👆👆👆👆👆,Mention,Male,True
+203,Positive,0.8,False,0.7,1428457083754659843,0.4215,16976061,1512548844168531972,0.0,0.417,0.583,  Lol.,Mention,Male,True
+204,Positive,0.5,False,0.6,2772267980,0.6369,16976061,1512542261309022209,0.0,0.323,0.677, Love her,Mention,Male,True
+205,Positive,0.2875,False,0.5125,30521935,-0.4404,16976061,1512534287777603587,0.215,0.679,0.106,  I cried when it was announced.  I'm crying over this.  Too much in one week.  Lol. My heart is full,Mention,Male,True
+206,Positive,0.7,True,0.6000000000000001,1360919892170579969,0.3818,16976061,1512532625868607490,0.131,0.654,0.216,"  You celebrate pedophilia good to know. And hey clown, his name is Tim scott. Say his name you racist . Get a brain",Mention,Male,True
+207,Positive,0.3375,True,0.5625,1500408427188789248,0.6249,16976061,1512528319908040711,0.0,0.773,0.227, Great if he got the job for a reason other than her sex and race,Mention,Male,True
+208,Neutral,0.0,False,0.0,1307548939550294017,0.0,16976061,1512525270116290562,0.0,1.0,0.0, https://t.co/CypnCYkwAG,Mention,Male,True
+209,Positive,1.0,False,0.9,1129128380266352649,0.8949,16976061,1512523278274936844,0.0,0.455,0.545,  All Rise!!! Justice has shown its face!!! Welcome Your Honor!!!,Mention,Male,True
+210,Positive,0.85,False,1.0,1512451794869362693,0.6361,16976061,1512522171209371650,0.0,0.544,0.456,  So beautiful picture ❤️,Mention,Male,True
+211,Negative,-0.25,False,0.5,1512478552956059659,-0.296,16976061,1512521517363572746,0.145,0.855,0.0, How to make 80000usdt in 5hours massage me to no more about it,Mention,Male,True
+212,Positive,0.6000000000000001,False,0.9,1428650878899302402,0.5859,16976061,1512517431381659655,0.0,0.678,0.322,  That is amazing who is the Artist?,Mention,Male,True
+213,Positive,0.75,False,0.675,235476969,0.8622,16976061,1512516728760139776,0.0,0.318,0.682, I love this piece. Great work!,Mention,Male,True
+214,Neutral,0.0,False,0.0,1389737603600158722,0.0,16976061,1512512409277243398,0.0,1.0,0.0, Hi!!! Are you selling this as a print?,Mention,Male,True
+215,Positive,0.1666666666666666,False,0.1999999999999999,975280028,0.7506,16976061,1512512328171937798,0.0,0.837,0.163,"Thank you  While this illustrates Our pride, let the historical record show that most republicans walked out as her confirmation was being applauded. Others weren't properly dressed for the chamber and had to vote from the cloakroom. shameful KetanjiJacksonBrown https://t.co/KloEFILwB6",Mention,Male,True
+216,Neutral,0.0,False,0.0,1402034733270306818,-0.6249,16976061,1512510811268431875,0.672,0.328,0.0, Vile. https://t.co/BUA3mAofBe,Mention,Male,True
+217,Positive,0.5,False,0.6,268776948,0.6369,16976061,1512507917626482694,0.0,0.417,0.583, Love this. ❤️❤️❤️,Mention,Male,True
+218,Neutral,0.0,False,0.0,1301829486,0.0,16976061,1512503068683747328,0.0,1.0,0.0, 😐🙄😐,Mention,Male,True
+219,Positive,0.8,False,1.0,1388313747916300295,0.5719,16976061,1512500839331635205,0.0,0.684,0.316,  Making pedophiles happy one day at a time.,Mention,Male,True
+220,Neutral,0.0,False,0.0,1429861780235460611,0.9381,16976061,1512500641800900610,0.0,0.537,0.463,"Historic. Thankful for her bravery, her service, and her integrity. I strive to be like you, Your Honor. 
+JusticeKetanjiBrownJackson 
+
+ art is 💯! https://t.co/1aZF6ntMQc",Mention,Male,True
+221,Neutral,0.0,False,0.1,1345103057521033217,0.8221,16976061,1512498290402549760,0.0,0.513,0.487,  Congratulations Justice Brown Jackson!  Following from Canada 🇨🇦,Mention,Male,True
+222,Positive,0.875,False,0.6000000000000001,1312176158138535937,0.4926,16976061,1512497614746398721,0.0,0.556,0.444, This is a Good One!,Mention,Male,True
+223,Positive,0.3,False,0.3166666666666666,1349808832755675137,0.784,16976061,1512497564209328131,0.0,0.712,0.288,  Thank you 4 the great visual on a triumph/victory! From an old fashioned feminist (during the 60's and 70's),Mention,Male,True
+224,Negative,-0.375,False,0.5,1401611910580219908,-0.7474,16976061,1512497420936093696,0.232,0.768,0.0,"  Ana Navarro has gone fully dumb and dumber literally.
+
+Ana Navarro do not represents the Latino community for the record. 
+
+https://t.co/Gjv4WjvZig",Mention,Male,True
+225,Positive,0.5,False,0.5,249775603,0.9358,16976061,1512497349557379073,0.0,0.718,0.282,"Happy Friday! We are ending the week with one more post in celebration of Justice Katanji Brown Jackson's historic confirmation to the Supreme Court. 
+
+This piece is by artist Nikkolas Smith () &amp; shows the power of representation! It truly matters. 🙌🏿
+
+BlackHistory https://t.co/bdIvD79QiC",Mention,Male,True
+226,Negative,-0.5,False,1.0,1104069426415001601,-0.4939,16976061,1512497255206379521,0.615,0.385,0.0,  Scary,Mention,Male,True
+227,Positive,1.0,False,1.0,1423509083114639360,0.8126,16976061,1512497040495984640,0.0,0.263,0.737, Thank you for wonderful share,Mention,Male,True
+228,Positive,0.4000000000000001,False,0.9,326545657,0.7418,16976061,1512495659236085763,0.0,0.589,0.411,     Huge congrats to ALL of you!!❤️,Mention,Male,True
+229,Negative,-0.0416666666666666,False,0.1708333333333333,25379461,0.0,16976061,1512495179537661956,0.0,1.0,0.0," A Black woman will now serve on the same court that once upheld segregation. 
+
+Just decades ago, her parents weren't allowed to attend the same schools as white students.
+https://t.co/6t6AKttE7O",Mention,Male,True
+230,Neutral,0.0,False,0.0,912836471278702598,0.0,16976061,1512494247538270216,0.0,1.0,0.0,"  Oh, and why not?",Mention,Male,True
+231,Neutral,0.0,False,0.0,561182057,0.0,3160201248,1518241952797532160,0.0,1.0,0.0, What do you think about the Republicans’ plan to take over AG’s &amp; SoS’s?  https://t.co/IBls6uvw1Q,Mention,Male,True
+232,Neutral,0.0,False,0.0,61206610,0.6597,3160201248,1518224488055427076,0.0,0.838,0.162,"Join us on 5/5 with  of ,  of _gen,  of , &amp;  of  as we discuss approaches for addressing the racial wealth gap: https://t.co/kLy51pRodh ",Mention,Male,True
+233,Positive,0.5,False,0.5,1544175998,0.7299,3160201248,1517683933105819648,0.0,0.822,0.178,"Don't miss this must-see 90-min webinar by !
+
+Remaking The Economy: Closing the Racial Wealth Gap on May 5th at 11:00 AM PT/2:00 PM ET.
+
+OBI ProsperityForAll Race TargetedUniversalism 
+
+Join , , and more: 
+https://t.co/pYXNN7yDC5 https://t.co/hiNeL2wkFJ",Mention,Male,True
+234,Neutral,0.0,False,0.0,1347581187297054722,0.0,3160201248,1517492618439102464,0.0,1.0,0.0,   _2019                                       does steven davidoff solomon have a twitter handle?,Mention,Male,True
+235,Neutral,0.0,False,0.0,16151881,0.4939,3160201248,1516945148432711680,0.0,0.904,0.096,It was an honor today to be in conversation with  founder of  about ways to advance equity and belonging through his groundbreaking concept targeteduniversalism. DEI blackTRANSlivesmatter   https://t.co/z0M5W15hAD,Mention,Male,True
+236,Neutral,0.0,False,0.4,18928144,-0.4019,3160201248,1516913269490864128,0.252,0.748,0.0,“Individual interventions to correct structural problems won’t work.” ,Mention,Male,True
+237,Positive,0.5,False,1.0,18928144,0.7269,3160201248,1516913109230792705,0.0,0.724,0.276," &amp;  lead us in a powerful conversation on belonging, beloved community and the role of government https://t.co/T7A07uTU2o",Mention,Male,True
+238,Positive,0.5,False,0.5,1544175998,0.7299,3160201248,1516563047615242242,0.0,0.822,0.178,"Don't miss this must-see 90-min webinar by !
+
+Remaking The Economy: Closing the Racial Wealth Gap on May 5th at 11:00 AM PT/2:00 PM ET.
+
+OBI ProsperityForAll Race TargetedUniversalism 
+
+Join , , and more: 
+https://t.co/pYXNN7yDC5 https://t.co/yLRWwjb3jt",Mention,Male,True
+239,Positive,0.375,False,0.3791666666666666,1076680811166879746,0.8225,3160201248,1516407443017805824,0.0,0.803,0.197,"Great ⁦⁩ event last night with ⁦⁩ on “targeted universalism” - one goal, many strategies to get there. Thanks to ⁦⁩ for the invite and ⁦_E_Lewis⁩ for kicking off. “Equity is a process and practice - not a box to check.” https://t.co/yw1UV4wAB1",Mention,Male,True
+240,Neutral,0.0,False,0.0,15457246,-0.2732,3160201248,1516234494558101505,0.208,0.792,0.0,Listening to  drop some knowledge on targeteduniversalism https://t.co/MDpffHLaV5,Mention,Male,True
+241,Neutral,0.0,False,0.0,1258452941780004864,0.6597,3160201248,1516115769280634883,0.0,0.863,0.137," and  are joining forces for a 90-min. webinar on the racial wealth gap that builds on our 2 article series this year. On 5/5 at 2 pm ET join _mjoy, , , ,  &amp; myself: https://t.co/hk0b6b3DwW",Mention,Male,True
+242,Positive,0.5,False,0.65,1032393064487108613,0.831,3160201248,1515488419643727878,0.0,0.79,0.21,"Thank you,  for visiting our university and Dr. Hayduk’s class — the politics of inequality. I really enjoyed your lecture, and have a lot to take with me through my work in education. Excited to learn more! https://t.co/CpU6Xba6fz",Mention,Male,True
+243,Positive,0.5,False,0.5,1544175998,0.7299,3160201248,1515479658938220546,0.0,0.822,0.178,"Don't miss this must-see 90-min webinar by !
+
+Remaking The Economy: Closing the Racial Wealth Gap on May 5th at 11:00 AM PT/2:00 PM ET.
+
+OBI ProsperityForAll Race TargetedUniversalism 
+
+Join , , and more: 
+https://t.co/pYXNN7yDC5 https://t.co/xAUuP2mw4d",Mention,Male,True
+244,Neutral,0.0,False,0.0,1544175998,0.68,3160201248,1514987301641850883,0.0,0.556,0.444,    _Lab Thank you for sharing!,Mention,Male,True
+245,Positive,0.6,False,0.7,14889353,0.9565,3160201248,1514874265514000389,0.0,0.676,0.324,Loved listening to launch of Cultures of Care event from  .. would love to catch up about this  as I just got funding to set up Care &amp; Climate space. Also cc   _Lab re care network etc. https://t.co/YOvIvx5G6S https://t.co/ZxDgGrU775,Mention,Male,True
+246,Neutral,0.0,False,0.0,1238550824931823616,0.4199,3160201248,1514691230818471945,0.0,0.851,0.149,"Thank you, , for speaking with  about “Othering, Belonging, and Targeted Universalism!”    https://t.co/IzOZAQkYwS",Mention,Male,True
+247,Neutral,0.0,False,0.0,1238550824931823616,0.0,3160201248,1514630103312977923,0.0,1.0,0.0,"See you at 11!   
+  https://t.co/LGjoec79pv",Mention,Male,True
+248,Positive,0.5,False,0.5,1544175998,0.7299,3160201248,1514314482620801031,0.0,0.822,0.178,"Don't miss this must-see 90-min webinar by !
+
+Remaking The Economy: Closing the Racial Wealth Gap on May 5th at 11:00 AM PT/2:00 PM ET.
+
+OBI ProsperityForAll Race TargetedUniversalism 
+
+Join , , and more: 
+https://t.co/pYXNN7yDC5 https://t.co/zVOxPs4SVg",Mention,Male,True
+249,Positive,0.184090909090909,False,0.3636363636363636,61206610,0.3612,3160201248,1514011726366314504,0.0,0.923,0.077,How do millionaire donors of color differ from white millionaire donors? A new report from  based on over 100 interviews with wealthy donors of color offers answers: https://t.co/7Rw6WDmKoT _NPQ  philanthropy,Mention,Male,True
+250,Neutral,0.0,False,0.0,15570297,0.0,3160201248,1513914145934094338,0.0,1.0,0.0,_gen     Quite the line-up!,Mention,Male,True
+251,Neutral,0.0,False,0.0666666666666666,1238550824931823616,0.0,3160201248,1513914011678490626,0.0,1.0,0.0, community! This is the last day to register for  Prof. 's April 14 guest lecture at ! Sign up here: https://t.co/rOCfiAsi7Y https://t.co/Vx9uutFNa0,Mention,Male,True
+252,Neutral,0.0,False,0.0,27512827,0.296,3160201248,1513868074721718282,0.0,0.913,0.087,"""When people are seen, they begin to heal.""
+ 
+
+Creating the Conditions for Belonging and Breathing in a Toxic Environment | Othering &amp; Belonging Institute 
+https://t.co/e3W68087Bt",Mention,Male,True
+253,Positive,0.2,False,0.2,1100080806867824643,0.4939,3160201248,1513613929553014788,0.0,0.904,0.096,"Coming up Thursday at 2pm ET:
+
+ joins , ,  for a webinar on closing the racial wealth gap – and the economic transformation required to get there. 
+
+RSVP with https://t.co/vI8kf02mkb https://t.co/1mFX89ZPjq",Mention,Male,True
+254,Neutral,0.0,False,0.0,496496353,0.0,3160201248,1513342359211507712,0.0,1.0,0.0,_Network _kdh      0x1Fe4651E4FE8952c9FBD813F194E71e579696513,Mention,Male,True
+255,Neutral,0.0,False,0.0,496496353,0.0,3160201248,1513342190566936577,0.0,1.0,0.0,_Network _kdh     ,Mention,Male,True
+256,Positive,0.1833333333333333,False,0.8,3071796608,0.0258,3160201248,1512854121128284163,0.13,0.737,0.133,"  +targeted universalism frmwrk offer some ways to communicate/think about this (cc:  ): 
+https://t.co/7UNqJKGrNw 
+""Targeted universalistic interventions undermine active or passive forces of structural exclusion and marginalization...",Mention,Male,True
+257,Positive,0.1666666666666666,False,0.55,1423445240057417731,0.4588,3160201248,1512068721522593801,0.0,0.871,0.129,"definitely following  in my artistic choice to write my name in lowercase in that we should exist as “part of the universe, not over it, as capitals signify.”",Mention,Male,True
+258,Positive,1.0,False,1.0,769906189542928385,0.5719,3160201248,1511813137200082944,0.0,0.709,0.291,excellent elucidation of reparations issues and examples from    https://t.co/ZLBOOo2TYx,Mention,Male,True
+259,Neutral,0.0,False,0.0,186694607,0.0,3160201248,1511490881811095555,0.0,1.0,0.0,"cc: , ,   https://t.co/xE8f0T3iXg",Mention,Male,True
+260,Neutral,0.0,False,0.0625,3248041422,0.7351,3160201248,1511406243394502656,0.0,0.85,0.15,"Looking back at the 2022Gathering &amp; 's opening talk,  answers the question, ""how can funders move from inclusion to belonging?"" by sharing what _Fndn is doing &amp; encouraging others to do the same: https://t.co/TsBANg39Me
+
+OwnWhatYouOwn https://t.co/fRIafefITr",Mention,Male,True
+261,Positive,0.2666666666666666,False,0.3,1099181102,0.8979,3160201248,1511390154426101777,0.0,0.716,0.284,"Interesting perspective from  re: language and approaches to closing the racial wealth gap. ""Transformational structural change is required, and the ambition should expand beyond tying success to what current outcomes look like."" https://t.co/6CvDgb0J10",Mention,Male,True
+262,Negative,-0.0833333333333333,False,0.7166666666666667,1544175998,0.1027,3160201248,1511055801208639488,0.0,0.82,0.18,"I said was in response to all lives matter, was all lives matter only matter if Black Lives Matter. - 
+
+BLM Belonging Care OBI 
+
+https://t.co/wFI1hYSJOb",Mention,Male,True
+263,Positive,0.2583333333333333,False,0.6083333333333334,1544175998,0.7322,3160201248,1511055375893602308,0.088,0.704,0.208,"We have to change systems and structures that reflect care, and there's huge tension in this country in this world as to who really counts. It's amazing, Black Lives Matter, and then you get pushback saying no they don't. - 
+
+CulturesofCare Belonging",Mention,Male,True
+264,Negative,-0.1666666666666666,False,0.4333333333333333,1544175998,-0.839,3160201248,1511055011643494400,0.278,0.625,0.097,"I was saying, black lives don't matter in this country, the problem is not the policy, the problem is a lack of caring, the problem is that black people don't belong. So the problem is not a problem of poverty in this country is an indication of not belonging. -",Mention,Male,True
+265,Neutral,0.0,False,0.0,1238550824931823616,0.0,3160201248,1511047213933162501,0.0,1.0,0.0," community! Use this link to register for 's April 14 event featuring  professor !   
+https://t.co/lHWOLDrF4B https://t.co/O7ehde0by0",Mention,Male,True
+266,Neutral,0.0,False,0.0,786597542330896384,0.0,3160201248,1510764595283169281,0.0,1.0,0.0,     _MPastor   https://t.co/LtlEC9yH4E,Mention,Male,True
+267,Positive,0.3177083333333333,False,0.7708333333333333,292656704,0.7701,3160201248,1510226295925481476,0.029,0.825,0.146," You said this on  in February. Our 7th grade math teacher, Mrs. Cummings, had the students compile concepts they’ve learned this year. Thank you for teaching them to work through the hard stuff! They were so proud of themselves!  https://t.co/vvARvSg4hf",Mention,Male,True
+268,Positive,0.45,False,0.65,1336709938115035139,0.9201,3160201248,1509208982371639301,0.0,0.681,0.319,"Field Builder  joins an esteemed panel of guests as  celebrates its Cultures of Care project launch. 
+
+Learn more about the project and register for the free event here: https://t.co/EYnziFKhWh https://t.co/20UYlzDeQc",Mention,Male,True
+269,Neutral,0.0,False,0.0,1500342068262367232,0.0,3160201248,1509189602888028161,0.0,1.0,0.0," https://t.co/qPQpv7T4W9 AUTHOR- SURYA NARAYAN CHAKRABORTY, .BOOK-DEVDAS 2.BENGALI LANGUAGE, ADDRESS -PATULI STATION BAZAAR PURBASTHALI, PURBA BARDHAMAN WEST BENGAL INDIA .PIN-713512. suryanarayanchakraborty3.com https://t.co/BM0Aa2Kf3o",Mention,Male,True
+270,Neutral,0.0,False,0.1,1500342068262367232,0.0,3160201248,1509189423610855425,0.0,1.0,0.0," AUTHOR- SURYA NARAYAN CHAKRABORTY, MALE, DOB-27/08/1989.BOOK-DEVDAS 2.BENGALI LANGUAGE, ADDRESS -PATULI STATION BAZAAR PURBASTHALI, PURBA BARDHAMAN WEST BENGAL INDIA .PIN-713512.MOB-919064580984. suryanarayanchakraborty3.com https://t.co/qPQpv7T4W9 https://t.co/5hnqUZ0kzY",Mention,Male,True
+271,Neutral,0.0,False,0.1,1500342068262367232,0.0,3160201248,1509180388752912385,0.0,1.0,0.0," https://t.co/PYLfhEy7VS AUTHOR- SURYA NARAYAN CHAKRABORTY, MALE, DOB-27/08/1989.BOOK-DEVDAS 2.BENGALI LANGUAGE, ADDRESS -PATULI STATION BAZAAR PURBASTHALI, PURBA BARDHAMAN WEST BENGAL INDIA .PIN-713512.MOB-919064580984. suryanarayanchakraborty3.com https://t.co/iyIGpLUnTC",Mention,Male,True
+272,Positive,0.2181818181818181,False,0.6772727272727272,19925278,0.8442,3160201248,1508929831253135361,0.0,0.794,0.206,"❤️❤️On April 4th at 11 AM PT, OBI will launch ""Cultures of Care,"" a new project that celebrates people who practice collective care in rare ways, with , , , &amp; Elliot Kukla.
+
+OBI culturesofcare
+
+Join us: https://t.co/Nl4Rw9pCKQ https://t.co/7rZvrQ1lDY",Mention,Male,True
+273,Neutral,0.0,False,0.0,569546005,-0.5423,3160201248,1508515823547305985,0.304,0.696,0.0,"    SocialJustice is poison.
+
+https://t.co/mBY9HYBqya https://t.co/78UhqK91dl",Mention,Male,True
+274,Negative,-0.2687499999999999,True,0.6416666666666666,1439632271129071617,-0.9396,3160201248,1508508913989259268,0.284,0.716,0.0,    Bad enough you woke not sees have to spread your BS. Can you at least keep it to and your followers? Everyone hates sponsored tweets! Especially woke loser tweets. Why pay to send them to people who are just gonna think you’re a jerk? Blocked.,Mention,Male,True
+275,Positive,0.53125,False,0.4875,752954336888565760,0.8217,3160201248,1508483039155810304,0.0,0.787,0.213,"Videos from the _ADR event will be posted this week!
+Thanks _Prof    _CvillePD    for a great event
+AND many more (who do not have twitter handles!)",Mention,Male,True
+276,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1508052998794194944,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyY0Y0m https://t.co/lMCTkWL02I",Mention,Male,True
+277,Positive,0.25,False,0.5833333333333334,1544175998,0.6774,3160201248,1507541095718207499,0.0,0.852,0.148,"""One of the things I loved about bell is she critiqued these systems without confusing them with the people,"" - OBI director  in convo w/  &amp;  via  
+
+full article by :
+https://t.co/ohrq9Z4bL1",Mention,Male,True
+278,Positive,0.4375,False,0.6875,21732927,-0.6591,3160201248,1507026937725669376,0.204,0.682,0.114,"Day 19 21dayequitchallenege
+
+Being an Ally
+
+“We must hear other people's suffering and stories.
+Compassion means to suffer with others."" 
+John A Powell
+
+Thank you, 
+
+Also, this Guide to Allyship which includes Dos and Don'ts is awesome
+https://t.co/6xf5uS4X6h",Mention,Male,True
+279,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1506419996028809217,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyY0Y0m https://t.co/Axe2012azP",Mention,Male,True
+280,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1505334084893130759,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyY0Y0m https://t.co/JH9iT3zaCR",Mention,Male,True
+281,Neutral,0.0,False,0.0,3320279355,0.0,3160201248,1505232855479246862,0.0,1.0,0.0,  https://t.co/uV2V1verTJ,Mention,Male,True
+282,Neutral,0.0,False,0.0,36484465,0.6712,3160201248,1504460237725655041,0.049,0.769,0.181,"Why do our banks treat us like who we are matters but not healthcare?
+
+To increase health equity, healthcare needs to make that change.
+
+Check out this  podcast that I had the honor to appear on, alongside guest  of : https://t.co/Cl4zuYxQ55 https://t.co/zHSgdeQHKC",Mention,Male,True
+283,Neutral,0.0,False,1.0,65151012,0.34,3160201248,1504228042050211845,0.0,0.915,0.085,"Drawing from a vast array of published material, Berkeley Law student Nahlee Lin ’22 — a research assistant with  Director  — played a key role in pushing the project forward.",Mention,Male,True
+284,Neutral,0.0,False,0.0,14889353,0.7783,3160201248,1503850920219656201,0.0,0.786,0.214,Deputy Director of Strategy &amp; Program at the  working with the inimitable  - one of the wisest people I've had the pleasure of connecting with https://t.co/QsCHFP1r3D,Mention,Male,True
+285,Neutral,0.0,False,0.0,2473584325,0.0,3160201248,1502799076512968707,0.0,1.0,0.0,"      Yet, it is the people who make up the system.",Mention,Male,True
+286,Positive,0.25,False,0.5833333333333334,1544175998,0.6774,3160201248,1502798344221073422,0.0,0.852,0.148,"""One of the things I loved about bell is she critiqued these systems without confusing them with the people,"" - OBI director  in convo w/  &amp;  via  
+
+full article by :
+https://t.co/ohrq9Z4bL1",Mention,Male,True
+287,Positive,0.1499999999999999,False,0.6,37781348,-0.2023,3160201248,1502744554029543424,0.067,0.884,0.049,"Ran into an unvaccinated person at the farmer's market today. They'd heard a lot about myocarditis etc, were tired of ""mask theater"" and so on. I talked with them and we found surprising alignment. A thread on building bridges, as  discusses. 1/",Mention,Male,True
+288,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1502150363415076867,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyXJmBM https://t.co/jFxos9101v",Mention,Male,True
+289,Positive,0.3,False,0.55,952604484861091840,0.7348,3160201248,1501841919730724866,0.0,0.823,0.177,"""The solution to othering is not saming, it's belonging. Belonging is the way forward."" Wisdom from  
+But context matters: in more equal societies people are more likely to feel they belong, &amp; feel more responsibility for/social solidarity with others.
+TaxTheRich https://t.co/uAp6BaUR0x",Mention,Male,True
+290,Positive,0.7625,False,1.0,274616106,0.784,3160201248,1501654297926565888,0.0,0.367,0.633," Brilliant and inspiring, sir! ",Mention,Male,True
+291,Positive,0.2099999999999999,False,0.5900000000000001,775757878435217408,0.9382,3160201248,1501653058467647494,0.0,0.629,0.371, He is one of my favorite human beings. Dr.  speaks truth with such a gentle spirit that is full of wisdom. I have had the honor of being guided by him. I am forever changed.,Mention,Male,True
+292,Positive,0.0166666666666666,False,0.2,437895421,-0.2023,3160201248,1501614103080554497,0.113,0.792,0.095,"    With former President Trump hinting he will run again in 2024, the Trump Legal Threat blog tracks the active investigations and lawsuits faced by Trump, his lawyers, family and businesses @ https://t.co/CoFg8iq7A1 
+For daily updates, follow me on Twitter.",Mention,Male,True
+293,Neutral,0.0,False,1.0,4039075138,0.4019,3160201248,1501340686632816640,0.0,0.903,0.097,_Albatross  Nationality is only one piece of the identity puzzle. I notice a Berkeley program covers 'othering and belonging' -    The broader sweep may help understanding.,Mention,Male,True
+294,Negative,-0.5,False,1.0,3248041422,0.1655,3160201248,1501279139227074561,0.0,0.944,0.056,"“The solution to othering is not saming…it's belonging…Belonging is the way forward. The world is going to change but it doesn't have to be scary.” - 
+
+2022Gathering OwnWhatYouOwn https://t.co/VH2MBssRQw",Mention,Male,True
+295,Neutral,0.0,False,0.4,3248041422,-0.5106,3160201248,1501271463252299779,0.152,0.848,0.0,Deep and thought provoking start to the 2022Gathering at this morning’s Practitioners Institute - “The Debt Can Never Be Repaid.” Q&amp;A w/   &amp;  https://t.co/S8sr44pyim,Mention,Male,True
+296,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1499931986789646336,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyY0Y0m https://t.co/Psn06jb1cu",Mention,Male,True
+297,Neutral,0.0,False,0.0,76743917,0.0,3160201248,1499912722162626561,0.0,1.0,0.0,". on how targeted universalism can inform efforts to close the racialwealthgap, community by community. https://t.co/QoMQHl98YG",Mention,Male,True
+298,Positive,0.375,False,0.775,395052116,0.2023,3160201248,1499754605701435399,0.0,0.886,0.114,"""Recognizing someone's difference is important for them to belong... Belonging says, 'Bring your full self.'""",Mention,Male,True
+299,Negative,-0.375,False,0.5,752954336888565760,0.5267,3160201248,1499724217708806147,0.0,0.923,0.077,"In one week we host the second leg of Rethinking Systems Design for Racial Justice &amp; Equity here _ADR w/  
+
+Consider the noon keyonote:
+ ( | fmr.  &amp; _Law) on the ""form &amp; substance"" of calls for race equity https://t.co/eYyPs4Rn8a",Mention,Male,True
+300,Positive,0.175,False,0.375,1365360338,0.6865,3160201248,1499567107792674819,0.0,0.553,0.447,So true. Big fan of   work. https://t.co/bTVyVH1yYS,Mention,Male,True
+301,Neutral,0.0,False,0.125,165826323,-0.3773,3160201248,1499514510461345800,0.211,0.688,0.1,"""The goal of education is not comfort [and] discomfort is not the same as injury""   
+https://t.co/YhqRxIjKZr via ",Mention,Male,True
+302,Neutral,0.0,False,0.5,18180700,0.7574,3160201248,1499473673354420224,0.0,0.48,0.52,  Me too! Such wisdom and grace.,Mention,Male,True
+303,Positive,0.5,False,0.6,45224578,0.7096,3160201248,1499447939642511368,0.0,0.404,0.596,  I love this man’s spirit.,Mention,Male,True
+304,Negative,-0.0366666666666666,True,0.3966666666666666,18180700,-0.2023,3160201248,1499443107284275202,0.104,0.896,0.0,We're often hard on individuals and soft on structures when we really should be hard on structures and soft on individuals. ~ john a. powell  naisac,Mention,Male,True
+305,Positive,0.4,False,0.8,1544175998,0.5106,3160201248,1499092247370821635,0.0,0.769,0.231,"The price of free speech - and censorship featuring  
+https://t.co/MnIhW8ktS3 via ",Mention,Male,True
+306,Positive,0.1761904761904762,False,0.5,199256987,-0.4692,3160201248,1498136630749761541,0.174,0.72,0.107,"“Othering is not about liking or disliking someone. It is based on the conscious or unconscious assumption that a certain identified group poses a threat to the favoured group. It is largely driven by politicians and the media…”
+ https://t.co/LAngK8ZMA5 ",Mention,Male,True
+307,Negative,-0.1166666666666666,False,0.4444444444444444,2473584325,0.2144,3160201248,1497643244397772802,0.0,0.944,0.056,"  I think there is something deeper than interpersonal relationships at work. Yes, COMMON folk can find common ground, but it is the ruling class that divided us in the first place.",Mention,Male,True
+308,Negative,-0.1333333333333333,False,0.5857142857142857,2473584325,0.0258,3160201248,1497642708579586050,0.065,0.867,0.068," What's crazy, the idea of identifying with a phenotype is so ingrained in our society that people are ready to slit your throat when you suggest that they can view themselves, simply, as humans.",Mention,Male,True
+309,Negative,-0.0766666666666666,False,0.2333333333333333,2473584325,-0.2003,3160201248,1497642259789058049,0.097,0.844,0.06," ""There's no hope for them as long as they think they're white"". Wow...Bravo! I've been saying this for quite some time. Reading ""The Invention of the White Race"" revolutionized my thoughts on the subject to the point that I no longer consider myself ""black"".",Mention,Male,True
+310,Positive,0.4791666666666667,False,0.4166666666666667,2473584325,0.8594,3160201248,1497636391118950400,0.0,0.604,0.396," I LOVE the experiment you did at Minnesota! I have never dreamed I was ""white"". Very interesting!",Mention,Male,True
+311,Neutral,0.0,False,0.0,2473584325,-0.1695,3160201248,1497584564750934023,0.122,0.878,0.0," What if the ""threat"" will not allow you to just walk away?",Mention,Male,True
+312,Positive,0.325,False,0.325,2473584325,0.4576,3160201248,1497584109388017671,0.0,0.75,0.25," Very interesting experience with the ""white"" conservatives in Alabama.",Mention,Male,True
+313,Negative,-0.2,True,0.0,2473584325,-0.951,3160201248,1497577869173690371,0.291,0.676,0.033," ""I'm not saying I wouldn't intervene to stop someone from doing harm to someone close to me, I probably would..."" If someone comes to kill your family with a firearm you can choose between using violence against the perp or allowing your family to be killed.",Mention,Male,True
+314,Negative,-0.8,False,1.0,2473584325,-0.2018,3160201248,1497575083539406856,0.244,0.506,0.25, Isn't removing a violent offender from their position of power alleviating violence even if violence is required for the violent offender's removal?,Mention,Male,True
+315,Positive,0.2071428571428571,False,0.6571428571428571,2473584325,0.8805,3160201248,1497571014242447362,0.0,0.788,0.212," ""Why should I practice non-violence in relationship to someone who wants me dead"". Judith's response to her own question seems quite fantastical and unrealistic for someone who is interested in preserving their own life and the lives of those they love.",Mention,Male,True
+316,Negative,-0.05,False,0.1714285714285714,2473584325,-0.8426,3160201248,1497568575221112841,0.192,0.808,0.0," How do you have relationships with people who overtly AND covertly do everything in their power to cause you physical and mental harm? Would you suggest that a battered wife should ""bridge"" with her abusive husband?",Mention,Male,True
+317,Neutral,0.0,False,0.1428571428571428,2473584325,-0.0572,3160201248,1497567510794838024,0.043,0.957,0.0, What about the PHYSICAL inhumanity exacted on a marginalized group by the dominant group? The dominant group that doesn't recognize the MG's humanity doesn't need or want a bridge.,Mention,Male,True
+318,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1497319524722487296,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyY0Y0m https://t.co/NhMrQuFpgN",Mention,Male,True
+319,Neutral,0.0,False,0.6,2473584325,0.0,3160201248,1496642802255638528,0.0,1.0,0.0, Why are we situated soooo differently though?,Mention,Male,True
+320,Negative,-0.09375,False,0.25,50186972,-0.6249,3160201248,1496629287352373248,0.186,0.814,0.0,"A little intro to  led by .
+
+Christian Ivey speaks on the ""Roots of Structural Racism project""
+https://t.co/YbhbaaoZ1z https://t.co/1uz7j8fBFi",Mention,Male,True
+321,Positive,0.05,False,0.2,61206610,0.296,3160201248,1496611322892623872,0.0,0.939,0.061,"Before Native Americans can discuss how a universal framework might meet our needs, it is vital that we be seen. Michael Roberts of  on the need for recognition of Indigenous communities: https://t.co/SIScFeHO0a   ",Mention,Male,True
+322,Neutral,0.0,False,0.1,2473584325,-0.6421,3160201248,1496471766625132545,0.134,0.866,0.0,  Who is it that has a problem with humanity though? You have groups that don't acknowledge the humanity of others. How can you bridge with someone who doesn't accept the fact that you are human?,Mention,Male,True
+323,Positive,0.4,False,0.8,65151012,0.0516,3160201248,1496194383783542784,0.132,0.726,0.141, was featured on  discussing how free speech is under attack in the U.S. https://t.co/uyaB3YJRYi via  ,Mention,Male,True
+324,Positive,0.25,False,0.3999999999999999,2769859722,0.6988,3160201248,1496189960793296898,0.0,0.776,0.224,"Thanks for introducing us to TargetedUniversalism, ! Will be prominent in the next version of EquityAnalytics !
+   OBI Belonging 
+https://t.co/hnqywNLn6A",Mention,Male,True
+325,Positive,0.36875,False,0.61875,2437352029,0.6453,3160201248,1496122854324252672,0.0,0.74,0.26,"""The most important good we distribute to each other in society is membership."" - &amp;  
+https://t.co/chwwUxF8YE",Mention,Male,True
+326,Neutral,0.0,False,0.0,3775651,0.0,3160201248,1495960039441727489,0.0,1.0,0.0,Wait.  AND Judith Butler? Talking together? I'm soooooo there! https://t.co/XH0EKD4KDO,Mention,Male,True
+327,Positive,0.5,False,0.5,1544175998,-0.2732,3160201248,1495956793339621376,0.058,0.942,0.0,"Have you ever taken the risk to bridge across differences? , , , , , Judith Butler, , and more joined us for OBConf21 to do just that. 
+
+Risk Courage Belonging 
+
+All vids:
+https://t.co/wNfYyY0Y0m https://t.co/IM3opu2LmY",Mention,Male,True
+328,Neutral,0.0,False,0.325,285875744,0.6908,3160201248,1495890449378258944,0.044,0.782,0.175,Thank you for this today   “One measure of a society’s sickness is the level of dissonance that an individual confronts in trying to fulfill all her moral duties.” One organisation helping build a muscle against this is _imagining ✨,Mention,Male,True
+329,Neutral,0.0,False,0.0,367452524,0.0,3160201248,1495864655088074760,0.0,1.0,0.0,"""...true equality cannot be left to the whims of an electorate -- it is the predicate for democracy and the vote, not their product.""  FourHundredSouls https://t.co/oRTDjHHmlA (ed.  )  400souls",Mention,Male,True
+330,Neutral,0.0,False,0.0,290718449,0.0,3160201248,1495799154345652224,0.0,1.0,0.0,"""The goal of education is not comfort.""  
+
+👏👏👏
+
+via ",Mention,Male,True
+331,Neutral,0.0,False,0.0,561182057,0.0,18137417,1518249619234430976,0.0,1.0,0.0,,Mention,Male,True
+332,Positive,0.25,False,0.6833333333333332,422134051,0.7479,18137417,1518223929483137024,0.0,0.611,0.389,   Reading this article now.  Enlightening so far and true.,Mention,Male,True
+333,Neutral,0.0,False,0.0,2336915086,0.0,18137417,1518220798619705346,0.0,1.0,0.0, . and I wrote about this: https://t.co/stvv2abTX8,Mention,Male,True
+334,Positive,1.0,False,0.75,780543331595980804,0.807,18137417,1518207869774184449,0.0,0.523,0.477, Hope it was Mediterranean Wraps - they have great falafel!,Mention,Male,True
+335,Positive,0.2,False,0.2,338577075,0.1027,18137417,1518083675795173377,0.092,0.8,0.108, Yes if I’ve learned one thing it’s never ask you how you really feel about something if I lack bourbon or patience.,Mention,Male,True
+336,Positive,0.2,False,0.3,16163217,0.3612,18137417,1518041268860899328,0.0,0.737,0.263," ""explain yourself"" sounds like a very tempting invitation",Mention,Male,True
+337,Negative,-0.1,True,0.4,838766281729900544,-0.5574,18137417,1518030515084869632,0.419,0.581,0.0, that’s next level Karen shit,Mention,Male,True
+338,Neutral,0.0,False,0.0,1078779639617736704,0.0,18137417,1518029999185399808,0.0,1.0,0.0, Explain yourself?!!?,Mention,Male,True
+339,Neutral,0.0,False,0.0,1093788314,0.0,18137417,1518029730938855425,0.0,1.0,0.0, “Explain yourself” https://t.co/4IIPgI6g46,Mention,Male,True
+340,Positive,0.1,False,0.2,1139599799320080385,0.0,18137417,1518010293669879808,0.0,1.0,0.0, Plus: Doesn’t she know that 3 minute old falafel is where it’s at? Any fresher and she’d burn her tongue.,Mention,Male,True
+341,Positive,0.13,False,1.0,14422825,0.2732,18137417,1518008452626337792,0.031,0.913,0.056, Saw a woman mistreating someone like this a couple weeks ago and then proceeded to very loudly tell her: “You have something in your hair. Is it a leaf? I think it’s trash. Idk. You should look in a mirror. You’re not getting it. It’s still there.”,Mention,Male,True
+342,Neutral,0.0,False,0.0,455949997,0.0,18137417,1517937697628729350,0.0,1.0,0.0,   _Publishing You know how we do!! 😂,Mention,Male,True
+343,Positive,0.5,False,0.5,720056448810491904,0.0772,18137417,1517898509797654528,0.0,0.956,0.044," One of the cofounders, Jungwon Byun, is speaking on July 27th at noon PST at our Methods Speaker Series _Evidence https://t.co/2ZsY6LjLiY if you want to learn more https://t.co/Gdt2V4cFvP",Mention,Male,True
+344,Neutral,0.0,False,0.0,1433446636324274185,0.0,18137417,1517888425436790785,0.0,1.0,0.0,    _ _Reports  WE GO UP WEGOUP WE ARE LEGION ,Mention,Male,True
+345,Positive,0.10625,False,0.50625,724017823,0.5267,18137417,1517866352685502465,0.09,0.714,0.196,"_eckhouse  happy to report back that muting all related words has worked, for those (like me) whose Twitter habit is stronger than their weak will",Mention,Male,True
+346,Positive,0.2,False,0.2,2987415637,-0.5267,18137417,1517849257004261376,0.185,0.815,0.0, Today’s lesson: Curiosity is as much a path to sorrow as it is to enlightenment. 🙅🏻,Mention,Male,True
+347,Positive,0.7,False,0.6000000000000001,2541355955,0.0,18137417,1517695896535715842,0.0,1.0,0.0,  _Publishing You had  and I at “good evening…(silence in the room)…I’m from a [call &amp; respond] culture”😅🤗🤣,Mention,Male,True
+348,Positive,0.2,False,0.2,825927273010327556,0.5574,18137417,1517645163832778753,0.11,0.6,0.29, _eckhouse I had no idea what you were talking about thanks thanks for clarifying I guess…..,Mention,Male,True
+349,Neutral,0.0,False,0.0,891275162909331456,0.5106,18137417,1517644681152184320,0.0,0.68,0.32," _eckhouse Giuliani - and Trump - survived this 🤨
+https://t.co/YEGyjhAlKL",Mention,Male,True
+350,Negative,-0.0138888888888888,False,0.3055555555555555,2314182253,-0.0516,18137417,1517640590275448832,0.054,0.946,0.0, _32 Same. I’m going to be trying hard not to see it but you know exactly what it’s going to be.,Mention,Male,True
+351,Positive,0.175,False,0.45,724017823,0.8271,18137417,1517636586460090368,0.0,0.749,0.251,_eckhouse  truly dark corners of twitter are stirring over this and i for one am logging off in the hope that by monday it will be better (it won't),Mention,Male,True
+352,Negative,-0.5777777777777778,False,0.6444444444444445,2314182253,-0.743,18137417,1517633597783437312,0.344,0.656,0.0, ::scrolls down:: oh no. This is going to be the worlds worst discourse.,Mention,Male,True
+353,Positive,0.5,False,0.5,2314182253,0.4404,18137417,1517633375342710784,0.0,0.818,0.182, I don’t even know what this is about and it’s probably better that way.,Mention,Male,True
+354,Neutral,0.0,False,0.0,17803323,0.0,18137417,1517632488969015296,0.0,1.0,0.0, 😂,Mention,Male,True
+355,Negative,-0.15,False,0.275,14966990,-0.7506,18137417,1517394613299986432,0.186,0.814,0.0," March 2012, before Obama outsourced the Syria mess to the Russians and allowed his comrade Putin to annex Crimea and foment ""civil war"" in other parts of Ukraine:
+https://t.co/Oy7nMqjwyL",Mention,Male,True
+356,Negative,-0.55,False,0.65,26126052,-0.5423,18137417,1517375213763121152,0.241,0.759,0.0,  The republicans will be outraged because he wore a green suit.,Mention,Male,True
+357,Positive,0.25,False,0.5,119473903,-0.3182,18137417,1517374042956697600,0.158,0.757,0.085,"  We all should be interested because if we don't do something about lies in our world, there will be no Democracy. And that's just a fact.",Mention,Male,True
+358,Negative,-0.3125,False,0.6875,2345244967,0.7003,18137417,1517371716711890945,0.0,0.691,0.309,  You mean if democracy in the United States of America is of interest?,Mention,Male,True
+359,Neutral,0.0,False,0.0,1306347674929684482,0.0,18137417,1517371233943359489,0.0,1.0,0.0,  AMustListen,Mention,Male,True
+360,Negative,-0.0999999999999999,False,0.475,1014050905,-0.8013,18137417,1517369362184695809,0.269,0.731,0.0," Why is it complicated? don't let BS share the same media space as real news.  Demand this from our media or block the source, and starve the ratings.",Mention,Male,True
+361,Positive,0.2666666666666666,False,0.7000000000000001,1306347674929684482,0.7351,18137417,1517368083563831299,0.0,0.772,0.228,"  Was a KEY Speech…a bit like The Oxford one few Decades Ago…
+ToDoOrNotToDo
+
+Ps: And also The Perfect Location…(Palo Alto,1967: The Waves…)",Mention,Male,True
+362,Neutral,0.0,False,0.0,328700027,0.34,18137417,1517366478537850880,0.0,0.876,0.124,_sipher   We still are not privy to the information that he had that determined his actions.,Mention,Male,True
+363,Neutral,0.0,False,0.0,895643554831228928,0.4588,18137417,1517309857795387396,0.0,0.727,0.273, this may be of interest to you. https://t.co/s9ZDKSFAOk,Mention,Male,True
+364,Negative,-0.0535714285714285,False,0.4589285714285714,884578187392544769,-0.826,18137417,1517275402699431938,0.211,0.734,0.055,  He's right. I appreciate his comments. I also believe that he failed to push back against Russia's efforts to spread this vile disinformation in our country. His reset policy with Putin only enabled him to push farther to undermine democracy.,Mention,Male,True
+365,Neutral,0.0,False,0.0,345610440,0.0,18137417,1517266364620279813,0.0,1.0,0.0,  I wanna hearrrr this,Mention,Male,True
+366,Neutral,0.0,False,0.0,455949997,0.0,18137417,1517265576787251200,0.0,1.0,0.0, 😂,Mention,Male,True
+367,Neutral,0.0,False,0.0,964635660,0.5719,18137417,1517265387418701827,0.0,0.351,0.649, My pleasure.,Mention,Male,True
+368,Positive,0.7,False,0.6000000000000001,81859001,0.4404,18137417,1517264113537220608,0.0,0.58,0.42, You had a good seat,Mention,Male,True
+369,Positive,0.3785714285714285,False,0.8119047619047618,964635660,0.7906,18137417,1517263986529648640,0.0,0.222,0.778, Pretty amazing right?,Mention,Male,True
+370,Neutral,0.0,False,0.0,52606842,0.0,18137417,1517263000930951168,0.0,1.0,0.0, Did you ask the question I gave you?,Mention,Male,True
+371,Neutral,0.0,False,0.0,1449779444575576067,0.0,18137417,1517021001091014657,0.0,1.0,0.0,  _ @_martina47 @_WearYourMask    _official        _17 _virtual  _Messi @_GAME_official ,Mention,Male,True
+372,Neutral,0.0,False,0.0,1007439632341110784,0.0,18137417,1516876629724872706,0.0,1.0,0.0, do you get to meet him?!,Mention,Male,True
+373,Neutral,0.0,False,0.0,1303047254559858688,0.0,18137417,1516759748170846209,0.0,1.0,0.0,   https://t.co/Gd1Ujobpt1,Mention,Male,True
+374,Neutral,0.0,False,0.0,455949997,0.0,18137417,1516487651003486208,0.0,1.0,0.0,   🙏🏽,Mention,Male,True
+375,Positive,0.25,False,0.2,835478222670344195,0.4926,18137417,1516469122632138757,0.0,0.385,0.615," Thanks, Hakeem!",Mention,Male,True
+376,Negative,-0.35,False,0.525,16972314,-0.6124,18137417,1516450821835132932,0.25,0.75,0.0,    I'm sadly just missing it by an hour. Get into SFO at 6:30...,Mention,Male,True
+377,Neutral,0.0,False,0.0,1414878440793288720,0.0,18137417,1516132156606926849,0.0,1.0,0.0,_DAO   _ias ,Mention,Male,True
+378,Neutral,0.0,False,0.0,1316002883284934656,0.0,18137417,1516101359950790657,0.0,1.0,0.0,   https://t.co/HXSjyMpwwX,Mention,Male,True
+379,Neutral,0.0,False,0.0,623275062,0.0,18137417,1515768784908263425,0.0,1.0,0.0," but you already have, . Its called the chamber of commerce.",Mention,Male,True
+380,Neutral,0.0,False,0.0,1498907689698562050,0.0,18137417,1515389727762882561,0.0,1.0,0.0, 🙈,Mention,Male,True
+381,Neutral,0.0,False,0.0,2336915086,0.0,18137417,1515380524109475841,0.0,1.0,0.0, _thoughts   might know too.,Mention,Male,True
+382,Neutral,0.0,False,0.0,328301647,0.0,18137417,1515380072718471171,0.0,1.0,0.0,_thoughts ,Mention,Male,True
+383,Neutral,0.0,False,0.0,4902991,0.0,18137417,1514941737680216073,0.0,1.0,0.0," The letters between DuBois, Washington and Ray Stannard Baker always come to my mind in this context.",Mention,Male,True
+384,Neutral,0.0,False,0.0,1389817803696336897,0.0,18137417,1514838483520856066,0.0,1.0,0.0,   _,Mention,Male,True
+385,Positive,0.1833333333333333,False,0.4583333333333333,1067673477442809856,0.9468,18137417,1514788094188294147,0.0,0.704,0.296," DuBois was brilliant + gracious in that way. He wrote something similar about W.D. Howells and his novella about interracial desire, *An Imperative Duty* It’s not that white writers can’t write about Black people/life, it’s that they must do it with intelligence and care.",Mention,Male,True
+386,Neutral,0.0,False,0.0,458962565,0.0,18137417,1514633081055068172,0.0,1.0,0.0,  But… https://t.co/TgSczbvQGp,Mention,Male,True
+387,Neutral,0.0,False,0.0,307150900,-0.2924,18137417,1514351175360925701,0.304,0.696,0.0,"  Aw, we miss Laikwan!!",Mention,Male,True
+388,Neutral,0.0,False,0.0,1454199811507474435,0.0,18137417,1514332161448493058,0.0,1.0,0.0,_fi    _U,Mention,Male,True
+389,Positive,0.2125,False,0.4166666666666667,170868090,0.6599,18137417,1514095614476267521,0.0,0.795,0.205,"  Such a sweet face! And, if Theo ever wants to go fountain hopping with Pippin and Lucy, they would not complain https://t.co/pt448y794a",Mention,Male,True
+390,Neutral,0.0,False,0.0,73257557,0.0,18137417,1514093718319509505,0.0,1.0,0.0, That is quite the journey!,Mention,Male,True
+391,Neutral,0.0,False,0.0,23549430,0.0,18137417,1514093481819615235,0.0,1.0,0.0, https://t.co/bSLCuuvROX,Mention,Male,True
+392,Neutral,0.0,False,0.0,1495543217693020162,-0.4404,18137417,1513457527844970497,0.111,0.835,0.054,"  Your manufacturing Conservatives. Happening 28% in 2022 and +-40% in 2024 of AA done voting left. The lies, race bating over,played out. Add 45% Latinos. Root and branch the party is over. Must rebuild with mew ideas, attitude will take decades. Woke broke Dems",Mention,Male,True
+393,Neutral,0.0,False,0.0,1497150880541384711,0.0,18137417,1513348308260990977,0.0,1.0,0.0, _your_NFTs  _doodles  _nft       ,Mention,Male,True
+394,Positive,0.475,False,0.8,97515361,0.7269,18137417,1513245735311097860,0.0,0.45,0.55, This was also pretty good Hakeem,Mention,Male,True
+395,Positive,0.75,False,0.675,4662933002,0.891,18137417,1512906316628512770,0.0,0.551,0.449,"  I knew he’d mentored a great group, and that list is still mind blowing ly good.",Mention,Male,True
+396,Positive,0.8,False,0.7,364511508,0.5994,18137417,1512535717590753292,0.0,0.55,0.45," I need to email him lol, well deserved",Mention,Male,True
+397,Positive,0.875,False,0.6000000000000001,4848077594,0.6027,18137417,1512490423528304640,0.0,0.671,0.329,_MPastor    Today was indeed a GOOD DAY!,Mention,Male,True
+398,Neutral,0.0,False,0.0,1294028134703075334,0.0,18137417,1512444386021449728,0.0,1.0,0.0,cc: _eckhouse   _phd     _roman _shoub _enns   _phd,Mention,Male,True
+399,Positive,0.5666666666666667,False,0.8666666666666667,1905463046,0.8807,18137417,1512279491984302083,0.0,0.797,0.203,"Not only did KJB become a Supreme,  shot the pic so I looked pre-COVID skinny &amp;  got the ‘a luta continua’ quote perfect (it’s from the Mozambican liberation struggle—u go, Jen). To cite Ice Cube—who should be a  fellow—it was a good day. https://t.co/tiWnlv1mxe",Mention,Male,True
+400,Neutral,0.0,False,0.0,1153685498021470209,0.4199,18137417,1512270018322571266,0.0,0.642,0.358,"   Thank you, Hakeem!",Mention,Male,True
+401,Positive,0.5,False,0.5,578964539,0.7964,18137417,1512224187922132995,0.0,0.798,0.202,_puranik _Corey _dadd         _88   My life has taken a turn for the better since I began using the Freedom Manifestation Mastery program.,Mention,Male,True
+402,Neutral,0.0,False,0.0,455949997,-0.5242,18137417,1512175282232328206,0.235,0.765,0.0,  broke out my USA t-shirt just for KBJ Day!! KBJConfirmed,Mention,Male,True
+403,Positive,0.1681818181818181,False,0.3772727272727272,540628749,0.7351,18137417,1512174356079775750,0.0,0.64,0.36,   Do you need any new colleagues?  Asking for a friend. Haha,Mention,Male,True
+404,Positive,0.1964285714285714,False,0.8154761904761904,1702425324,0.4939,18137417,1512160134692229125,0.0,0.856,0.144,"   Certainly, it won’t lead to any significant macro-level or institutional changes necessarily. Still every stepping stone counts, and the ripples will show up somewhere.",Mention,Male,True
+405,Positive,0.5,False,0.6,458962565,0.6369,18137417,1512153896206151689,0.0,0.543,0.457, You love to see it.,Mention,Male,True
+406,Positive,0.3,False,0.1,323564484,0.3612,18137417,1512144064744869896,0.0,0.706,0.294,  Two reasons to smile today.,Mention,Male,True
+407,Positive,0.25,False,0.2,4662933002,0.4926,18137417,1512139208034594826,0.0,0.484,0.516,"  Thanks, Ryan!",Mention,Male,True
+408,Neutral,0.0,False,0.0,116988104,0.0,18137417,1512139008939372554,0.0,1.0,0.0,  I bought my copy at MPSA this morning!,Mention,Male,True
+409,Negative,-0.05,False,0.6,6148642,0.0,18137417,1512135257667117056,0.0,1.0,0.0, Cue leftist takedown of KentanjiBrownJackson  SCOTUS,Mention,Male,True
+410,Neutral,0.0,False,0.0,2178197532,0.0,18137417,1512134549605597188,0.0,1.0,0.0," I did not expect to tear up when I read that, yet here I am.",Mention,Male,True
+411,Neutral,0.0,False,0.0,20790580,0.0,18137417,1512128649956237315,0.0,1.0,0.0, 🎉,Mention,Male,True
+412,Neutral,0.0,False,0.0,982101432584224768,0.0,18137417,1511972121487941634,0.0,1.0,0.0,     https://t.co/F1XKlNhztq,Mention,Male,True
+413,Neutral,0.0,False,0.0,2777840091,0.5994,18137417,1511850122027536386,0.0,0.204,0.796, Congratulations,Mention,Male,True
+414,Positive,1.0,False,1.0,937697642,0.6588,18137417,1511764031073181697,0.0,0.532,0.468,     Awesome!,Mention,Male,True
+415,Positive,0.0666666666666666,False,0.3666666666666667,221858588,0.8047,18137417,1511720409967706118,0.101,0.481,0.418,"Congratulations, ! Very well deserved support for research on a critical topic in American democracy. https://t.co/fVEZKW00OW",Mention,Male,True
+416,Negative,-0.5,False,1.0,1462739814353186817,-0.0772,18137417,1511679054675648518,0.206,0.794,0.0,  I am sorry 🙏🇺🇦🇺🇸🇵🇱💕 https://t.co/PbRcLPhfJj,Mention,Male,True
+417,Neutral,0.0,False,0.0,738038612613312513,0.6688,18137417,1511514424753983494,0.0,0.471,0.529,    Congratulations!!,Mention,Male,True
+418,Neutral,0.0,False,0.0,737047765822414848,0.0258,18137417,1511475141988990981,0.0,0.82,0.18,_melikov   Because context matters?,Mention,Male,True
+419,Negative,-0.0249999999999999,False,0.3916666666666666,737047765822414848,0.6369,18137417,1511474791156441088,0.0,0.902,0.098,"  Regarding nukes. If NATO were to tell Russia we are going to put peacekeepers into west Ukraine, they could then tell us what their response would be. We should insist it is clear and unequivocal. Letting them make dark hints lets them off the hook and paralyses us.",Mention,Male,True
+420,Positive,0.45,True,0.65,806372686788235264,0.9423,18137417,1511465302051233799,0.0,0.621,0.379,"  Yes congratulations. Meanwhile, since neither of you 2 were alive during the 1930s you have the pleasure of living trough that period in the 2020s. Welcome to the Reich. https://t.co/UUTEzPXTEC",Mention,Male,True
+421,Neutral,0.0,False,0.0,988884663262330880,0.4199,18137417,1511462864141258758,0.0,0.589,0.411,  Thank you !,Mention,Male,True
+422,Neutral,0.0,False,0.0,1503523367714013185,0.0,18137417,1511461077170761728,0.0,1.0,0.0,  Why don't you work on just ending Fascism instead? https://t.co/p300iX3NKH,Mention,Male,True
+423,Neutral,0.0,False,0.0,454099919,0.5707,18137417,1511460732076179461,0.0,0.351,0.649,Congrats  ! https://t.co/8cWU5gyR6P,Mention,Male,True
+424,Positive,0.3452380952380953,False,0.5968253968253968,1384580312735174660,0.9752,18137417,1511460265581232130,0.0,0.538,0.462,"So great to see such amazing scholars receiving funding to work on such exciting projects! I'm excited to learn more about these projects as they mature.
+And a particularly special congratulations to  and . https://t.co/cq3BGWj7Ul",Mention,Male,True
+425,Neutral,0.0,False,0.0,378047876,0.0,18137417,1511432208904503302,0.0,1.0,0.0, Is this a subtweet?,Mention,Male,True
+426,Positive,0.137037037037037,True,0.5981481481481481,48925204,-0.143,18137417,1511403796307628040,0.202,0.638,0.159, ... accusations running rampant wo full context isn't helpful either. Or someone accusing others of purposely not citing works that allegedly already showed result... not good. Yet taking on directly has ugly side. Letting things go (not my strong suit) prob better more often. :),Mention,Male,True
+427,Positive,0.0297619047619047,False,0.6011904761904762,48925204,-0.5859,18137417,1511403357621174274,0.134,0.828,0.037," Yes. there are other aspects too- when those w priv disagree w those without, gets called an attack.  but if those w priv don't speak up, beliefs spread that might be untrue... that only non-priv get accused of not having theory or large contrib, etc.  A dialogue of...",Mention,Male,True
+428,Negative,-0.2357142857142857,False,0.4571428571428571,1163723022,-0.4927,18137417,1511373965511507972,0.242,0.758,0.0, _mirya I don’t see a single non research uni. I’m. So. Tired.,Mention,Male,True
+429,Positive,0.3125,False,0.2,15185020,0.8652,18137417,1511366364417646599,0.0,0.292,0.708, Thanks for sharing Hakeem. And congrats!!,Mention,Male,True
+430,Neutral,0.0,False,0.0,313680714,0.636,18137417,1511329325605396480,0.0,0.488,0.512,    Congratulations!,Mention,Male,True

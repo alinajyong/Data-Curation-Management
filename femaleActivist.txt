@@ -1,0 +1,717 @@
+,Analysis,Polarity,Profanity,Subjectivity,author id,compound,for,id,neg,neu,pos,text,type,Gender,Activist
+0,Positive,0.4000000000000001,False,0.9,108189187,0.7574,2825591395,1512218525061947395,0.0,0.316,0.684, Coolest beans! Huge congratulations,Mention,Female,True
+1,Neutral,0.0,False,0.0,1000455440046571520,0.6688,2825591395,1512218337522057216,0.0,0.572,0.428, 🎉🎉🥰🥰 Congratulations. Go get ‘em!! 🤩🤩,Mention,Female,True
+2,Neutral,0.0,False,0.0,132512775,0.0,2825591395,1512217687954440197,0.0,1.0,0.0, woweee!!!!!! congratulations!!!!,Mention,Female,True
+3,Neutral,0.0,False,0.0,3434993711,0.6458,2825591395,1512216657065775104,0.0,0.319,0.681, Congrats!!! ❤️🔥❤️🔥,Mention,Female,True
+4,Neutral,0.0,False,0.0,472119021,0.636,2825591395,1512214035294560260,0.0,0.544,0.456,"Congratulations ,  &amp; ! https://t.co/6dmSmPSYLI",Mention,Female,True
+5,Positive,1.0,False,1.0,2394369259,0.6467,2825591395,1512211932174069767,0.0,0.539,0.461,    Excellent news!!👏🏿👏🏿,Mention,Female,True
+6,Neutral,0.0,False,0.0,1966127287,0.8011,2825591395,1512211357059489793,0.0,0.295,0.705," Yes!! Dr. Blain, Congratulations 👏",Mention,Female,True
+7,Neutral,0.0,False,0.0,1702425324,0.0,2825591395,1512211004926697479,0.0,1.0,0.0, Congratulations!🎊,Mention,Female,True
+8,Neutral,0.0,False,0.0,2790500587,0.6688,2825591395,1512210795991601152,0.0,0.182,0.818, Congratulations!!,Mention,Female,True
+9,Neutral,0.0,False,0.0,374243953,0.6103,2825591395,1512210222709936129,0.0,0.334,0.666, Congrats!! 🎉🌟🙌🏽,Mention,Female,True
+10,Neutral,0.0,False,0.0,37119608,0.5994,2825591395,1512209927024095232,0.0,0.204,0.796, Congratulations,Mention,Female,True
+11,Positive,0.9375,False,0.6,21972744,0.7081,2825591395,1512209610446458881,0.0,0.254,0.746,  Warm congrats!!,Mention,Female,True
+12,Neutral,0.0,False,0.0,2513822461,0.0,2825591395,1512207853544648719,0.0,1.0,0.0, Huzzah Dr. Blain!!!,Mention,Female,True
+13,Neutral,0.0,False,0.0,37119608,0.6688,2825591395,1512207341139148801,0.0,0.182,0.818, Congratulations!!,Mention,Female,True
+14,Neutral,0.0,False,0.0,3091472429,0.6688,2825591395,1512207055079235595,0.0,0.308,0.692, Congratulations Keisha!!,Mention,Female,True
+15,Neutral,0.0,False,0.0,371977440,0.7639,2825591395,1512206641663512587,0.0,0.313,0.687, Congratulations! So well deserved.,Mention,Female,True
+16,Positive,1.0,False,1.0,80944765,0.6688,2825591395,1512206294752677896,0.0,0.182,0.818, Beautiful!!,Mention,Female,True
+17,Neutral,0.0,False,0.0,4252943782,0.4199,2825591395,1512206082160087043,0.0,0.518,0.482,_NataliaM  Thank you!,Mention,Female,True
+18,Positive,0.625,False,0.9,785537265057488896,0.8647,2825591395,1512206080482369537,0.0,0.257,0.743," Congratulations, Keisha!! Fantastic news!!",Mention,Female,True
+19,Neutral,0.0,False,0.0,1184514495869259777,0.6239,2825591395,1512206066402181120,0.0,0.859,0.141,Honored to have had  as our keynote speaker for Trotter150 Reimagining Our Radical Roots: A Classroom of Global Activism at the  JFK Jr. Forum! https://t.co/uDmwCs9ryv,Mention,Female,True
+20,Neutral,0.0,False,0.0,4252943782,0.4199,2825591395,1512205600704417799,0.0,0.741,0.259,"      Thank you, !",Mention,Female,True
+21,Neutral,0.0,False,0.0,43013901,0.5994,2825591395,1512205557381439492,0.0,0.435,0.565, Oh My Congratulations 🎊,Mention,Female,True
+22,Neutral,0.0,False,0.0,44903491,0.7192,2825591395,1512205055566393379,0.0,0.166,0.834, CONGRATS!!!,Mention,Female,True
+23,Negative,-0.1590277777777778,False,0.3131944444444445,42891240,0.8519,2825591395,1512203090946011158,0.0,0.773,0.227,"  Hey can you take down my defaced artwork please on your other posts, you disabled comments so I have to talk to you here. Please take it down, thank you for respecting the work of artists. BIPOC artists",Mention,Female,True
+24,Neutral,0.0,False,0.0,72803313,0.5707,2825591395,1512201838979821580,0.0,0.448,0.552, Congrats Dr.  !,Mention,Female,True
+25,Neutral,0.0,False,0.0,463878814,0.6981,2825591395,1512201690547691525,0.0,0.173,0.827, Congratulations!!!,Mention,Female,True
+26,Positive,0.91552734375,False,0.75,243394220,0.8504,2825591395,1512200678395224068,0.0,0.266,0.734, Congratulations!  So richly deserved!!!!,Mention,Female,True
+27,Neutral,0.0,False,0.0,188358203,0.636,2825591395,1512200633276895236,0.0,0.193,0.807, Congratulations!,Mention,Female,True
+28,Neutral,0.0,False,0.0,3604985243,0.4199,2825591395,1512200120032505867,0.0,0.715,0.285,      Thank you!,Mention,Female,True
+29,Neutral,0.0,False,0.0,3314411779,0.0,2825591395,1512199075453579287,0.0,1.0,0.0, Bravo!!!!,Mention,Female,True
+30,Neutral,0.0,False,0.0,59667352,0.8003,2825591395,1512198041310277644,0.0,0.295,0.705, Congratulations!! So well deserved!,Mention,Female,True
+31,Neutral,0.0,False,0.0,897218253826555905,0.6688,2825591395,1512197268962652170,0.0,0.182,0.818, Congratulations!!,Mention,Female,True
+32,Neutral,0.0,False,0.0,778668696155873284,0.6688,2825591395,1512197264290115584,0.0,0.182,0.818, Congratulations!!,Mention,Female,True
+33,Neutral,0.0,False,0.0,985749294,0.5562,2825591395,1512196228775301121,0.0,0.358,0.642,  Hooray!,Mention,Female,True
+34,Neutral,0.0,False,0.0,891190603,0.6981,2825591395,1512195926852620293,0.0,0.295,0.705, Congratulations Keisha!!!,Mention,Female,True
+35,Neutral,0.0,False,0.0,16187676,0.6458,2825591395,1512195777233399809,0.0,0.19,0.81, Congrats!!!,Mention,Female,True
+36,Positive,1.0,False,1.0,113038982,0.8679,2825591395,1512194785687355396,0.0,0.255,0.745, Congratulations!!! Happy for you!!!,Mention,Female,True
+37,Neutral,0.0,False,0.0,10982522,0.636,2825591395,1512194711724900394,0.0,0.323,0.677,Congratulations ! https://t.co/qoxTxtnYfd,Mention,Female,True
+38,Neutral,0.0,False,0.0,1426557763,0.6981,2825591395,1512194554329448450,0.0,0.79,0.21,"Congratulations to 
+   &amp; Brenda Child  on your Guggenheims in US history!!!  
+https://t.co/uXGfM7UClB https://t.co/kY8RTArKnf",Mention,Female,True
+39,Neutral,0.0,False,0.0,474154291,0.4574,2825591395,1512194542430216192,0.0,0.401,0.599, Yes! 👏🏿👏🏿👏🏿👏🏿👏🏿👏🏿,Mention,Female,True
+40,Neutral,0.0,False,0.0,80871603,0.6688,2825591395,1512194524520628233,0.0,0.471,0.529,    Congratulations!!,Mention,Female,True
+41,Positive,0.59375,False,0.6666666666666666,21347657,0.9213,2825591395,1512193437839241218,0.0,0.552,0.448,  Fantastic!!! Would love to learn more about the process &amp; award after you start your tenure,Mention,Female,True
+42,Neutral,0.0,False,0.0,373566752,0.6981,2825591395,1512192880533811201,0.0,0.295,0.705," Congratulations, Keisha!!!",Mention,Female,True
+43,Neutral,0.0,False,0.0,3604985243,0.0,2825591395,1512192628078649352,0.0,1.0,0.0,   🙏,Mention,Female,True
+44,Neutral,0.0,False,0.0,1357149971003420672,0.826,2825591395,1512191635806953474,0.0,0.281,0.719, Congrats!!! Riches after riches...,Mention,Female,True
+45,Neutral,0.0,False,0.0,56799476,0.636,2825591395,1512191627930095634,0.0,0.193,0.807, Congratulations!,Mention,Female,True
+46,Neutral,0.0,False,0.0,248234943,0.6981,2825591395,1512191267089833984,0.0,0.173,0.827, Congratulations!!!,Mention,Female,True
+47,Neutral,0.0,False,0.0,3539579412,0.7678,2825591395,1512190933315604480,0.0,0.376,0.624," So well deserved! Congrats, Sis!",Mention,Female,True
+48,Positive,0.6000000000000001,False,0.9,1103082269491806210,0.5859,2825591395,1512190709473988609,0.0,0.345,0.655, Amazing 🎉🥳👏,Mention,Female,True
+49,Positive,0.2890625,False,0.9722222222222222,891806948,0.9715,2825591395,1512190627425013768,0.0,0.155,0.845, Wow! Wow! Wow! The privilege is surely theirs! Congratulations!,Mention,Female,True
+50,Positive,0.9765625,False,0.9,14558810,0.8647,2825591395,1512190035000504323,0.0,0.103,0.897, Fantastic!! Congratulations!!,Mention,Female,True
+51,Neutral,0.0,False,0.0,2426176808,0.6688,2825591395,1512189935482191886,0.0,0.182,0.818, Congratulations!!,Mention,Female,True
+52,Neutral,0.0,False,0.0,33947371,0.6981,2825591395,1512189132617191427,0.0,0.626,0.374,Congratulations to Guggenheim Fellows  and  !!! https://t.co/pUH4cinKJ0,Mention,Female,True
+53,Neutral,0.0,False,0.0,17815531,0.7184,2825591395,1512189122676465673,0.0,0.25,0.75," Well deserved, congratulations",Mention,Female,True
+54,Neutral,0.0,False,0.0,1352765967244386305,0.6981,2825591395,1512189081752592386,0.0,0.386,0.614," Congratulations, Prof. Blain!!!",Mention,Female,True
+55,Positive,0.8138020833333331,False,1.0,3111892924,0.7243,2825591395,1512189016761806859,0.0,0.497,0.503, That is tremendous news!! Congratulations!!,Mention,Female,True
+56,Neutral,0.0,False,0.0,3037261674,0.5994,2825591395,1512188895441702918,0.0,0.204,0.796, Congratulations 🎊,Mention,Female,True
+57,Neutral,0.0,False,0.0,3975350957,0.0,2825591395,1512188586740883462,0.0,1.0,0.0,  Brava! 👏🏼👏🏼,Mention,Female,True
+58,Neutral,0.0,False,0.0,836026272434241536,0.8114,2825591395,1512188388899794955,0.0,0.289,0.711," Woo hoo! Congrats, Keisha!!",Mention,Female,True
+59,Neutral,0.0,False,0.0,181611480,0.0,2825591395,1512187980726693889,0.0,1.0,0.0, 🎉🎉,Mention,Female,True
+60,Neutral,0.0,False,0.0,2336915086,0.636,2825591395,1512187705068818434,0.0,0.193,0.807, Congratulations!,Mention,Female,True
+61,Positive,0.6250000000000001,False,0.9,872825374765445120,0.7772,2825591395,1512186960638529548,0.0,0.424,0.576," This is huge! Congratulations, Keisha! 🎉🎉",Mention,Female,True
+62,Neutral,0.0,False,0.0,10454572,0.6968,2825591395,1512186442688073729,0.0,0.386,0.614, so deserved! congratulations!,Mention,Female,True
+63,Neutral,0.0,False,0.0,17700609,0.636,2825591395,1512186400157929475,0.0,0.193,0.807, Congratulations! 🎉,Mention,Female,True
+64,Neutral,0.0,False,0.0,341253579,0.783,2825591395,1512186375667388419,0.0,0.225,0.775, Congratulations!! Well deserved!👏🏽👏🏽,Mention,Female,True
+65,Neutral,0.0,False,0.0,69233321,0.5707,2825591395,1512186304208986118,0.0,0.213,0.787, Congrats!,Mention,Female,True
+66,Neutral,0.0,False,0.0,395293461,0.6981,2825591395,1512185507815514117,0.0,0.295,0.705,  Congratulations!!!,Mention,Female,True
+67,Positive,1.0,False,1.0,1968828768,0.6114,2825591395,1512184664718553090,0.0,0.6,0.4,    Wonderful to see!,Mention,Female,True
+68,Neutral,0.0,False,0.0,561635737,0.8346,2825591395,1512184373088595971,0.0,0.433,0.567, Woot! Congratulations!!! You are *killing* it! 🙌🏻🎉,Mention,Female,True
+69,Neutral,0.0,False,0.0,1226705487153913856,0.636,2825591395,1512184264833515527,0.0,0.193,0.807, Congratulations!,Mention,Female,True
+70,Neutral,0.0,False,0.0,865118713,0.6688,2825591395,1512184171535519747,0.0,0.182,0.818, Congratulations!!,Mention,Female,True
+71,Neutral,0.0,False,0.0,2360143940,0.0,2825591395,1512184041176453130,0.0,1.0,0.0, Congratulations!!!!,Mention,Female,True
+72,Neutral,0.0,False,0.0,2185255711,0.8353,2825591395,1512183152042987520,0.0,0.533,0.467,"    Yay, go historians, go! Congratulations all around!",Mention,Female,True
+73,Neutral,0.0,False,0.0,4252943782,0.4199,2825591395,1512182977316495366,0.0,0.642,0.358,    Thank you!,Mention,Female,True
+74,Positive,0.275,False,0.3642361111111111,51769260,0.9558,2825591395,1512182944462483467,0.0,0.683,0.317," Congratulations, Dr. Blain. What a joy and blessing to have your scholarship and creativity receive such prestigious recognition. I know you will shine your light ever more brightly on African American history and culture in the future. Be sure to take time to smell the roses.🌹 https://t.co/uvTJGtOrJD",Mention,Female,True
+75,Neutral,0.0,False,0.0,4252943782,0.4199,2825591395,1512182881271099393,0.0,0.589,0.411,   Thank you!,Mention,Female,True
+76,Neutral,0.0,False,0.0,886993087,0.5707,2825591395,1512182676542865411,0.0,0.213,0.787, Congrats!,Mention,Female,True
+77,Positive,0.65,False,0.9,25832593,0.8016,2825591395,1512182661724442636,0.0,0.294,0.706, Exciting and wonderful! 🎉🎉🎉,Mention,Female,True
+78,Negative,-0.15625,False,0.375,1968828768,0.807,2825591395,1512182389304406020,0.0,0.641,0.359,Congratulations also to     Suzanne Marchand and all the other Guggenheim winners!,Mention,Female,True
+79,Neutral,0.0,False,0.0,3399822627,0.6103,2825591395,1512182332077268992,0.0,0.43,0.57, Huzzah and congrats!!,Mention,Female,True
+80,Neutral,0.0,False,0.0,824317598414340102,0.5707,2825591395,1512181864647344133,0.0,0.619,0.381," Congrats, Manisha, also  and !",Mention,Female,True
+81,Positive,0.78125,False,0.5,579792548,0.6688,2825591395,1512181681914060803,0.0,0.401,0.599," Many congratulations, Keisha!!",Mention,Female,True
+82,Neutral,0.0,False,0.0,900889888656171008,0.0,2825591395,1512181624875716609,0.0,1.0,0.0,  Congrats!!!!!,Mention,Female,True
+83,Neutral,0.0,False,0.0,1014473775893680128,0.636,2825591395,1512181494294396929,0.0,0.193,0.807, Congratulations!,Mention,Female,True
+84,Positive,1.0,False,0.75,18698517,0.8395,2825591395,1512181409598767169,0.0,0.429,0.571,__    Woohoo! What great news!,Mention,Female,True
+85,Positive,0.7500000000000001,True,0.9,2185255711,0.8508,2825591395,1512181312303820801,0.0,0.42,0.58," OMG, amazing news and so richly-deserved - congratulations!",Mention,Female,True
+86,Positive,0.625,False,0.6,19825572,0.9017,2825591395,1512180760853184512,0.0,0.265,0.735, Congratulations! Well deserved! Love your work!,Mention,Female,True
+87,Neutral,0.0,False,0.0,3604985243,0.0,2825591395,1512180698706292743,0.0,1.0,0.0,  🙏,Mention,Female,True
+88,Positive,1.0,False,0.7,1081564759936380930,0.8692,2825591395,1512180608956575744,0.0,0.577,0.423,We are so thrilled to see  &amp;  on this list!! Congratulations!!! 🎉 https://t.co/ykx1QDZyxK,Mention,Female,True
+89,Positive,1.0,False,1.0,237994344,0.8675,2825591395,1512180577151209473,0.0,0.314,0.686, So wonderful! Congratulations Dr. Blain!,Mention,Female,True
+90,Neutral,0.0,False,0.0,148368603,0.6688,2825591395,1512180378043392009,0.0,0.308,0.692," Congratulations, Keisha!!",Mention,Female,True
+91,Neutral,0.0,False,0.0,129782466,0.0,2825591395,1512180202645995523,0.0,1.0,0.0, Huzzah!,Mention,Female,True
+92,Neutral,0.0,False,0.5,18276759,0.8353,2825591395,1512180180755775541,0.0,0.388,0.612, Congratulations! You are such an inspiration!,Mention,Female,True
+93,Positive,1.0,False,1.0,23215959,0.6892,2825591395,1512180018092277804,0.0,0.299,0.701, Awesome 👏!!,Mention,Female,True
+94,Neutral,0.0,False,0.0,825562215302336513,0.8065,2825591395,1512179705314639875,0.0,0.579,0.421, Congratulations! Can’t wait to see what you accomplish with this fellowship!,Mention,Female,True
+95,Positive,0.5000000000000001,True,0.9,177688732,0.7734,2825591395,1512179645331898405,0.0,0.472,0.528, 😍😍😍 OMG CONGRATS KEISHA this is huge!,Mention,Female,True
+96,Neutral,0.0,False,0.0,227514907,0.8057,2825591395,1512179336291532801,0.0,0.121,0.879, Congrats!!! Yes!!!,Mention,Female,True
+97,Neutral,0.0,False,0.0,4688373872,0.5707,2825591395,1512179295573184512,0.0,0.448,0.552, ❤️ Congrats! 🍾🎉,Mention,Female,True
+98,Positive,1.0,False,1.0,1432015542337081346,0.8582,2825591395,1512179011409125386,0.0,0.371,0.629, Congratulations Keisha! This is wonderful news!! 🎉,Mention,Female,True
+99,Neutral,0.0,False,0.0,131322596,0.6688,2825591395,1512178896657129474,0.0,0.471,0.529," Rock on, doc! Congratulations!",Mention,Female,True
+100,Positive,0.2111111111111111,False,0.3777777777777777,87305804,0.7184,3196664426,1499518227902341122,0.0,0.75,0.25,"Wondering what kind of learning you'll do in 's March PD series Dynamic Teaching for Social Justice? 
+
+Take a look.
+https://t.co/Fi4QLDfuEq",Mention,Female,True
+101,Positive,0.0249999999999999,False,0.3666666666666667,750073392,0.8176,3196664426,1499484972607946755,0.0,0.852,0.148,"“I don’t care what book you put in front of the kid, I care about the kid”  to _MI last night. Sitting w/the fact that white Ts create so many unnecessary barriers when it comes to teaching w/an ABAR praxis. And working on how to unpack that &amp; counter it w/MI Ts.",Mention,Female,True
+102,Positive,1.0,False,0.6000000000000001,750073392,0.6211,3196664426,1499464807677771783,0.0,0.711,0.289, _MI    So good to see you Hawanya!!! 💙,Mention,Female,True
+103,Positive,0.78125,False,0.7,1019660029341904896,0.8513,3196664426,1499452276397809664,0.0,0.492,0.508, _MI    I truly enjoyed the presentation! Thank you all!,Mention,Female,True
+104,Positive,0.85,False,1.0,19600628,0.8327,3196664426,1499440089310670856,0.0,0.697,0.303,     It was an honor to be in conversation with you all about this beautiful book,Mention,Female,True
+105,Positive,0.25,False,0.5,87305804,0.4576,3196664426,1499210265551908866,0.0,0.85,0.15,Have you signed up yet? Just heard  at LitCC2022 and most definitely need a series with her. https://t.co/TlDuh7uLV1,Mention,Female,True
+106,Positive,0.3333333333333333,False,0.4777777777777778,750073392,0.8011,3196664426,1499207658380963841,0.0,0.807,0.193,Awesome learning tonight with _MI and keynote ! Thx to all who made time to put YOU first tonight. And check out that pic w/a few of my faves!   https://t.co/6jUgtDSttc,Mention,Female,True
+107,Positive,0.4388888888888889,False,0.8416666666666667,716995652,0.893,3196664426,1499191414575583235,0.0,0.79,0.21,"So fantastic that _MI was able to have the tremendous edu queen  speak tonight to help educators grow in ABAR work! I introduced myself as a founding member of her fan club because she is everything. Thank you for taking the time to speak to us tonight, sis. https://t.co/KU7ndegec7",Mention,Female,True
+108,Negative,-0.28125,False,0.55,29367668,0.0,3196664426,1499171316724903940,0.0,1.0,0.0," I was in the building! I was a little late, but I was there! Lorena, you are so dope. I’m with ya boy. You should see run for office🤣",Mention,Female,True
+109,Neutral,0.0,False,0.0,2259334207,0.4199,3196664426,1499114258801602567,0.0,0.589,0.411,  Thank you! 🙌🏽💜,Mention,Female,True
+110,Positive,0.0681818181818181,False,0.3,385076666,-0.0258,3196664426,1499067954624929801,0.05,0.903,0.047,"STARTING NOW ON IG LIVE
+
+Author, educator, and activist  joins Cami King, our Director of Advocacy and Training, for a conversation on how teachers can create equitable classrooms and teachtruth amidst a wave of efforts to stop them from doing so.
+
+ https://t.co/c6veULEtNf",Mention,Female,True
+111,Positive,0.48828125,False,0.5,1481900567207477248,0.6562,3196664426,1498924372157157376,0.115,0.619,0.266,"  Urgent News!
+ 
+Impending global food crisis! 
+An astonishing solution!
+An introduction to the happiest place on earth! A place that is COVID-free and mask-free!""
+
+https://t.co/frQ4lesIhJ",Mention,Female,True
+112,Neutral,0.0,False,0.0,1152637157988806656,0.0,3196664426,1498900439911174145,0.0,1.0,0.0,  https://t.co/HTf5Nn3kDH,Mention,Female,True
+113,Positive,0.6000000000000001,False,0.9,750672855705104385,0.5859,3196664426,1498870936333811713,0.0,0.703,0.297,     You all are amazing ❤️❤️,Mention,Female,True
+114,Neutral,0.0,False,0.0,1079472472485961728,0.0,3196664426,1498851539406012423,0.0,1.0,0.0,     Who did that? WE did that!!!,Mention,Female,True
+115,Neutral,0.0,False,0.0,68839021,0.0,3196664426,1498842917988876288,0.0,1.0,0.0, I feel a need to order them by preference: 1. Chocolate 2. Strawberry 3. Butter Pecan 4. Praline 5. Mint Chocolate Chip 6. Rocky Road 7. Vanilla 8. Cookie Dough 9. Cookies and Cream,Mention,Female,True
+116,Neutral,0.0,False,1.0,1166779231269019650,0.0,3196664426,1498840530821734403,0.0,1.0,0.0, Cookie dough is the only correct answer.,Mention,Female,True
+117,Neutral,0.0,False,0.125,1166779231269019650,0.3786,3196664426,1498840332506697732,0.0,0.91,0.09,   Nooooo! Steven says the same and I clown him every chance I get. Guess y’all are meeting in the church fellowship hall for some ice cream!,Mention,Female,True
+118,Neutral,0.0,False,0.0,716995652,0.0,3196664426,1498827243451256832,0.0,1.0,0.0,  https://t.co/9uD7PRKiL0,Mention,Female,True
+119,Neutral,0.0,False,0.0,771079322304024576,0.0,3196664426,1498817589090430981,0.0,1.0,0.0,   https://t.co/fHvZxh5zUH,Mention,Female,True
+120,Positive,0.2666666666666666,False,0.8666666666666667,746099648,0.471,3196664426,1498813796030337025,0.251,0.404,0.344,"  😭 I hate that, I forget everything even with reminders! lol happy birthday, Tricia!!!!!",Mention,Female,True
+121,Positive,0.0369318181818181,False,0.25,385076666,0.7412,3196664426,1498812570077122560,0.0,0.843,0.157,"IG LIVE TOMORROW | 12PM
+
+TEP's Cami King will be joined by author/educator/activist Lorena Germán () for a conversation on how teachers can create equitable classrooms and continue to teachtruth despite obstacles and what the rest of us can do to support teachers! https://t.co/sDUL73oNOI",Mention,Female,True
+122,Positive,0.5,False,0.6,233627920,0.8271,3196664426,1498811929170788355,0.198,0.347,0.456," FRIEND. 
+
+STOP.
+
+I love you and thankful for you. No apologies ever needed. 💛💛💛",Mention,Female,True
+123,Positive,0.1363636363636363,False,0.5,835252300830674945,0.296,3196664426,1498811679823573002,0.0,0.804,0.196,Happening now on Facebook Live. Join us   https://t.co/Va5pQpjErd,Mention,Female,True
+124,Positive,1.0,False,0.3,233627920,0.8074,3196664426,1498811582280839174,0.0,0.451,0.549, “You look 35” is the best compliment 😂,Mention,Female,True
+125,Neutral,0.0,False,0.1,44927150,0.296,3196664426,1498802765673504773,0.0,0.879,0.121,"STARTING SOON: Join the conversation on the Heinemann Facebook Page
+     
+https://t.co/bHwxmGC4Hc https://t.co/3aehiL0uaB",Mention,Female,True
+126,Neutral,0.0,False,0.0,3228519056,0.0,3196664426,1498799722038972418,0.0,1.0,0.0,   I LURRRRVE Butter Pecan! I knew we were soulmates.,Mention,Female,True
+127,Positive,0.8,False,1.0,44927150,0.5719,3196664426,1498776597628960770,0.0,0.575,0.425,  Happy Belated Birthday  🎂,Mention,Female,True
+128,Positive,0.7,False,0.6000000000000001,431029922,0.4926,3196664426,1498767392511389697,0.0,0.715,0.285,  Seconded! I rock with a good vanilla bean too.,Mention,Female,True
+129,Positive,0.0111111111111111,False,0.2111111111111111,483178077,0.2255,3196664426,1498767115331031045,0.0,0.934,0.066," I really like Vanilla Bean, but as a card carrying member of the Black Auntie/Church Candy Lady Society, I have to say Butter Pecan. I'm calling in  for a second.",Mention,Female,True
+130,Neutral,0.0,False,0.0,483178077,0.0,3196664426,1498766564727873538,0.0,1.0,0.0, _Bark 😂,Mention,Female,True
+131,Neutral,0.0,False,0.0,836373059510628353,0.0,3196664426,1498756798001651713,0.0,1.0,0.0, 😆 https://t.co/DUSQRyAPCY,Mention,Female,True
+132,Positive,0.5,False,0.7,3005955455,0.9151,3196664426,1498742198027927554,0.0,0.54,0.46," It is truly an incredible teacher's guide, ! Thank you for treating PILAR with such care and brilliance.",Mention,Female,True
+133,Neutral,0.0,False,0.0,1175486525485641728,0.0,3196664426,1498740414886469635,0.0,1.0,0.0, 🤣🤣🤣,Mention,Female,True
+134,Positive,0.5,False,0.6,2571432294,0.8555,3196664426,1498718592795349000,0.0,0.567,0.433,"    _g  Love this, and love Basque surnames 💜💜",Mention,Female,True
+135,Positive,0.0964285714285714,False,0.2547619047619047,1594162892,0.0,3196664426,1498711080880807938,0.0,1.0,0.0,"""P.S. Y’all never pronounced my last name right. It’s (oo-ree-ose-te-guee). Soft on the last g, as in goddess."" 🔥
+StuVoice
+cc:     _g ",Mention,Female,True
+136,Positive,0.5,False,1.0,850146728846274561,0.6597,3196664426,1498709916424585224,0.0,0.796,0.204,"Building community...&amp; challenging the status quo...In this show Lorena speaks to teachers about the importance of...using curriculum to expand students’ understanding of...culturally responsive...   
+https://t.co/3LbPBfyEos
+CulturallyResponsive https://t.co/9m31ufdMoJ",Mention,Female,True
+137,Neutral,0.0,False,0.0,953452275942481930,0.508,3196664426,1498706985453248514,0.0,0.901,0.099,"  Lorena Escoto German's - Textured Teaching is making an impact across the nation!  We are so pumped to lean into our personalgrowth, impact, authenticity, community, and integrity values! TODAY at 5 PM",Mention,Female,True
+138,Neutral,0.0,False,0.0,215682977,0.0,3196664426,1498687371486941186,0.0,1.0,0.0, Butter Pecan,Mention,Female,True
+139,Neutral,0.0,False,0.0,836373059510628353,0.0,3196664426,1498684574842466313,0.0,1.0,0.0, Mint chocolate chip.,Mention,Female,True
+140,Positive,0.8,False,0.7,771079322304024576,0.4215,3196664426,1498684037812084742,0.0,0.263,0.737, Lol,Mention,Female,True
+141,Positive,1.0,False,1.0,716748437035687936,0.6249,3196664426,1498657864029597697,0.0,0.709,0.291,        This is awesome 👏,Mention,Female,True
+142,Positive,0.35,False,0.5666666666666668,540283909,0.4019,3196664426,1498654551175483392,0.0,0.922,0.078,"Our newest course, designed around the principles of DisruptTexts and featuring , will help you get concrete about shifting your literacy practice to be more relevant, representative, and equitable.  https://t.co/kdKTilEDca educolor elachat https://t.co/2yZf31ETy2",Mention,Female,True
+143,Neutral,0.0,False,0.0,44927150,0.296,3196664426,1498652778859741185,0.0,0.929,0.071,"TONIGHT: Join Lorena Germán, Kate Roberts, Aisha Christa Atkinson, Heather Lippert, + Vanee Smith-Matsalia on the Heinemann FB page. Tue. Mar. 1st @ 7pm ET. 
+     
+https://t.co/WwQYFO38do https://t.co/7D39Hg8Dke",Mention,Female,True
+144,Positive,0.5,False,0.75,24982882,0.5859,3196664426,1498540976721350657,0.0,0.593,0.407,  Two of my top favorite books. ❤️,Mention,Female,True
+145,Positive,0.3583333333333333,False,0.3666666666666666,1676882180,0.9565,3196664426,1498519651348885505,0.0,0.645,0.355,"“The term social justice refers to a redistribution of resources, opportunities, wealth, and power that promotes equity.” - Textured Teaching…I love when authors define their terms. Always good to be reminded of definitions when these words get thrown around so much.",Mention,Female,True
+146,Neutral,0.0,False,0.0,771079322304024576,0.0,3196664426,1498510097219301377,0.0,1.0,0.0, https://t.co/tsLIrIacba,Mention,Female,True
+147,Neutral,0.0,True,0.0,771079322304024576,0.0,3196664426,1498466061041156098,0.0,1.0,0.0, I don’t see rum raisin 😬,Mention,Female,True
+148,Positive,0.375,False,0.2,1271810936823853056,0.69,3196664426,1498464673934544896,0.0,0.613,0.387,       Well this is fun!,Mention,Female,True
+149,Positive,0.419345238095238,False,0.8119047619047618,8306282,0.8349,3196664426,1498463475969966082,0.0,0.683,0.317," Wow, I may have to retract all my enthusiastic endorsements of your work. Cookies and Cream is right there!!!",Mention,Female,True
+150,Positive,0.625,False,0.5,87305804,0.7081,3196664426,1498431571929542663,0.0,0.831,0.169,"Get support designing learning experiences for ALL kids!
+
+Learn how to make learning more experiential, interdisciplinary, and focused on students and their communities with .
+
+🗓Starts 3/15! 30-day access.
+https://t.co/eG3DRluLn0 https://t.co/dRteP9cb1l",Mention,Female,True
+151,Positive,0.1,False,0.1,44927150,0.296,3196664426,1498340973058957319,0.0,0.936,0.064,"TEXTURED TEACHING IN ACTION: Join Lorena Germán, Kate Roberts, Aisha Christa Atkinson, Heather Lippert, + Vanee Smith-Matsalia on the Heinemann FB page. Tue. Mar. 1st @ 7pm ET. https://t.co/bBjZlXp4ib
+     https://t.co/XPAqpU5iQG",Mention,Female,True
+152,Positive,0.5625,False,0.8,953452275942481930,0.9077,3196664426,1498330547147485192,0.0,0.696,0.304,"You get a free book! You get a free book! ""Textured Teaching"" by  
+Congratulations! 
+Monica Cabrera-Johnson from KCKPS
+Lucy Lancheros - Florida
+Linda Santiago, Pinellas Park FL
+bookclub representationmatters lovereading https://t.co/uls3EJESjW",Mention,Female,True
+153,Positive,0.46875,False,0.5666666666666667,953452275942481930,0.6341,3196664426,1498330069411975168,0.0,0.812,0.188,"You get a free book! by 
+
+ iEn horabuena!
+
+ See you on Tuesday for our first Book Club session!",Mention,Female,True
+154,Positive,0.46875,False,0.5666666666666667,953452275942481930,0.6341,3196664426,1498329984494153729,0.0,0.803,0.197,"You get a free book! by 
+iFelicidades!
+
+ See you on Tuesday for our first Book Club session!",Mention,Female,True
+155,Positive,0.125,False,0.1,44927150,0.3595,3196664426,1498132854974423042,0.0,0.941,0.059,"Join Lorena Germán for a look at Textured Teaching in Action!  will be joined by fellow educators Kate Roberts, Aisha Christa Atkinson, Heather Lippert, + Vanee Smith-Matsalia on the Heinemann FB page. Bring questions: Tue. Mar. 1st at 7pm EST. https://t.co/rO0dfarFS1 https://t.co/sKbvKX882E",Mention,Female,True
+156,Neutral,0.0,False,0.125,905541448585662464,0.0,3196664426,1498016765259005958,0.0,1.0,0.0," _Teach As  called it yesterday, that’s “basic customer service.”",Mention,Female,True
+157,Positive,0.0957142857142857,False,0.2528571428571428,905541448585662464,0.4215,3196664426,1497953538508529671,0.0,0.939,0.061,"   And even the idea of a “single story” has roots in the perpetuation of one idea of a group of people.
+
+There is space for centering several people and groups; multiple centers that contain true, correct and whole stories as opposed to assumptions.",Mention,Female,True
+158,Positive,0.0910714285714285,False,0.2517857142857143,483178077,0.4199,3196664426,1497945134176088065,0.07,0.808,0.122,"   This is it! 
+
+So many times a single story is limiting in a negative light. The counter for that becomes a second story that can cross over into a narrative of toxic positivity. 
+
+Thanks for reminding us that the opposite of singular is plural, not ""another one"".",Mention,Female,True
+159,Positive,0.625,False,0.6,340332827,0.7835,3196664426,1497918400110206978,0.0,0.368,0.632, Agreed! Love your gems  !,Mention,Female,True
+160,Neutral,0.0,False,0.0,1466874024487751686,0.0,3196664426,1497908129308106756,0.0,1.0,0.0,  E’rday 🤷🏽‍♂️,Mention,Female,True
+161,Neutral,0.0,False,0.0,131021696,0.0,3196664426,1497775090112634881,0.0,1.0,0.0,_ac    ❤️❤️❤️,Mention,Female,True
+162,Positive,0.40625,False,0.5666666666666667,953452275942481930,0.5972,3196664426,1497765301617844229,0.0,0.814,0.186,You get a free book! by  Congratulatiosn  See you on Tuesday for our first Book Club session!,Mention,Female,True
+163,Neutral,0.0,False,0.0,608246075,-0.4753,3196664426,1497741924853108739,0.226,0.774,0.0,"Presenters brought the smoke and the fire today to LitCC2022 
+Session 4 with  left me shook!",Mention,Female,True
+164,Positive,0.45,False,0.75,1030638594908672000,-0.3127,3196664426,1497741395850928131,0.324,0.52,0.155," This could not be smarter, wiser, or more important.",Mention,Female,True
+165,Positive,0.3,False,0.95,905541448585662464,0.75,3196664426,1497739134361903107,0.0,0.484,0.516, I only speak the truth! You are amazing.,Mention,Female,True
+166,Positive,0.5,False,0.5,885873976488206336,0.0,3196664426,1497732494195511297,0.0,1.0,0.0,"And 
+
+
+and I have also used many things from Susan Barber's AP Lit ideas and just modified for grade level and skill level
+
+And https://t.co/qJmoXWq71l",Mention,Female,True
+167,Neutral,0.0,False,0.0,953526270,0.4199,3196664426,1497720092460826625,0.0,0.834,0.166,         Thank you for including me!  CrazyPLN,Mention,Female,True
+168,Neutral,0.0,False,0.0,340332827,-0.2942,3196664426,1497700453861179399,0.12,0.88,0.0,        ♥️♥️♥️  Your rolling keynote had me in tears!,Mention,Female,True
+169,Neutral,0.0,False,0.0,1271810936823853056,0.0,3196664426,1497699355415003142,0.0,1.0,0.0,        🙏🏾😘Let’s hang. I’m in Logan and I’ve got kids the age of your daughter ♥️,Mention,Female,True
+170,Positive,0.425,False,0.75625,307645845,0.6908,3196664426,1497699092608307202,0.0,0.867,0.133,What a powerful day of learning with LitCC2022. To be able to learn from and alongside of         all in one day is such an incredible gift. My heart needed their words today.,Mention,Female,True
+171,Positive,0.1,False,0.6583333333333333,1708929146,0.4215,3196664426,1497692330719121409,0.0,0.851,0.149, such a powerful session. ❤️❤️ “ask questions so they can say the quiet part out loud” LitCC2022,Mention,Female,True
+172,Positive,0.30625,False,0.6,84748617,0.5686,3196664426,1497687116976832514,0.0,0.857,0.143,"“Your classroom is your activism space.” 👏🏻👏🏻👏🏻
+
+What an incredibly powerful session. I always learn so so much from you, —thank you!! 🙏🏻 LitCC2022",Mention,Female,True
+173,Positive,0.1041666666666666,False,0.475,379207836,0.6351,3196664426,1497686346986577922,0.068,0.729,0.203,"Wow--  was 🔥 today! ""We should fight for the future we want to see, and we can do it through our classrooms."" Thank you for the inspiration and concrete strategies you provided!",Mention,Female,True
+174,Positive,0.125,False,0.4,1096454092963106818,0.0,3196664426,1497686255542300674,0.0,1.0,0.0," “We don’t teach books, we teach young people!”",Mention,Female,True
+175,Positive,0.1111111111111111,False,0.5555555555555555,84748617,0.5641,3196664426,1497686220566147072,0.126,0.607,0.267,"If you don’t have ’s Anti Racist Teacher workbook, it’s a fantastic resource! She also recommends ’s Social Justice Standards and ’s Not Light, But Fire. https://t.co/xFXpbg4gQk",Mention,Female,True
+176,Positive,0.1,False,0.4,905541448585662464,0.0,3196664426,1497685911001124868,0.0,1.0,0.0,"  ""We don't teach books, we teach young people."" LitCC2022",Mention,Female,True
+177,Positive,0.05,False,0.5666666666666667,84748617,0.0,3196664426,1497684695060033545,0.0,1.0,0.0,"“Ask questions so that they can say the quiet part out loud. THAT is the conversation we need to have.” WHEW. 
+ LitCC2022",Mention,Female,True
+178,Negative,-0.1,False,0.1,84748617,0.3182,3196664426,1497684510254592001,0.0,0.796,0.204,"How can we center truth, complexity, and wholeness?  LitCC2022",Mention,Female,True
+179,Neutral,0.0,False,0.0,905541448585662464,-0.34,3196664426,1497683359803351040,0.179,0.821,0.0,"  ""Misbehavior is often an alarm for investigating what students need.""",Mention,Female,True
+180,Positive,0.6,False,0.95,84748617,0.93,3196664426,1497683255868461062,0.0,0.587,0.413,"Loving ’s framework for teaching truth and counter narratives, and appreciating the examples she’s modeling.
+
+Also appreciating her transparency and boundaries around sharing her work. LitCC2022",Mention,Female,True
+181,Neutral,0.0,False,0.5,84748617,-0.5423,3196664426,1497681606760402944,0.129,0.812,0.059,"“We have a gap in our imagination between how we view others and what they can be.” This gap allows us to dehumanize others and sustain inequity &amp; injustice.
+
+“We have to intentionally, strategically teach antiracism. Kindness is not going to be enough.” 🔥  LitCC2022",Mention,Female,True
+182,Negative,-0.0357142857142857,False,0.1071428571428571,905541448585662464,0.0,3196664426,1497681593758101508,0.0,1.0,0.0," ""The opposite of a single story is depth and complexity about a group of people."" ",Mention,Female,True
+183,Positive,0.0124999999999999,False,0.4125,84748617,0.6124,3196664426,1497680985554448384,0.036,0.855,0.109,". quotes Dr. King: “To save man from the morass of propaganda, in my opinion, is one of the chief aims of edu. Education must enable one to sift + weigh evidence, to discern the true from the false, the real from the unreal, &amp; the facts from the fiction.” LitCC2022",Mention,Female,True
+184,Neutral,0.0,False,0.0,1351323011547217920,-0.3182,3196664426,1497680065911406594,0.223,0.777,0.0,"Every stereotype is a project and has a function.
+ LitCC2022",Mention,Female,True
+185,Neutral,0.0,False,0.0625,3196664426,0.4738,1033134218904256513,1519080889787068417,0.0,0.866,0.134,"    We are still adjusting, getting back into the swing of things. 
+
+Thank you and SAME TO YOU!!",Mention,Female,True
+186,Positive,0.1222222222222222,False,0.4555555555555555,3196664426,0.4912,1033134218904256513,1519080758291439618,0.063,0.77,0.168,   That is a big range!! It’s good times over here with some serious patience required 😂😭,Mention,Female,True
+187,Positive,0.2333333333333333,False,0.5,59147433,0.7712,1033134218904256513,1519043741063028737,0.04,0.752,0.208,"Join us for the next BlackCreatorsSeries event with  and ! Head over to the  Facebook page at 7:30pm ET TODAY to watch.
+
+Don’t miss this thoughtful, informative, and powerful conversation. https://t.co/7k04XnlrYO https://t.co/LaFF8dZ280",Mention,Female,True
+188,Neutral,0.0,False,0.1,751018942668369920,0.6688,1033134218904256513,1519010165877612546,0.0,0.572,0.428,"  Following (with excitement!). Congratulations, Sonja!",Mention,Female,True
+189,Positive,0.0454545454545454,False,0.1515151515151515,20686986,-0.296,1033134218904256513,1518983285766078464,0.178,0.673,0.149,"We've released a second Read Woke Books teaching guide corresponding to the new series American Slavery and the Fight for Freedom. This guide was created by . Download it now at https://t.co/tqNfenvFpH
+",Mention,Female,True
+190,Positive,0.3625,False,0.75,340332827,0.784,1033134218904256513,1518970548990078977,0.0,0.839,0.161,   Hey sis! It’s definitely a life transition to parent a college student (a different kind of patience 😜) while still parenting a HS and a MS student. Hubby and I are learning lots😘 How about you and your beautiful babies 🧡,Mention,Female,True
+191,Neutral,0.0,False,0.125,1566405786,0.2942,1033134218904256513,1518957407367573507,0.0,0.905,0.095,    Hey  how's life w/the family post vacay? Wishing you the same cup that overflows w/joy &amp; peace!💜,Mention,Female,True
+192,Positive,0.25,False,0.2,459954712,0.4926,1033134218904256513,1518954843574001667,0.0,0.61,0.39,"   Thanks, sis! ❤️",Mention,Female,True
+193,Positive,0.2749999999999999,False,0.3,87305804,0.858,1033134218904256513,1518951141798727680,0.0,0.748,0.252,"""I do not have the words to explain how much I loved every moment...I want to come back every year!!!"" —IREL21 participant
+
+Your opportunity for transformative professional learning awaits! Details here: https://t.co/CDKuoWhcNg
+IREL22
+
+ https://t.co/4obGqRVrBl",Mention,Female,True
+194,Neutral,0.0,False,0.0,3196664426,0.533,1033134218904256513,1518925390164729857,0.0,0.867,0.133,"Hey  how’s life w kids in college? 
+Hey  how’s it feel to be launching your dream?
+Hey  sis, how’s the body doing today? 
+
+Wishing each of you a cup-filling week. 💜",Mention,Female,True
+195,Positive,0.3,False,0.7,993957090,0.5859,1033134218904256513,1518804460348211201,0.0,0.902,0.098,      _Statesman  I don’t think I’ve ever read a news story that did such an amazing job of detailing the library book reconsideration process and all of the issues involved. Freadom ,Mention,Female,True
+196,Neutral,0.0,False,0.0,993539384,0.636,1033134218904256513,1518747002686869505,0.0,0.589,0.411,Follow. Follow. Follow! Congratulations  redclayed https://t.co/GpzwtZTndL,Mention,Female,True
+197,Neutral,0.0,False,0.1,379209090,0.0,1033134218904256513,1518661237760045057,0.0,1.0,0.0, _Teach  Following.,Mention,Female,True
+198,Positive,0.9765625,False,0.6,3394364847,0.7249,1033134218904256513,1518543489016942592,0.0,0.441,0.559,  Love the name!!!,Mention,Female,True
+199,Positive,0.4010416666666666,False,0.7083333333333333,1018994239017975811,0.7644,1033134218904256513,1518453090466336771,0.0,0.378,0.622,  Super excited about this!,Mention,Female,True
+200,Positive,0.625,False,0.5,1634366036,0.0,1033134218904256513,1518441552602796032,0.0,1.0,0.0,   This is PHENOMENAL!,Mention,Female,True
+201,Positive,0.4375,False,0.625,1265347229944098816,0.7915,1033134218904256513,1518392709387472896,0.0,0.611,0.389,  I'm so excited to learn more about this soon. Congratulations 🎉🎉,Mention,Female,True
+202,Positive,0.5625,False,0.8500000000000001,3359404444,0.835,1033134218904256513,1518383628132233222,0.0,0.388,0.612,   Amazing twin! So exciting! 💜,Mention,Female,True
+203,Positive,0.7,False,0.6000000000000001,1247684792826712064,0.4404,1033134218904256513,1518371789138759681,0.0,0.884,0.116,"   - Hey, Twin. I had to let you know about this. I took a virtual institute co-led by her &amp; it was so,so good.",Mention,Female,True
+204,Neutral,0.0,False,0.1,1012678974915432448,0.0,1033134218904256513,1518371254004240388,0.0,1.0,0.0,Following  immediately! Can’t wait to see what Dr.  has in store for us! https://t.co/oOBriUbk64,Mention,Female,True
+205,Positive,0.625,False,0.5,1064575621240692736,0.0,1033134218904256513,1518371038165278720,0.0,1.0,0.0,  Can't wait to learn more!,Mention,Female,True
+206,Positive,0.75,False,1.0,1246061228,0.8264,1033134218904256513,1518365948356476929,0.0,0.539,0.461,  This is awesome! So glad you’re at the helm.,Mention,Female,True
+207,Neutral,0.0,False,0.0,1633740684,0.0,1033134218904256513,1518345561002414081,0.0,1.0,0.0,  I’m here for it!,Mention,Female,True
+208,Neutral,0.0,False,0.0,2759385160,0.0,1033134218904256513,1518324277757493248,0.0,1.0,0.0,   answer to our “where do we start?”,Mention,Female,True
+209,Positive,0.375,False,0.75,2292669442,0.34,1033134218904256513,1518309774189858817,0.0,0.625,0.375,Beyond excited for  https://t.co/TCkZmdQN6t,Mention,Female,True
+210,Positive,0.375,False,0.8,23267233,0.5838,1033134218904256513,1518307425253613568,0.0,0.514,0.486,   So exciting!,Mention,Female,True
+211,Positive,0.3333333333333333,False,0.8333333333333334,1271810936823853056,0.9023,1033134218904256513,1518306536153661440,0.0,0.351,0.649,  Hooray! Congratulations ♥️🙏🏾The world is so lucky.,Mention,Female,True
+212,Neutral,0.0,False,0.0,476759400,0.0,1033134218904256513,1518303721670729729,0.0,1.0,0.0,   Co-sign!,Mention,Female,True
+213,Positive,0.252840909090909,False,0.5511363636363636,716748437035687936,0.8596,1033134218904256513,1518301042533748736,0.0,0.612,0.388,Congrats to DR.  on her new venture  I am so excited to see what comes next :),Mention,Female,True
+214,Positive,0.375,False,0.8,43265304,0.5411,1033134218904256513,1518294527685152770,0.0,0.72,0.28,This is exciting news from Dr. ! Follow . https://t.co/ni13PgQJjn,Mention,Female,True
+215,Negative,-0.087890625,False,0.25,29549170,0.854,1033134218904256513,1517706728812519425,0.045,0.708,0.246,"Thinking of gathering with folks from past IRELs for Institute 1 in DC; feeling like I'm waiting for homecoming; and I cannot wait!!! 
+
+Thank you , , &amp;  for supporting the heartwork of  &amp;
+, two visionary leaders!",Mention,Female,True
+216,Positive,0.3291666666666666,False,0.45,29549170,0.784,1033134218904256513,1517706715088756736,0.0,0.843,0.157,"After spending 1 fall Saturday learning from  &amp;  during separate social justice sessions, I drove about 12hrs to-and-from UNH, confident that an institute featuring both of them together would provide needed fuel for SY 19-20. FORESIGHT was 20/20! https://t.co/t9uVpQgTzj",Mention,Female,True
+217,Negative,-0.0388888888888888,False,0.3444444444444444,1250575862291820544,0.0258,1033134218904256513,1517672201230503937,0.0,0.948,0.052,    Can you describe the 'mechanism' that prevented my 9 year old Black classmate from understanding long division? https://t.co/ne6YuvwqdO,Mention,Female,True
+218,Negative,-0.275,False,0.6000000000000001,2417384400,-0.6468,1033134218904256513,1517325840970919936,0.28,0.72,0.0,  This cannot be real ! 🤦🏾‍♀️. Sometimes I really hate it here.,Mention,Female,True
+219,Neutral,0.0,False,0.0,930022273,0.0,1033134218904256513,1517301961653112832,0.0,1.0,0.0,_cruz  I cannot wait to see what you’ve planned! I’m,Mention,Female,True
+220,Positive,0.625,False,0.5,1526846430,0.0,1033134218904256513,1517265400827834368,0.0,1.0,0.0,_cruz  Looking forward to learning more!,Mention,Female,True
+221,Neutral,0.0,False,0.0,2371204159,0.0,1033134218904256513,1517264946714726400,0.0,1.0,0.0,_cruz  Ooooh! Can’t wait!,Mention,Female,True
+222,Positive,0.1988095238095238,False,0.5571428571428572,743500614,0.8122,1033134218904256513,1517264788979605513,0.0,0.656,0.344, and I spent all day planting something pretty special 🥰 Can’t wait to share what will be blooming soon! https://t.co/bAmIGTRRaI,Mention,Female,True
+223,Positive,0.3083333333333333,False,0.7666666666666666,87305804,0.9168,1033134218904256513,1517210311685816321,0.0,0.704,0.296,"Registration is now OPEN for IREL22! We are thrilled to join , , and the amazing facilitators for this important work.
+
+Interested in the D.C. institute in July, made possible by ? Don't delay—only 100 spots&gt;&gt;&gt; https://t.co/fyiNXPRzao https://t.co/Zskr5sFuoE",Mention,Female,True
+224,Neutral,0.0,False,0.0,111462090,0.0,1033134218904256513,1517185906083569664,0.0,1.0,0.0,Catch up on season 1 &amp; season 2 of the BlackCreatorsSeries with  https://t.co/10wkJ96yLZ TCRWP https://t.co/awsSjK9NFu,Mention,Female,True
+225,Neutral,0.0,False,0.0,7606912,0.0,1033134218904256513,1517092800478818305,0.0,1.0,0.0, done! &lt;3,Mention,Female,True
+226,Negative,-0.0714285714285714,False,0.1428571428571428,696113,0.5423,1033134218904256513,1516917641465810944,0.043,0.835,0.122,"Join   for The Institute for Racial Equity in Literacy. Registration opens on April 21. Institute 1 will be IN PERSON in Washington, D.C. and is limited to 100 attendees. Session 2 will be virtual. Save the Date: IREL22 https://t.co/njTbLY3S94 https://t.co/FHTDOttoUp",Mention,Female,True
+227,Positive,0.0333333333333333,False,0.0666666666666666,87305804,0.0,1033134218904256513,1516882909407371267,0.0,1.0,0.0,"Tomorrow! We’ll post here on social and if you signed up to get the email notification, be on the lookout.    https://t.co/2ltXvTekaL",Mention,Female,True
+228,Positive,0.5,False,0.9,457189703,-0.7506,1033134218904256513,1516829062089494529,0.274,0.726,0.0,.'s latest:  denies request to ban anti-racism book 'Stamped (for Kids)' https://t.co/B8pN3Wgz3H via _statesman    RachelleBaker,Mention,Female,True
+229,Negative,-0.5,False,0.5,2759157750,0.4278,1033134218904256513,1516751923432640516,0.049,0.854,0.097,"✊🏿 Some  5th graders met w  SOAR (Students Organized for Anti-Racism) yesterday to discuss the YA &amp; kids’ versions of Stamped    
+
+❤️ Vulnerable conversations &amp; student advocacy FTW antiracist antiracistleaders https://t.co/366tr0VkQ3",Mention,Female,True
+230,Positive,0.1924242424242424,False,0.4833333333333334,59147433,-0.3182,1033134218904256513,1516575896383143937,0.132,0.799,0.069,"Thank you for attempting to tune in to this evening’s Black Creators Series event with  and Charles R. Smith Jr. Unfortunately, we experienced a technical difficulty while airing the live event. https://t.co/JgDmyWtQJL",Mention,Female,True
+231,Neutral,0.0,False,0.0,2478778766,0.3595,1033134218904256513,1516497722186027034,0.0,0.889,0.111,Join us tonight for another episode in the BlackCreatorsSeries featuring  in conversation with  at 7:30 PM ET! https://t.co/D1JZYc2ZUL https://t.co/6bx4a0DokY,Mention,Female,True
+232,Negative,-0.5,False,0.3,24938348,-0.7506,1033134218904256513,1516214915052326916,0.274,0.726,0.0,Effort to ban book Stamped by    fails in Oregon  school district: https://t.co/fM6Iht6UUd  _Statesman ,Mention,Female,True
+233,Neutral,0.0,False,0.0,111462090,0.0,1033134218904256513,1516100517528748042,0.0,1.0,0.0,"   
+April 19th is the Next Episode with Charles R Smith
+https://t.co/V9QmC5YBFF See you on the TCRWP facebook page 730PM ET https://t.co/o2ERbo7YWM",Mention,Female,True
+234,Positive,0.6,False,0.7,87305804,0.7088,1033134218904256513,1516007381485957121,0.0,0.856,0.144,"Registration opens on 🗓 Thurs., 4/21🗓 for BOTH institutes!
+
+ and  are thrilled to be in-person this July with the support of .
+
+Get details and sign up for an email reminder once reg. opens: https://t.co/oQb7y1rYME https://t.co/l6K38qBlmM",Mention,Female,True
+235,Neutral,0.0,False,0.0,111462090,0.0,1033134218904256513,1515738113728995330,0.0,1.0,0.0,"   
+April 19th is the Next Episode with Charles R Smith
+https://t.co/V9QmC5YBFF See you on the TCRWP facebook page 730PM ET https://t.co/s1iE5Ise28",Mention,Female,True
+236,Neutral,0.0,False,0.0,878052148516450304,0.0,1033134218904256513,1515125296231587846,0.0,1.0,0.0,       https://t.co/koaTTgofmO,Mention,Female,True
+237,Positive,0.6,False,0.7,87305804,0.7088,1033134218904256513,1515084046501560331,0.0,0.856,0.144,"Registration opens on 🗓 Thurs., 4/21🗓 for BOTH institutes!
+
+ and  are thrilled to be in-person this July with the support of .
+
+Get details and sign up for an email reminder once reg. opens: https://t.co/NZ1zKMr7PS https://t.co/o2LQRyzUUq",Mention,Female,True
+238,Positive,0.225,False,0.4666666666666667,87305804,0.8826,1033134218904256513,1514719700323901445,0.0,0.796,0.204,"So exciting! And—Did you know?
+
+…. if you visit this blog for info you have the option of giving your email to ensure you are on the email list when registration is officially open! Totally worth it so you don’t have to stalk social….      IREL22 https://t.co/TgHTczLH4G",Mention,Female,True
+239,Neutral,0.0,False,0.0,111462090,0.0,1033134218904256513,1514649188642045959,0.0,1.0,0.0,"   
+April 19th is the Next Episode with Charles R Smith
+https://t.co/V9QmC5YBFF See you on the TCRWP facebook page 730PM ET https://t.co/XPVkRjArxN",Mention,Female,True
+240,Positive,0.1875,False,0.6,29308791,0.8065,1033134218904256513,1514280465133318148,0.0,0.759,0.241,                    Wow! Thanks for reading them!,Mention,Female,True
+241,Positive,0.4777777777777778,False,0.5444444444444444,249761835,0.8687,1033134218904256513,1514199266981466113,0.0,0.748,0.252,ABAR text set focused on Black joy curated by two senior education majors. So proud of the work they’ve done and will continue to do. 👏🏼⁦⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ https://t.co/NaJFCdOqNG,Mention,Female,True
+242,Neutral,0.0,False,0.0,66965904,0.0,1033134218904256513,1514055883420016640,0.0,1.0,0.0,                   ,Mention,Female,True
+243,Positive,0.043560606060606,False,0.3280723905723905,481456319,-0.296,1033134218904256513,1514013947946586117,0.074,0.857,0.07, That’s for sure. Lived in our bones through the event and night—saw it in how we contracted. And I wish I’d say it’s the past but the next thing’ll happen at some other event and we thinking back on that as we process the new trauma.,Mention,Female,True
+244,Neutral,0.0,False,0.0,7606912,0.0,1033134218904256513,1512748534713491456,0.0,1.0,0.0,  ❤️❤️❤️❤️❤️❤️❤️❤️❤️,Mention,Female,True
+245,Neutral,0.0,False,0.0,7606912,0.0,1033134218904256513,1512748432989036544,0.0,1.0,0.0,  ❤️❤️❤️❤️❤️❤️❤️❤️❤️,Mention,Female,True
+246,Positive,0.4166666666666667,False,0.4444444444444444,233627920,0.858,1033134218904256513,1512516711567790085,0.0,0.812,0.188,"Mark your calendars!!!!
+
+Registration for IREL22 opens 4/21!!! 
+
+Dr.  and I are back, IN PERSON, for the first institute at the beautiful Martin Luther King, Jr. Memorial Library in DC! 
+
+Can’t join us in DC? Join us in August for our virtual institute! https://t.co/SKzoDI4lj7",Mention,Female,True
+247,Neutral,0.0,False,0.0,2722301308,0.4559,1033134218904256513,1512456982904643588,0.0,0.931,0.069,"Register today to engage with this virtuallydifferent line up of featured speakers June 14&amp;15 for $25! We're all virtual, so you can learn with        in the office, at home, or on the beach! https://t.co/ZKnfL3oVHy",Mention,Female,True
+248,Neutral,0.0,False,0.0,111462090,0.0,1033134218904256513,1512113732721299464,0.0,1.0,0.0,"   
+April 19th is the Next Episode with Charles R Smith
+https://t.co/V9QmC5YBFF See you on the TCRWP facebook page 730PM ET https://t.co/hYM3DY06tc",Mention,Female,True
+249,Positive,0.0454545454545454,False,0.1515151515151515,20686986,-0.296,1033134218904256513,1512097930785824779,0.178,0.673,0.149,"We've released a second Read Woke Books teaching guide corresponding to the new series American Slavery and the Fight for Freedom. This guide was created by . Download it now at https://t.co/5RUBMX6rHo
+",Mention,Female,True
+250,Neutral,0.0,False,0.0,854115848549785604,0.4574,1033134218904256513,1512042942579580933,0.0,0.667,0.333,      💯 Yes!,Mention,Female,True
+251,Neutral,0.0,False,0.0,13053092,0.0,1033134218904256513,1511980803005329411,0.0,1.0,0.0,      https://t.co/tcC2j1Tqey,Mention,Female,True
+252,Neutral,0.0,False,0.0,1010976275920384001,0.296,1033134218904256513,1511894450989010944,0.0,0.761,0.239,      Oh yeah,Mention,Female,True
+253,Positive,0.5,False,0.6,1423621853508247553,0.938,1033134218904256513,1511813786990256137,0.0,0.449,0.551,          Love love love this!!!❤️📚❤️,Mention,Female,True
+254,Positive,0.4833333333333333,False,0.5666666666666668,21053489,0.8858,1033134218904256513,1511750963283042312,0.0,0.698,0.302,          Thank you so much for those kind words! I love seeing how the book resonates with students. 🧡💙,Mention,Female,True
+255,Positive,0.1041666666666666,False,0.7333333333333334,75392032,0.9762,1033134218904256513,1511749271833366531,0.0,0.615,0.385,           my apologies for not tagging you. :-(  The two of you have created a masterpiece! We LOVE the way your drawings brought the words to life!  And I LOVE the inspirations that you shared for the characters!,Mention,Female,True
+256,Positive,1.0,False,1.0,21053489,0.784,1033134218904256513,1511736062758072332,0.0,0.761,0.239,"           thank you for tagging me, it's awesome to see students recreating the poster!",Mention,Female,True
+257,Positive,0.625,False,0.6,793702225,0.6696,1033134218904256513,1511655380337704962,0.0,0.71,0.29,          I love them!,Mention,Female,True
+258,Positive,0.9765625,False,0.6,201781612,0.7249,1033134218904256513,1511560097851314177,0.0,0.663,0.337,         Love it!!!,Mention,Female,True
+259,Neutral,0.0,False,0.0,977321209565274112,0.4574,1033134218904256513,1511559444014014468,0.0,0.667,0.333,      Yes!,Mention,Female,True
+260,Positive,0.3166666666666666,False,0.7333333333333334,630608702,0.8516,1033134218904256513,1511540546325602309,0.0,0.517,0.483,  _Educator  Sounds like some powerful and important dialogue. Thanks for joining us!,Mention,Female,True
+261,Positive,0.440340909090909,False,0.74375,1634366036,0.9286,1033134218904256513,1511536548352708608,0.0,0.73,0.27,Today’s  live with  and _Educator was outstanding! Ss wanted to discuss whether or not they were “privileged” like the Ss he spoke of since they’re in Gifted Magnet. Love when discussions happen organically. I wish you could’ve been there. https://t.co/yPhIBRAXWD,Mention,Female,True
+262,Neutral,0.0,False,0.0,1152637157988806656,0.0,1033134218904256513,1511490448648331269,0.0,1.0,0.0,      https://t.co/avgoXPC26z,Mention,Female,True
+263,Neutral,0.0,False,0.0,2256999493,0.4574,1033134218904256513,1511451575687987201,0.0,0.667,0.333,      Yes!,Mention,Female,True
+264,Positive,0.244140625,False,1.0,8824552,0.7156,1033134218904256513,1511430043125358596,0.0,0.724,0.276,"          Wow!! Hello, 5th graders!!",Mention,Female,True
+265,Neutral,0.0,False,0.0,75392032,-0.4184,1033134218904256513,1511429090883956738,0.076,0.924,0.0,"With no prompting from me, 5th graders recreated the dust jacket poster from “This is a School!!” Look at the books they grabbed to pose with. 😍📚❤️         https://t.co/8zdi0lK8yZ",Mention,Female,True
+266,Neutral,0.0,False,0.0,21062811,0.7964,1033134218904256513,1511400751498678275,0.0,0.497,0.503,      Yes yes yes. Every day.,Mention,Female,True
+267,Neutral,0.0,False,0.0,874684736,0.0,1033134218904256513,1511381531251589125,0.0,1.0,0.0,      https://t.co/dG7UFWo4qR,Mention,Female,True
+268,Neutral,0.0,False,0.0,2194654917,0.0,1033134218904256513,1511351551843053578,0.0,1.0,0.0,      I’d be there if my schedule permits.,Mention,Female,True
+269,Positive,0.5,False,0.65,1288893686064062473,0.7482,1033134218904256513,1511351540702928903,0.0,0.86,0.14,"We're 69 days from the VirtuallyDifferent Summer Conference! Learn with , , , , ,  from the couch, pool, or beach for only $25! Summer PD at its best! Register today! https://t.co/1KjC8jDh2n https://t.co/c5Qm9Ii9jd",Mention,Female,True
+270,Positive,0.5,False,1.0,2803314111,0.9022,1033134218904256513,1511346873289920512,0.0,0.558,0.442,"  D9 INSPIRED MAKE THE CONTRIBUTIONS. DONATE TO FAVORITE SCHOOL OR ORGANIZATION. WE MUST SUPPORT.
+https://t.co/sxima4K7ZQ",Mention,Female,True
+271,Positive,0.5,False,1.0,2803314111,0.9022,1033134218904256513,1511345342448644124,0.0,0.59,0.41,"_Books    D9 INSPIRED MAKE THE CONTRIBUTIONS. DONATE TO FAVORITE SCHOOL OR ORGANIZATION. WE MUST SUPPORT.
+https://t.co/sxima4K7ZQ",Mention,Female,True
+272,Neutral,0.0,False,0.0,11301722,0.0,1033134218904256513,1511300431426826242,0.0,1.0,0.0,      Where do I sign up?,Mention,Female,True
+273,Neutral,0.0,False,0.0,1713687594,0.5538,1033134218904256513,1511295209967173636,0.0,0.627,0.373,      Yes!!!,Mention,Female,True
+274,Neutral,0.0,False,0.0,777419184,0.0,1033134218904256513,1511197721214046210,0.0,1.0,0.0,      https://t.co/hbD51aAVzO,Mention,Female,True
+275,Neutral,0.0,False,0.0,1445556633153650690,0.0,1033134218904256513,1511196580707246081,0.0,1.0,0.0,  https://t.co/4v6eRls2uO,Mention,Female,True
+276,Neutral,0.0,False,0.0,1445556633153650690,0.0,1033134218904256513,1511196446132948994,0.0,1.0,0.0,_Books    https://t.co/4v6eRls2uO,Mention,Female,True
+277,Neutral,0.0,False,0.0,57556312,0.4019,1033134218904256513,1511192455105765376,0.0,0.69,0.31,      Yes,Mention,Female,True
+278,Positive,0.5,False,1.0,891326952442933249,0.6249,1033134218904256513,1511186375722164224,0.0,0.683,0.317,      Offer them on zoom as well :),Mention,Female,True
+279,Neutral,0.0,False,0.0,33023829,0.5754,1033134218904256513,1511181419732688897,0.0,0.617,0.383,      YES!,Mention,Female,True
+280,Neutral,0.0,False,0.0,43716829,0.4019,1033134218904256513,1511176879138508804,0.0,0.861,0.139,      Tell me when you want to come and we will make it happen. If you want rural teachers we will have to calendar it out well.,Mention,Female,True
+281,Neutral,0.0,False,0.0,1142446854,0.508,1033134218904256513,1511159551361441798,0.0,0.646,0.354,      Yes!!,Mention,Female,True
+282,Neutral,0.0,False,0.0,333663779,0.4019,1033134218904256513,1511158465124876289,0.0,0.69,0.31,      Yes,Mention,Female,True
+283,Neutral,0.0,False,0.0,3892451369,0.0,1033134218904256513,1511153049946968064,0.0,1.0,0.0,      Yup,Mention,Female,True
+284,Neutral,0.0,False,0.0,762834707348230144,0.0,1033134218904256513,1511144612450250755,0.0,1.0,0.0,_amy       Let's get the crew together for this one _amy,Mention,Female,True
+285,Positive,1.0,False,1.0,1185584452606529537,0.659,50483003,1517630134664245252,0.0,0.477,0.523,_BrianMcGowan  Very awesome 👏🏾,Mention,Female,True
+286,Positive,0.8,False,0.875,46329589,0.8748,50483003,1517603785245298689,0.0,0.722,0.278, Thank you! It was great discussing some of our antiracism work in this space. I'm proud to be part of the AU SOE family under your leadership. https://t.co/HWB6XL4pTj,Mention,Female,True
+287,Positive,0.2,False,0.7,970032756163055616,0.0,50483003,1517094985472040962,0.0,1.0,0.0,  Is this only available on Kindle?,Mention,Female,True
+288,Neutral,0.0,False,0.0,2733444825,0.0,50483003,1516924856633286656,0.0,1.0,0.0,Looking forward to these celebrations with cohort 1 _SchoolofEd EdD graduation2022  _Simmons3  _BrianMcGowan  _shand _decuir _e_palmer  https://t.co/q4AYyxrNgQ,Mention,Female,True
+289,Positive,0.625,False,0.5,803521026,0.7345,50483003,1516789304965619714,0.0,0.844,0.156,"Thank you  for creating this phenomenal book! EVERYONE in the helping profession should include this book as part of their reading.
+
+I will be referencing this book as part of today’s ACA Town Hall (https://t.co/nDDLIJCjBU) where we will focus on antiracism. https://t.co/YJkkbhkBGt",Mention,Female,True
+290,Neutral,0.0,False,0.0,1617866203,0.5719,50483003,1514970055125377024,0.0,0.684,0.316,  _SchoolofEd He loves her. She tolerates him 😂,Mention,Female,True
+291,Neutral,0.0,False,0.0,49024620,0.0,50483003,1514952432878592001,0.0,1.0,0.0, _SchoolofEd 😍,Mention,Female,True
+292,Neutral,0.0,False,0.0,49024620,-0.296,50483003,1514952344533880832,0.268,0.732,0.0,  _SchoolofEd There’s a kiddo hiding too…😊,Mention,Female,True
+293,Neutral,0.0,False,0.125,815335523506065408,-0.3802,50483003,1514719850647728132,0.464,0.536,0.0, Same. What a loss!,Mention,Female,True
+294,Positive,0.625,False,1.0,900807445844561920,0.5551,50483003,1514696709053587469,0.0,0.661,0.339, so cute! Look at those eyes. https://t.co/TGdi1o6cwc,Mention,Female,True
+295,Positive,0.625,False,1.0,530862605,0.632,50483003,1514603801470152715,0.0,0.419,0.581, _SchoolofEd 😍 so cute !,Mention,Female,True
+296,Neutral,0.0,False,0.0,867109114865963009,0.0,50483003,1514598848009756676,0.0,1.0,0.0,"  _SchoolofEd OH, that face!",Mention,Female,True
+297,Neutral,0.0,False,0.0,1617866203,0.4939,50483003,1514595992628350976,0.0,0.789,0.211, _SchoolofEd Petunia requests someone to save her from the toddler 😂 dogsoftwitter https://t.co/0uB3qtHkqy,Mention,Female,True
+298,Positive,0.7,False,0.7,20947880,0.5106,50483003,1514588390720688129,0.0,0.752,0.248, _SchoolofEd My daughter would be delighted dog sitting for a day,Mention,Female,True
+299,Positive,0.5,False,1.0,2733444825,0.4588,50483003,1514584481642033158,0.0,0.5,0.5, _SchoolofEd Too cute,Mention,Female,True
+300,Positive,1.0,False,0.9,251933730,0.5093,50483003,1513624474276532224,0.0,0.477,0.523,"  Welcome, Kayleigh!",Mention,Female,True
+301,Negative,-0.1444444444444444,False,0.5111111111111111,256087946,0.68,50483003,1513352832258293761,0.0,0.804,0.196, yes! My late grandma was his late father’s older sister….he told my dear Soror Andrea Sawyer that he held me when I was a baby lol…,Mention,Female,True
+302,Negative,-0.5,False,1.0,2733444825,-0.5256,50483003,1512941441919635461,0.326,0.674,0.0, So sad to learn of this news.,Mention,Female,True
+303,Neutral,0.0,False,0.0,103930011,0.0,50483003,1512636827865395200,0.0,1.0,0.0,    https://t.co/UneF4h32RC,Mention,Female,True
+304,Neutral,0.0,False,0.0,49024620,0.0,50483003,1512623505979891714,0.0,1.0,0.0,   DONE,Mention,Female,True
+305,Neutral,0.0,False,0.0,256087946,0.0,50483003,1512621896717807625,0.0,1.0,0.0,   next time y’all writing a book loop me in!,Mention,Female,True
+306,Neutral,0.0,False,0.0,49024620,0.0,50483003,1512617657572499460,0.0,1.0,0.0,  ACA session on  book Antiracist Counseling in Schools and Communities https://t.co/xhQJfvQjD6,Mention,Female,True
+307,Neutral,0.0,False,0.0,69062309,-0.4184,50483003,1512617176070430720,0.285,0.715,0.0,_Robertson84      I missed this!! 🥺,Mention,Female,True
+308,Positive,0.43125,False,0.7375,1268352910993350656,0.9391,50483003,1512524121678258176,0.0,0.562,0.438,_Robertson84     It was great sharing this powerful book with such an engaging audience!  I hope we can do this again all together!,Mention,Female,True
+309,Neutral,0.0,False,0.0,56376988,0.0,50483003,1512511503223644163,0.0,1.0,0.0,    ❤️,Mention,Female,True
+310,Positive,0.3125,False,0.2,49024620,0.3147,50483003,1512501852033716224,0.086,0.779,0.136,Thanks to those who came to our session! We missed   and the rest of our authors!   antiracistsc https://t.co/hJeBxKCyot,Mention,Female,True
+311,Positive,0.25,False,0.65,752672233,0.6327,50483003,1512455734704984069,0.093,0.738,0.169,_Robertson84      Sorry I am not there to honor such a remarkable book led by  and be in community with my coauthors notably  and Dr. Joseph Williams. Enjoy ACA and hotlanta!,Mention,Female,True
+312,Negative,-0.2027777777777777,False,0.1694444444444444,56376988,0.6948,50483003,1512447472123232257,0.064,0.722,0.214,"_Robertson84     Missing you all! Bummed I couldn’t be there, but thankful for our co-presenters holding it down.",Mention,Female,True
+313,Negative,-0.2215277777777778,False,0.1694444444444444,395462860,-0.2924,50483003,1512446805933441032,0.09,0.91,0.0,Missing  and  but    are holding down the fort! antiracistsc scchat I'm still getting my book signed! fangirl https://t.co/bv48iSW5O1,Mention,Female,True
+314,Neutral,0.0,False,0.0,56376988,0.0,50483003,1512395396689051653,0.0,1.0,0.0,      Oh wow…,Mention,Female,True
+315,Neutral,0.0,False,0.0,256087946,0.4019,50483003,1512235082718887937,0.0,0.787,0.213,  I wish both of y’all could be here for BAW…,Mention,Female,True
+316,Neutral,0.0,False,0.0,56376988,0.2263,50483003,1512233204534718503,0.061,0.843,0.096,"Will miss seeing my counseling peeps and talking about the privilege of having a chapter in  book, Antiracist Counseling in Schools and communities. https://t.co/8yBsibDyvP",Mention,Female,True
+317,Positive,0.41,False,0.6599999999999999,139201492,0.7881,50483003,1512138541886627841,0.0,0.683,0.317, It’s so satisfying.  Her being the most popular candidate in a long while makes it more so.,Mention,Female,True
+318,Neutral,0.0,False,0.0,1491673968,0.0,50483003,1511843269449240576,0.0,1.0,0.0,   _ob    https://t.co/FYDYDp6uF5,Mention,Female,True
+319,Positive,0.9765625,False,0.6,3587838195,0.7249,50483003,1511506802508283907,0.0,0.371,0.629,  Love it!!!,Mention,Female,True
+320,Neutral,0.0,False,0.0,324823528,0.0,50483003,1511293473437233155,0.0,1.0,0.0,              _ajii        🙌🏽🙌🏽🙌🏽,Mention,Female,True
+321,Neutral,0.0,False,0.0,1466874024487751686,0.6546,50483003,1511285762947432450,0.0,0.829,0.171,"El pueblo unido, jamás será vencido 🙏🏾♥️✊🏾
+
+The people united will never be defeated.
+
+RepresentationMatters
+
+            https://t.co/tNbwn6LgsH",Mention,Female,True
+322,Positive,0.9,False,0.775,395462860,0.8798,50483003,1511168799055224833,0.0,0.621,0.379,       I felt so knowledgeable!! It was great and they loved it!!,Mention,Female,True
+323,Positive,0.7000000000000001,True,0.8083333333333332,49024620,0.695,50483003,1511168361601847297,0.0,0.816,0.184,_Robertson84       Isn’t it amazing to be able to tag all these incredible humans and scholars together?!?!,Mention,Female,True
+324,Positive,0.375,False,0.4875,395462860,0.4926,50483003,1511157185698480133,0.0,0.914,0.086,"Today I used  work to discuss race consciousness with my class. Told them about     and  's books,  upcoming workshop at their school, and other literature. It was a good conversation! counselored antiracistsc",Mention,Female,True
+325,Positive,0.13,False,0.3933333333333333,318036363,0.7772,50483003,1510455627738451970,0.0,0.847,0.153," I was pulling for NC! I was working on my dissertation for most of the game, but I had to watch the last few minutes. Both the Men and Women NCAA games have been amazing!",Mention,Female,True
+326,Positive,0.5,False,1.0,213108499,0.5115,50483003,1510400263982653440,0.107,0.688,0.206, It doesn’t! (And it especially doesn’t stop us when our greatest mentors-heroes-inspirations remind us of that!) 💜💜,Mention,Female,True
+327,Positive,0.2,False,0.95,1491673968,-0.8999,50483003,1509989801394683913,0.316,0.622,0.062, _SchoolofEd It is incredibly sad. It’s also an incredible moment for all to practice opening our hearts to the suffering of violence and move compassionately towards ending this source of suffering.,Mention,Female,True
+328,Positive,1.0,False,0.3,857997632513486848,0.902,50483003,1509962851829624840,0.0,0.723,0.277,"Congratulations to  appointed as an inaugural member of the Advisory Board of  to help guide its strategic initiatives and advise on how to best serve university and institutional partners! 🎉 
+https://t.co/q9TF22iZw7",Mention,Female,True
+329,Neutral,0.0,False,0.0,1739647502,0.8016,50483003,1509144220933984258,0.0,0.461,0.539,  Thank you Dean ! We appreciate the support.,Mention,Female,True
+330,Neutral,0.0,False,0.0,3368523910,0.0,50483003,1508930360587034626,0.0,1.0,0.0,Forever listening &amp; learning.    https://t.co/3WsGGE2wCd,Mention,Female,True
+331,Positive,0.23,False,0.23,22133515,0.7076,50483003,1508834691947892736,0.0,0.46,0.54, Thanks very much. Appreciate the response.,Mention,Female,True
+332,Negative,-0.05,False,0.1,22133515,0.5848,50483003,1508814640800833536,0.129,0.604,0.267," You support this guy? Because Alexandria parents don’t! I would hope as a woman, you wouldn’t condone coverups of alleged rapes for political gain. https://t.co/a0rtJj8Urs metoo",Mention,Female,True
+333,Neutral,0.0,False,0.0,530862605,0.0,50483003,1508409827650936841,0.0,1.0,0.0,  _BrianMcGowan  _Simmons3    🤗🖤!,Mention,Female,True
+334,Neutral,0.0,False,0.0,924072097172692992,0.8745,50483003,1508242748708642827,0.0,0.577,0.423,"     Dean  you are a force and I appreciate your support!! Thank you, thank you. 🙏🏽♥️",Mention,Female,True
+335,Neutral,0.0,False,0.0,2733444825,0.4753,50483003,1508130926412414980,0.0,0.849,0.151,"Plz read this! Thanking all who told me to keep writing, encouraged by my fam and   _BrianMcGowan  _Simmons3     https://t.co/dS0jkzUU1K",Mention,Female,True
+336,Neutral,0.0,False,0.0,2733444825,0.3382,50483003,1507931780162195458,0.0,0.862,0.138, My son was just telling me about how well this team has been performing! 👏🏽,Mention,Female,True
+337,Neutral,0.0,False,0.0,600132569,0.3612,50483003,1507857301155332101,0.0,0.545,0.455, Thank you 😊😊,Mention,Female,True
+338,Neutral,0.0,False,0.0,890098399,0.4003,50483003,1507650000729382912,0.0,0.77,0.23, _SchoolofEd Already registered and shared with my cohort Dean!,Mention,Female,True
+339,Positive,0.3333333333333333,False,0.561111111111111,2733444825,0.7717,50483003,1507508920729980936,0.0,0.573,0.427, _SchoolofEd Thank you for your constant and authentic love ,Mention,Female,True
+340,Positive,0.2,False,0.2,2936220913,0.5672,50483003,1507492800664907778,0.0,0.732,0.268,  I need to get a copy of this! Thanks for posting.,Mention,Female,True
+341,Positive,0.875,False,0.6000000000000001,1139950256601411584,0.4926,50483003,1507487598310313987,0.0,0.653,0.347, _SchoolofEd Good! The link to register?,Mention,Female,True
+342,Positive,0.4166666666666667,False,0.425,1044779139188887552,0.0,50483003,1507487573165453312,0.0,1.0,0.0,_goodmanscott  _SchoolofEd I was wondering the exact same thing!! Can I just be a fly on the wall?! 🤪,Mention,Female,True
+343,Neutral,0.0,False,0.2833333333333333,1139950256601411584,0.0,50483003,1507482960508895235,0.0,1.0,0.0, _SchoolofEd Is this open to the public?,Mention,Female,True
+344,Negative,-0.75,False,0.9,790296900,0.0,50483003,1507466385512878086,0.0,1.0,0.0,How to spend a chilly March afternoon - snuggle up and do some reading! schoolcounselors socialjustice antiracist  https://t.co/QTsu0sxf7K,Mention,Female,True
+345,Neutral,0.0,False,0.0,1158119029044891649,0.0,50483003,1507454315987877890,0.0,1.0,0.0, _SchoolofEd  Bmestalk,Mention,Female,True
+346,Neutral,0.0,False,0.0,49024620,0.0,50483003,1507157049305673728,0.0,1.0,0.0, Check out the edited book by  https://t.co/bVO87RdxUl,Mention,Female,True
+347,Positive,0.1428571428571428,False,0.2678571428571428,948243812345892864,0.0,50483003,1506671907877396481,0.0,1.0,0.0,"   Right back atcha, Dr. Gause! ❤❤❤",Mention,Female,True
+348,Neutral,0.0,False,0.0,530862605,-0.2905,50483003,1506667798990409744,0.148,0.775,0.077,   Jarvis miss you! We need 1:1 asap. Pls let’s arrange via text!!,Mention,Female,True
+349,Positive,0.515625,False,0.55,530862605,0.8213,50483003,1506667608157966338,0.0,0.514,0.486,  I know you stay ready! Much love to you!!,Mention,Female,True
+350,Positive,0.125,False,0.45,1185584452606529537,0.8612,50483003,1506664447091392518,0.0,0.556,0.444,   She ready! 👏🏾👏🏾 both of you inspire me so deeply. Thank you.,Mention,Female,True
+351,Positive,0.225,False,0.5,948243812345892864,0.8065,50483003,1506661889845116931,0.0,0.628,0.372,  😁😁😁 Yes ma'am. I know! I try to stay ready so I don't have to get ready! LetsGo,Mention,Female,True
+352,Neutral,0.0,False,0.0,530862605,0.4199,50483003,1506659658009915394,0.0,0.589,0.411,_ddennis  _SchoolofEd Thank you!,Mention,Female,True
+353,Positive,0.2875,False,0.675,530862605,0.8168,50483003,1506659198410575872,0.0,0.747,0.253,  Agreed 100% with your love and call to action. Dia or shall I say Doc 🙌🏾! Be careful what you say… you know I’ll pull you in:)!,Mention,Female,True
+354,Neutral,0.0,False,0.0,530862605,0.0,50483003,1506658860135854086,0.0,1.0,0.0, _SchoolofEd   🖤🤗🤗,Mention,Female,True
+355,Positive,0.1999999999999999,False,0.8,2733444825,0.2263,50483003,1506596482065088517,0.084,0.782,0.135,"Yes, I’m crying as a testament to the realness of these sentiments and for the acknowledgment of sisterhood and coalition building to strengthen our own sense of belonging 💗 _SchoolofEd    https://t.co/fR4y7t8jX7",Mention,Female,True
+356,Positive,0.3107142857142856,False,0.7392857142857142,948243812345892864,0.957,50483003,1506579396446011393,0.073,0.556,0.371,"Yes! Yes! Yes to this necessary and critical work. Thank you AU for taking these disruptive steps for the entire education ecosystem. I'm proud to be a part of this community, excited to see what's next and happy to help in any way!   https://t.co/HtWzI1xdHz",Mention,Female,True
+357,Positive,0.625,False,0.6,18954309,0.6696,50483003,1506442771342757891,0.0,0.64,0.36,  _SchoolofEd Love the work you’re doing there!,Mention,Female,True
+358,Positive,0.3571428571428571,False,0.5357142857142857,73408312,0.3595,50483003,1506417406977232905,0.0,0.445,0.555, Yeah Right!,Mention,Female,True
+359,Positive,0.2607638888888888,False,0.3722222222222222,1044779139188887552,0.6776,50483003,1506316661695172610,0.061,0.758,0.181,"✅First full day of IN-PERSON  site based training on social justice and anti-racist practices for SC done! About 100 data-driven SCs, leaning in to discomfort, ready to challenge inequitable systems…wokework4SC   your book and strategies were a hit!!! https://t.co/Rvetg18dAY",Mention,Female,True
+360,Positive,0.125,False,0.4791666666666666,42950839,0.0,50483003,1506299859019698188,0.0,1.0,0.0,"AU's first antiracism pedagogy scholar is beginning the transformation of the school's entire pedagogy to be antiracist.
+
+   _SchoolofEd
+
+https://t.co/6U623CLHXX",Mention,Female,True
+361,Neutral,0.0,False,0.0,1150762293690601472,0.5267,50483003,1505624359297290250,0.0,0.876,0.124,Let’s get the 2022 MSCA conference started with “The Hill We Climb: A Journey Toward Justice &amp; Equity in Counseling” with Cheryl Holcomb-McCoy _MD  https://t.co/BWRd8q6dyZ,Mention,Female,True
+362,Positive,0.6416666666666667,False,0.6166666666666667,2911166315,0.8941,50483003,1504789509719867393,0.0,0.661,0.339,_goodmanscott   I love  ‘s book Racial Healing! It’s so great to be in a profession with so many rock stars.,Mention,Female,True
+363,Neutral,0.0,False,0.0,79072177,0.6103,50483003,1504637919042187272,0.0,0.668,0.332, I'll put all my coins on them! Congrats!,Mention,Female,True
+364,Positive,0.0999999999999999,False,0.2166666666666666,79072177,0.8674,50483003,1504635347321430019,0.076,0.477,0.446," Missing American and Georgetown this year, but yes, I do love it. WeWillGetThemNextYear",Mention,Female,True
+365,Neutral,0.0,False,0.0,79072177,0.0,50483003,1504634825361301505,0.0,1.0,0.0, Spiders and Peacocks!,Mention,Female,True
+366,Neutral,0.0,False,0.0,3160155859,0.5229,50483003,1504546555814035479,0.0,0.748,0.252,    Thank YOU! I cannot wait to start reading!!,Mention,Female,True
+367,Neutral,0.0,False,0.0,121966499,0.0,50483003,1504521055834357760,0.0,1.0,0.0,_Kirk     Two gems!💗,Mention,Female,True
+368,Positive,1.0,False,1.0,2954017931,0.6784,50483003,1504155863505940483,0.0,0.522,0.478,_goodmanscott   These look wonderful!!!,Mention,Female,True
+369,Positive,0.25,False,0.9,386102685,0.0,50483003,1504132151582863369,0.0,1.0,0.0,  absolutely 💯!,Mention,Female,True
+370,Positive,0.1916666666666666,False,0.2666666666666666,1139950256601411584,0.4926,50483003,1503833752425930759,0.0,0.904,0.096,"Went into the office today and found both of these gems waiting on my desk- freshly delivered!
+
+Big thanks for your gifts to the counseling field, Drs.  and  https://t.co/F8rBqWt1zn",Mention,Female,True
+371,Neutral,0.0,False,0.0,192788949,0.0,50483003,1503269411486117889,0.0,1.0,0.0," ( Today)- -Ceylon Today  Editorial page  
+Indo-Pacific Strategy for Indian Ocean region LittoralsBy Dr Srimal Fernando
+https://t.co/rEYkxWlHeJ",Mention,Female,True
+372,Positive,0.0871212121212121,False,0.7348484848484849,1270078483700625410,0.128,50483003,1503111398376751110,0.047,0.893,0.06,"It has arrived 🙌🏽
+I’ve been anxiously checking for the delivery date update😅 and now my Spring Break reading material is here ☺️I’m excited to get into reading the New Edition 🙌🏽_SMS    OpportunityGaps scchat https://t.co/rikSmpcgRt",Mention,Female,True
+373,Neutral,0.0,False,0.0,245099751,0.4199,50483003,1503079987079000068,0.0,0.518,0.482," Thank you, !",Mention,Female,True
+374,Negative,-0.25,False,0.4,1491556301654089728,0.5859,50483003,1502983827249156101,0.0,0.827,0.173, I think that works as well as small group interventions to prepare them for whats ahead and help them with what they are going through.,Mention,Female,True
+375,Positive,1.0,False,0.3,417001936,0.7717,50483003,1502833637686927362,0.0,0.599,0.401," Even though I like grade level, to build relationships, alphabet is best.",Mention,Female,True
+376,Positive,0.25,False,0.75,1564768680,0.3612,50483003,1502763783667822595,0.0,0.933,0.067,    I am all for student agency and like this model for that reason. My only concern would be managing the equity of workloads. What if 100 more students pick one sc over another?,Mention,Female,True
+377,Positive,0.875,False,0.6000000000000001,3368523910,0.6166,50483003,1502760006055251973,0.0,0.732,0.268,  . wrote an article about this.. it’s so good! https://t.co/hbf8XbVs5W,Mention,Female,True
+378,Positive,0.375,False,0.95,1139950256601411584,0.6996,50483003,1502759275709485061,0.0,0.746,0.254,   Absolutely- your scholarship is foundational! Lots of cites from us today— thank you   :),Mention,Female,True
+379,Positive,0.03125,False,0.2833333333333333,560501150,0.4019,50483003,1502759219128324103,0.0,0.94,0.06,"   _BRACE With support from , the Broward County (FL) team adapted a proven national program model to meet their needs (and budget for sustainability). Implementing this model allowed them to buck the national trend of major FAFSA declines last year. 🙏🏽",Mention,Female,True
+380,Positive,0.25,False,0.2,1617866203,0.6588,50483003,1502757815190011911,0.0,0.597,0.403,  thanks for helping us frame this discussion! https://t.co/NoT9CMK5qs,Mention,Female,True
+381,Positive,0.275,False,0.5874999999999999,560501150,0.8658,50483003,1502757724106416130,0.0,0.797,0.203,"  Near peer advising has made a great difference for students  thanks to the forward thinking _BRACE team, who train up HS seniors to support their peers with staying on track with key steps in the postsecondary application process 🙏🏽",Mention,Female,True
+382,Neutral,0.0,False,0.0,1240732741819342853,0.0,50483003,1502756997061660675,0.0,1.0,0.0,What I Learned from Being a School Counselor by  https://t.co/KTjb7V1AfT via ,Mention,Female,True
+383,Neutral,0.0,False,0.0,2954017931,-0.4129,50483003,1502625629870698505,0.282,0.718,0.0,   So bummed that I missed this!,Mention,Female,True
+384,Neutral,0.0,False,0.0,1271448914676330496,0.0,50483003,1502485396982276097,0.0,1.0,0.0, How do you tell me you don’t understand ANYTHING a school counselor does? By proposing this bill.,Mention,Female,True
+385,Positive,0.2,False,0.2,1410682142481436672,0.4404,536610418,1518353022497267713,0.0,0.847,0.153,      I'm taking screenshots so I can sue when this becomes disinformation. Thanks.,Mention,Female,True
+386,Neutral,0.0,False,0.0,1455099168276418569,-0.3595,536610418,1518037230240997377,0.304,0.696,0.0,      Leave the kids alone!,Mention,Female,True
+387,Positive,0.1818181818181818,False,0.5227272727272727,1001016014384128000,0.5574,536610418,1517884247725461504,0.0,0.865,0.135,Tune into CCMNTSpeaker  today at 2pm with  to explore positive pregnancy practices while carrying. Catch the session on FB live: https://t.co/wjYeIvEZju https://t.co/dIhSRpASDE,Mention,Female,True
+388,Neutral,0.0,False,0.0,539487041,0.0,536610418,1517879889600421888,0.0,1.0,0.0,"hood_medicine: : Set ⏰ &amp; schedule in 🗓
+ @_SmallAxe_  _medicine   _nurtures       _in_ai … https://t.co/7uZybR2Yfk",Mention,Female,True
+389,Neutral,0.0,False,0.0,56092688,0.0,536610418,1517824354083655681,0.0,1.0,0.0,"Set ⏰ &amp; schedule in 🗓
+ @_SmallAxe_  _medicine   _nurtures       _in_ai  _blackstock 
+https://t.co/tbtREkg4YW",Mention,Female,True
+390,Negative,-0.1666666666666666,False,0.4333333333333333,60341416,0.0,536610418,1517689607114174464,0.0,1.0,0.0,"     Black Woman :
+BlackWoman 
+https://t.co/xBQTTE4TJh",Mention,Female,True
+391,Neutral,0.0,False,0.0,942080414843359233,0.0,536610418,1517628240705298432,0.0,1.0,0.0,      _nurtures   https://t.co/J6rx7pchva,Mention,Female,True
+392,Neutral,0.0,False,0.1,1104448597674856448,0.0,536610418,1517469696727134209,0.0,1.0,0.0,"     Inclusive self-care is human resiliency!BGJ nurtures 
+
+5 words. 5 tags.
+
+Pass on 💜!",Mention,Female,True
+393,Neutral,0.0,False,0.0,2613485677,0.0,536610418,1517377187992723457,0.0,1.0,0.0,  https://t.co/v9RELKigTa,Mention,Female,True
+394,Positive,0.3619047619047619,False,0.2785714285714286,56092688,0.5859,536610418,1517317763710304260,0.0,0.787,0.213,"Joy is a human right. 
+
+     
+
+5 words. 5 tags. 
+Pass it on🤎 https://t.co/JZpbbTXXK6",Mention,Female,True
+395,Positive,0.0499999999999999,False,0.4962962962962962,739509170,0.9203,536610418,1517299986735812615,0.026,0.722,0.252,"  Well, we all need to learn to say no to protect our sanity for sure. But, if you have it in you, keep making friends and changing the world slowly, one hopefully well-intentioned person at a time? Crowd sourcing- does this ever work out well? This survey would suggest not often.",Mention,Female,True
+396,Neutral,0.0,False,0.125,1512870660917235713,0.3612,536610418,1517163269152067584,0.0,0.878,0.122, 🙏🏼🙏🏼🙏🏼 thank you for your work protecting all our communities and those bringing in the future generations ❤️✨,Mention,Female,True
+397,Positive,0.1777777777777777,False,0.638888888888889,1512870660917235713,0.0,536610418,1517154612414803973,0.0,1.0,0.0,You will see that this especially impacts pregnant Yaqui women and children in development. Earlier this week the  had an episode with  +  on Black and Indigenous maternal health that feels so relevant. Stay tuned + more below on the issue.,Mention,Female,True
+398,Positive,0.2,True,0.25,1322973885256634369,-0.8717,536610418,1517031552412225536,0.257,0.651,0.092," The abortion ban laws go deeper than people realise. Most assume its racially motivated. But blocking women impregnated via a rapist’s DNA from abortion will increase the white birth rates, but destroy much more. Anti Abortion’s solution:pre-Abortion. Can we talk? https://t.co/Jqo849uEpu",Mention,Female,True
+399,Positive,0.8,False,0.75,1392801491786686469,0.6249,536610418,1516936549992046592,0.0,0.631,0.369,"Great car 
+
+   
+
+Hyundai_NFT, NFT https://t.co/8XwDALGqiW",Mention,Female,True
+400,Neutral,0.0,False,0.0,2683931742,0.0,536610418,1516880034849513473,0.0,1.0,0.0,          My people!!!💕,Mention,Female,True
+401,Neutral,0.0,False,0.0,1301304955957997573,0.6705,536610418,1516877689700814848,0.0,0.827,0.173,"Joia Crear-Perry, MD, OB/GYN () explains the antibodies or defenses provided by the COVID19 vaccine also protect the baby during pregnancy. Get &amp; share the facts at https://t.co/0sC7iSlkkD.    GreaterThanCOVID BetweenUsAboutUs https://t.co/9Nl60pjWH4",Mention,Female,True
+402,Neutral,0.0,False,0.0,1491835083690496003,-0.6625,536610418,1516830170258284558,0.269,0.731,0.0,      The STATISTICS prove you to be LIARS!,Mention,Female,True
+403,Positive,0.2449999999999999,False,0.75,87085204,0.9285,536610418,1516773444721037314,0.0,0.71,0.29,"So excited to listen to this conversation between our fabulous  team and two leaders in repro justice:  + one of my favorite  profs  😊
+
+Dropping in late May, straight from the Antiracism in Medicine series to your headphones! https://t.co/QbTiqgr9eZ",Mention,Female,True
+404,Negative,-0.0722222222222222,False,0.2944444444444444,765872600,0.6705,536610418,1516754021180219396,0.0,0.864,0.136,"With so much at stake, I encourage you to listen to a past  program with leading Black maternal health experts and advocates , ,  who share their insights on how to reverse the trend: https://t.co/Gr7wgBcMOn
+
+(2/2) HealthEquity",Mention,Female,True
+405,Positive,0.6,False,0.6333333333333334,1561418018,0.9325,536610418,1516598955961995265,0.0,0.667,0.333,"When a burst of energy and light ignites hope in my overwhelmed heart...that is a good, good day. ✨💖
+I am grateful beyond words for my sister , and for the vision and leadership of       &amp;  https://t.co/jAIkeiwfyC",Mention,Female,True
+406,Neutral,0.0,False,0.0,838516534762946560,0.0,536610418,1516568403099615238,0.0,1.0,0.0,     This one blew me away‼️💨,Mention,Female,True
+407,Neutral,0.0,False,0.0,2558372837,0.0,536610418,1516567532362256391,0.0,1.0,0.0,     🔥🔥🔥,Mention,Female,True
+408,Positive,0.4777777777777778,False,0.5444444444444444,1512870660917235713,0.9423,536610418,1516563127843770372,0.0,0.644,0.356,Had the best time co-hosting this amazing conversation on Black and Indigenous maternal health with  and  for the . Thankful for healers like them in the world 🙏🏼 https://t.co/f4ePsT3ZCL,Mention,Female,True
+409,Neutral,0.0,False,1.0,1261721314596982786,0.8684,536610418,1516558154837987333,0.0,0.807,0.193,"😊 We had the immense privilege of hosting  &amp;  to discuss repro justice &amp; maternal health equity. Y’ALL. The amount of unpacking I have to do from this episode! Gratitude. I can’t wait til it drops 5/31.
+S/O  &amp;  for being 🔥 co-hosts! https://t.co/aXRI67xNQN",Mention,Female,True
+410,Positive,0.5,False,0.5,43198449,0.4336,536610418,1516463157149155332,0.065,0.791,0.144,"🤰🏾❤️HCPs shared how they identified issues relating to maternal healthdisparities in their practices &amp; took steps to combat inequities. Learn more &amp; earn credit: https://t.co/GJ9nUWrhuR BlackMaternalHealthWeek BMHW22 MedEd4Equity
+   https://t.co/yRFOQVxebi",Mention,Female,True
+411,Positive,0.5,False,0.6,60341416,0.8555,536610418,1516154159849955330,0.0,0.417,0.583,"    Love and Love
+BlackMaternalHealthWeek",Mention,Female,True
+412,Positive,0.3625,False,0.3,43198449,0.0,536610418,1516151504830447622,0.0,1.0,0.0,"🤰🏾❤️ As BlackMaternalHealthWeek BMHW22 comes to a close, we're revisiting these maternalhealth insights from our HCP learners. Take action in your practice by visiting https://t.co/GJ9nUWrhuR &amp; follow us for more MedEd4Equity!
+
+   https://t.co/QTK8JUDkE9",Mention,Female,True
+413,Neutral,0.0,False,0.0,2350470498,-0.5423,536610418,1516130573223436288,0.333,0.667,0.0,      Poison https://t.co/8brWAHvDiB,Mention,Female,True
+414,Neutral,0.0,False,0.0,1259155702729359360,0.0,536610418,1516118342628777991,0.0,1.0,0.0,          _brown I'm signed up!,Mention,Female,True
+415,Neutral,0.0,False,0.5,417474879,0.5696,536610418,1516082971123535883,0.043,0.813,0.143,"🚨ONE WEEK AWAY!!🚨
+
+Registration and CME open to everyone. You don’t want to miss this line up of all champions in HealthEquity 
+
+         _brown https://t.co/9VUoSWMKSB",Mention,Female,True
+416,Positive,0.0910714285714286,False,0.4857142857142857,1385536441120436224,-0.6492,536610418,1516001413603733510,0.093,0.907,0.0,"      _light  _NOLA    Check Homocysteine. Check B12. Check Unmetabolized folic acid.  We deranged 1carbonmetabolism with lifelong folic acid in absence of sufficient cofactor B12 found in meat, not plants. Many common medications block B12 absorption. And folic acid is not good folate for many women.",Mention,Female,True
+417,Neutral,0.0,False,0.0,56092688,0.0,536610418,1515902858796978177,0.0,1.0,0.0, On Periodt!,Mention,Female,True
+418,Neutral,0.0,False,0.0,56092688,0.0,536610418,1515870098191437827,0.0,1.0,0.0, https://t.co/ik25qoRjV3,Mention,Female,True
+419,Neutral,0.0,False,0.0,14887656,0.7073,536610418,1515838955081637900,0.0,0.505,0.495, Thank you for this gift this evening.,Mention,Female,True
+420,Positive,0.135,True,0.5483333333333333,798566765106110464,-0.4859,536610418,1515542302730690561,0.119,0.778,0.103,"         _Zuckerman    ""Birthing people""? What kind of bullshit euphemism is that? Last time I looked, women, you know, biological females, a5te the only ones capable of giving birth.
+As for the rest, there are probably a lot of other factors at play that have nothing to do with some made up crisis.",Mention,Female,True
+421,Neutral,0.0,False,0.0,874956757,0.0,536610418,1515539806797070336,0.0,1.0,0.0,        What studies need to be included? On documents released the the manufacture of the drug?,Mention,Female,True
+422,Neutral,0.0,False,0.0,874956757,-0.0516,536610418,1515536901180387329,0.098,0.902,0.0,      I’ll just leave this here https://t.co/lBx4OVL7i4,Mention,Female,True
+423,Positive,0.1770833333333333,False,0.6243055555555557,56092688,-0.1157,536610418,1515503234059751424,0.059,0.865,0.076,"_medicine          _NeoMD           I’m comfortable saying - Count us all in! Also, I’m sure they already have done so but if not, pls ensure they reach out to      &amp; other Black women leaders in this space 
+See: orgs in the images
+👇🏿👇🏿👇🏿 https://t.co/g9z1fliKKc",Mention,Female,True
+424,Neutral,0.0,False,0.0,1507075580797374464,0.0,536610418,1515366950997839877,0.0,1.0,0.0,      https://t.co/ToHXHYczBy,Mention,Female,True
+425,Positive,0.1,False,1.0,144396811,0.0258,536610418,1515120215310352388,0.126,0.743,0.131,  Chile please. They ain’t no kinda legitimate publishers as far as I know. https://t.co/V6STFV0Guw,Mention,Female,True
+426,Positive,0.3,False,0.3354166666666667,961631501816233984,-0.1295,536610418,1515103664553316364,0.172,0.677,0.151,  I want to drag the publisher … like who edited this. Also it’s not even good writing from the bit I saw,Mention,Female,True
+427,Neutral,0.0,False,0.0,144396811,0.0,536610418,1515090953186549763,0.0,1.0,0.0, She bucked we knucked. Now they got some paper recycling to do.,Mention,Female,True
+428,Neutral,0.0,False,0.1,1429155406731890690,0.1779,536610418,1515079207319183370,0.0,0.945,0.055,"Watch  speak on  about BlackMaternalHealthWeek 
+
+""What we need now is actual investment...we need Congress to pass solutions that we have sitting there.""  
+
+maternalhealth MaternalJustice   
+
+⬇️⬇️⬇️
+https://t.co/oNE99MKYbn",Mention,Female,True
+429,Neutral,0.0,False,0.0,2328728562,0.0,536610418,1515070538288295938,0.0,1.0,0.0,  That part! FAAFO https://t.co/CmeOBDvyXz,Mention,Female,True
+430,Negative,-0.1111111111111111,False,0.3111111111111111,948951747912962048,0.3851,536610418,1515034965091753990,0.155,0.641,0.204,"., founder of  &amp; champion for Black Maternal Health says, ""Racism, not Race"" is killing Black mothers &amp; babies. To address health disparities, we must view racism as a public health crisis through a reproductive justice lens. NurtureNJTakeover BMHW22 https://t.co/hPLZB5xqfG",Mention,Female,True
+431,Negative,-0.0124999999999999,False,0.3875,27655378,-0.5267,536610418,1515034136402141184,0.102,0.861,0.037,"         _Zuckerman    Thank you for this Vice President   this resonates with me. My paternal grandparents loss their mothers at a young age due to birthing. My Grandpa loss his mom in 1931, in Arkansas when he was 4 y/o &amp; grandma loss her mom in 1931, in Mississippi when she was 2 y/o.",Mention,Female,True
+432,Negative,-0.207142857142857,False,0.6011904761904762,144396811,0.431,536610418,1515002468303876097,0.0,0.881,0.119," Right? How about this if you are neither Bad nor Boujee, you need to keep our name out of your mouth",Mention,Female,True
+433,Positive,0.2,False,0.2,98121293,0.296,536610418,1514865243851218949,0.0,0.896,0.104,"           _Zuckerman    Yeah, they're really out here.",Mention,Female,True
+434,Positive,0.2,False,0.35,98121293,-0.2755,536610418,1514772519311470595,0.084,0.916,0.0,           _Zuckerman    Fortunately the medical community doesn't agree with your bigotry.,Mention,Female,True
+435,Negative,-0.3333333333333333,False,1.0,15984772,-0.3612,536610418,1514769325361557509,0.063,0.937,0.0,"           _Zuckerman    Those are women who mutilated their bodies, not men.  You can put mustang logos and rims on a civic...it's still a civic, just ridiculous looking",Mention,Female,True
+436,Positive,0.625,False,0.6,2948556353,0.6696,536610418,1514764393279639565,0.0,0.572,0.428,  Love the work of NBEC!,Mention,Female,True
+437,Negative,-0.48828125,True,0.6875,1493376847345852419,-0.8148,536610418,1514758995084513280,0.229,0.771,0.0,         _Zuckerman    What the fuk are “Birthing People???” Do you mean MOTHERS??? Cut the woke bullshit!!,Mention,Female,True
+438,Positive,0.5491071428571429,False,0.6178571428571429,1396903472264536066,0.9656,536610418,1514726374258491392,0.0,0.632,0.368,"Great thanks to the Birth Equity &amp; Justice SJC team for a successful Achieving Birth Equity conference. And to our special guest, , you’ve inspired us all to seek justiceandjoy for all people! You can count on us as coconspirators. birthequity https://t.co/B4WLP527Xv",Mention,Female,True
+439,Neutral,0.0,False,0.0,1103461018846576640,0.0,536610418,1514726265261109248,0.0,1.0,0.0,         _Zuckerman    Birthing People? So woman?,Mention,Female,True
+440,Positive,0.2777777777777778,False,0.5111111111111111,481780084,0.8957,536610418,1514704629526794261,0.0,0.742,0.258,"A big thank you to  and   for your leadership in Black Maternal Health, highlighting the work that needs to be done to improve birth outcomes and showing the path forward.  A wonderful organization to support: https://t.co/eWY328KXak  BMHW22 https://t.co/8yoR3RnAXJ",Mention,Female,True
+441,Neutral,0.0,False,0.0,1333583107841290240,0.0,536610418,1514677768440754183,0.0,1.0,0.0,"         _Zuckerman    🤣🤣""Birthing people ""🤣🤣 what a bunch of 🤡🤡🤡🤡",Mention,Female,True
+442,Negative,-0.5,False,1.0,98121293,0.296,536610418,1514667770012700673,0.045,0.868,0.087,"_fl1          _Zuckerman    Again, science supports transgender people. Sorry you think your bigotry should be followed.",Mention,Female,True
+443,Negative,-0.5,False,1.0,1209275699074342914,-0.0772,536610418,1514667451287547907,0.046,0.954,0.0,          _Zuckerman    Again we have something called science. Sorry if you think science shouldn’t be followed.,Mention,Female,True
+444,Negative,-0.3125,False,0.6875,98121293,-0.4215,536610418,1514667407612121094,0.083,0.917,0.0,"          _Zuckerman    Transgender men and non-binary people also give birth.
+
+Just because you disrespect them doesn't mean we have to.",Mention,Female,True
+445,Neutral,0.0,False,0.0,1355642102554578946,0.0,536610418,1514664862294585347,0.0,1.0,0.0,         _Zuckerman    Mothers. They’re called mothers.,Mention,Female,True
+446,Neutral,0.0,False,1.0,1209275699074342914,0.0,536610418,1514660665545445388,0.0,1.0,0.0,         _Zuckerman    What is a birthing person?  I’m not a biologist but I thought only women can give birth,Mention,Female,True
+447,Neutral,0.0,False,0.1,327896983,0.0,536610418,1514632783787876352,0.0,1.0,0.0,YAASS! I am fangirling over  following me. https://t.co/MwJFJGfhne,Mention,Female,True
+448,Positive,0.3901515151515151,False,0.4666666666666666,29482615,0.0,536610418,1514628260474376197,0.0,1.0,0.0,"🌟 The next episode for the Hustle Grind Shine &amp; Reignite Podcast is LIVE! My guest is the incredible ! 
+
+❣️ Listen Today! Find Your Platform: https://t.co/rYZjW0QrtZ
+ ❣️ https://t.co/esE8PBcyRR",Mention,Female,True
+449,Positive,0.2083333333333333,False,0.6333333333333333,405310951,0.3677,536610418,1514623098800201728,0.0,0.936,0.064,"- I got to ask  a question today about how I can get more health care professionals to use their voices in policy/advocacy spaces especially around BlackMaternalHealth &amp; RepoJustice ✊🏽
+
+But I completely forgot to ask where she got her IPrayedForThis crewneck?! 😩",Mention,Female,True
+450,Neutral,0.0,False,0.0,1456255183323865090,0.0,536610418,1514622091034828810,0.0,1.0,0.0,"
+
+
+
+
+
+
+
+
+
+ 
+NET
+
+
+
+
+
+
+https://t.co/Z33SkvYFCX https://t.co/P1qkJBtoKI",Mention,Female,True
+451,Positive,0.2564285714285714,False,0.3738095238095238,2903648141,0.8881,536610418,1514616497481519113,0.0,0.677,0.323,"Inspired by  at achievebirthequity great clear ideas to move equity forward! Bodily autonomy comes 1st, health as a human right, look to change upstream! https://t.co/aSi33r67B9",Mention,Female,True
+452,Positive,0.2777777777777778,False,0.5555555555555556,405310951,0.891,536610418,1514609125509853193,0.0,0.741,0.259,"- “No one is free until everyone is free..” ✊🏽 dropping the truth during her  keynote. 
+
+ is the assurance of the conditions of optimal births for all people with a willingness to address racial &amp; social inequities in a sustained effort👇🏽 https://t.co/UokSAEuSUE",Mention,Female,True
+453,Neutral,0.0,False,0.0,2239473572,0.0,536610418,1514550092975517700,0.0,1.0,0.0,   💗💓💗,Mention,Female,True
+454,Positive,0.8,False,0.2,144396811,0.802,536610418,1514537813018300418,0.0,0.676,0.324,"To quote my Sis , this year at  we’ve moved on to Justice and Joy. https://t.co/g4ykGNTxFF",Mention,Female,True
+455,Positive,0.1565656565656565,False,0.4626262626262626,8036392,0.0,536610418,1514368912858783748,0.0,1.0,0.0,"The Biden Administration announced new actions addressing maternal health and inequities.
+
+ has more on the reality Black women face at pregnancy.
+
+https://t.co/U4UZMHn7bF https://t.co/czNxjMkLvu",Mention,Female,True
+456,Positive,0.1166666666666666,False,0.7166666666666667,1466948943603027969,0.6908,536610418,1514339438935130112,0.0,0.853,0.147, HITECH guys in charge please include perinatal and women health providers. We are still faxing out here. Where’s the interoperbility ? Start with the fabulous Black Women in HIT. USCDI BMHW22 BlackMaternalHealthWeek   ,Mention,Female,True
+457,Positive,0.1,False,0.4,37008978,0.6369,536610418,1514333417512398850,0.0,0.856,0.144,"A7 We would like to acknowledge and appreciate the CHCF Birth Equity Advisory Group, including  _young and . We’re nothing without our partners and the thought leadership they provide. https://t.co/QPvcUjMIWU BMHW22 https://t.co/o8BdJveiJb",Mention,Female,True
+458,Negative,-0.1666666666666666,False,0.4333333333333333,43198449,0.4939,536610418,1514332437924519946,0.0,0.882,0.118,"BMHW22TweetChat We're participating in BlackMaternalHealthWeek BMHW22 because every black birthing person deserves equitable, just health care. 🤰🏾BlackMamasMatter MedEd4Equity BlackMaternalHealth   _Drs   https://t.co/UJ7s58Id85",Mention,Female,True
+459,Positive,0.375,False,0.75,43198449,0.4003,536610418,1514331939494412289,0.0,0.906,0.094,"Checking in! Excited to be joining BMHW22TweetChat &amp;  for BMHW22 BlackMaternalHealthWeek to advance BirthJustice ReproJustice BlackMaternalHealth through high-quality MedEd 🤰🏾💕
+
+   _Drs  https://t.co/yWUvZRfCro",Mention,Female,True
+460,Positive,0.4,False,0.8,43198449,0.7345,536610418,1514331496538124294,0.0,0.842,0.158,"     Of course! Here are the links to our MaternalHealth podcasts + CME/CE activities:
+
+https://t.co/MCy9Qb7o2k: CME/CE podcast by   
+
+https://t.co/GJ9nUWrhuR MedEd by   
+
+All are free and offer CME/CE credit. 💕",Mention,Female,True
+461,Neutral,0.0,False,0.0,2717607301,0.0,536610418,1514330971537121283,0.0,1.0,0.0,       check this out,Mention,Female,True
+462,Neutral,0.0,False,0.0,2717607301,0.3612,536610418,1514330895972548610,0.0,0.8,0.2,     Thank you for linking that BMHW22,Mention,Female,True
+463,Positive,0.4,False,0.8,43198449,0.7574,536610418,1514330246501347337,0.0,0.822,0.178,"  We offer ContinuingMedicalEducation on BirthEquity ReproJustice, specifically for HCPs! Presented by experts   , our MedEd is free &amp; provides HCPs w/ actionable steps to improve MaternalHealth: https://t.co/twubuK4h4Q MedEd4Equity",Mention,Female,True
+464,Positive,0.3054545454545455,False,0.6290909090909091,1079883402772389894,0.8885,536610418,1514329105977782276,0.0,0.785,0.215," A2. I’m participating b/c there is MUCH more to be done to raise awareness &amp; create positive change, esp. through policy. We can’t have policy that makes sense, w/o listening to community need &amp; like  said earlier “nobody is free until everybody is free.”",Mention,Female,True
+465,Neutral,0.0,False,0.25,43198449,0.0,536610418,1514327571676151809,0.0,1.0,0.0,"In a recent MedEd activity on BlackMaternalHealth &amp; BirthJustice,    provided steps to EndMaternalMortality. 1 learner said this ⬇️
+https://t.co/twubuK4h4Q BlackMaternalHealthWeek BMHW22 MedEd4Equity ReproJustice  https://t.co/4pawdvcajz",Mention,Female,True
+466,Neutral,0.0,False,0.25,43198449,0.0,536610418,1514327064949805060,0.0,1.0,0.0,"MedEd makes a difference. In a recent activity on BlackMaternalHealth,    provided steps to advance MaternalEquity. Here is what one learner said!
+https://t.co/twubuK4h4Q BlackMaternalHealthWeek BMHW22 MedEd4Equity  https://t.co/gKVXN6PgvK",Mention,Female,True
+467,Neutral,0.0,False,0.0,43198449,0.0,536610418,1514326563822706690,0.0,1.0,0.0,"We released MedEd on BlackMaternalHealth &amp; ReproJustice. HCPs were given actionable steps by    to advance MaternalEquity. Here is what one learner said ⬇️
+https://t.co/twubuK4h4Q BlackMaternalHealthWeek BMHW22  https://t.co/uJagUncHDX",Mention,Female,True
+468,Neutral,0.0,False,0.0,43198449,0.0,536610418,1514326058866290698,0.0,1.0,0.0,"We released MedEd on BlackMaternalHealth &amp; BirthEquity. The learners were given actionable steps by    to EndMaternalMortality. Here is what one learner said ⬇️
+https://t.co/twubuK4h4Q BlackMaternalHealthWeek BMHW22  https://t.co/U2Y0LZn879",Mention,Female,True
+469,Positive,0.3868055555555555,False,0.6944444444444443,3413184119,0.4559,536610418,1514325572519960582,0.0,0.897,0.103,"A1: _TASC is here and we're excited to participate in today's BMHW22 Tweetchat! We're shouting out an incredible Black mama and physician , president of ! https://t.co/iqGunmx9GK",Mention,Female,True
+470,Neutral,0.0,False,0.0,43198449,0.0,536610418,1514325553028947980,0.0,1.0,0.0,"In 2021, we released MedEd on BlackMaternalHealth &amp; BirthEquity. The result? HCPs nationwide took actionable steps to EndMaternalMortality w/   : https://t.co/twubuK4h4Q
+
+BlackMaternalHealthWeek BMHW22 MedEd4Equity  https://t.co/sR4CEQ6dWV",Mention,Female,True
+471,Positive,0.5,False,0.55,37008978,0.8268,536610418,1514325299583873027,0.0,0.82,0.18,"A1 Hi! We’re the California Health Care Foundation, based in Oakland, CA. So many people we would love to shout out, including , president of  and member of the CHCF Birth Equity Advisory Group. BMHW22 https://t.co/hq1dgYn8Cj",Mention,Female,True
+472,Neutral,0.0,False,0.0,606523966,0.3382,536610418,1514316001822879751,0.0,0.626,0.374,    Agreed!,Mention,Female,True
+473,Neutral,0.0,False,0.0,24106462,0.0,536610418,1514312611407540227,0.0,1.0,0.0,  My BMHW22 viewing attire https://t.co/yTWxHH4IPP,Mention,Female,True
+474,Neutral,0.0,False,0.0,4881793799,0.7592,536610418,1514311158181863433,0.0,0.628,0.372,   Congresswoman  is the TRUTH! She truly walks the walk!,Mention,Female,True
+475,Positive,0.36,False,0.5650000000000001,781982295863484456,0.8591,536610418,1514308479879626753,0.037,0.76,0.203,We love when  said “Nobody is free until all of us are free” during the PolicyLeadersInConversation virtual discussion. We hope you were able to tune in. Don’t forget to meet us back here at 3:30 pm ET for the BMHW22 Tweet Chat.,Mention,Female,True
+476,Negative,-0.0309523809523809,False,0.4654761904761905,119882305,0.128,536610418,1514306096122503171,0.045,0.902,0.053,"         _Zuckerman    On average, Black women are currently paid only 63 cents for every dollar paid to a non-Hispanic white man.”
+
+🚫The problem with this is that the lineage wealth gap impacts the entire ADOS family.
+
+This is why we’re advocating for direct cash payment REPARATIONS.",Mention,Female,True
+477,Positive,0.4652777777777778,False,0.774074074074074,24106462,0.7405,536610418,1514304101961637899,0.0,0.615,0.385,  Powerful conversation today!!! Black Maternal Health power hour for sure!!!,Mention,Female,True
+478,Positive,0.2406746031746031,False,0.4087301587301588,17594077,0.8748,536610418,1514302805045133315,0.0,0.776,0.224,"        _Zuckerman     ._Zuckerman concludes our event with a clear call to action: ”Every Black mother should have the right to a safe and healthy childbirth.”
+
+Thank you to everyone who joined us! BMHW22",Mention,Female,True
+479,Positive,0.8,False,0.2,1079883402772389894,0.5267,536610418,1514302133000101892,0.0,0.764,0.236,"“We all deserve justice and joy.” 
+– 
+at the 
+BMHW22 PolicyLeadersInConversation 
+BlackMamasMatter",Mention,Female,True
+480,Positive,0.5,True,0.25,54356934,0.8374,536610418,1514302114633244677,0.0,0.729,0.271,"Omg  THANK YOU for naming the “whispering” about abortion, and the real consequences it has for our ability to achieve reproductive justice. “We deserve joy.” ❤️❤️❤️❤️",Mention,Female,True
+481,Neutral,0.0,False,0.0,17594077,0.0,536610418,1514301836076924932,0.0,1.0,0.0,        _Zuckerman    . is about to explain the steps that  and the Biden-Harris administration are taking to advance maternal health equity. Tune in! https://t.co/Txy7YNVTEO,Mention,Female,True
+482,Neutral,0.0,False,0.0,19374709,-0.6249,536610418,1514300313637122050,0.186,0.814,0.0," highlights the global impact of anti-Black racism on maternal health outcomes, inclu. in the UK, a nation w universal healthcare.",Mention,Female,True
+483,Positive,0.4,False,0.8,17594077,0.5106,536610418,1514299777181417473,0.0,0.887,0.113,"        _Zuckerman    “Nobody is free until all of us are free—and that includes incarcerated moms.” – 
+BMHW22",Mention,Female,True
+484,Positive,0.35,False,0.35,781982295863484456,0.0,536610418,1514299727143219202,0.0,1.0,0.0,“So many of the Bills you all have put forth are really reparative”  PolicyLeadersInConversation BMHW22,Mention,Female,True

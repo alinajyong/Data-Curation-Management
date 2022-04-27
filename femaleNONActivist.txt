@@ -1,0 +1,798 @@
+,Analysis,Polarity,Profanity,Subjectivity,author id,compound,for,id,neg,neu,pos,text,type,Gender,Activist
+0,Neutral,0.0,False,0.0,435281513,0.0,738392410288447488,1475617040165752833,0.0,1.0,0.0, bUt COvId dOeSn't AFfecT ChIlDrEN,Mention,Female,False
+1,Negative,-0.2916666666666667,False,0.5416666666666666,304128769,-0.0258,738392410288447488,1475616428707532800,0.149,0.747,0.104," Thank you, Doctor, for your hard work and dedication. Can I ask how the children are faring? Worried about my 2 kiddos.",Mention,Female,False
+2,Neutral,0.0,False,0.0,962235107292729345,0.0,738392410288447488,1475616364752683010,0.0,1.0,0.0, bootlicker,Mention,Female,False
+3,Neutral,0.0,False,0.0,1386700512893018114,0.357,738392410288447488,1475616215167025154,0.0,0.784,0.216,    Not arguing the vax and booster,Mention,Female,False
+4,Positive,0.0892857142857142,False,0.7076719576719577,963508033,0.7603,738392410288447488,1475615461882699780,0.054,0.769,0.177," Pretty sure that’s how my family got it. We took my daughter to the ER for a kidney infection and got sick 5 days later. My only exposure. Triple vaxed and wore a well fitting kn95. They weren’t separating covid and non covid in waiting room and it’s TX, so some masks on chins.",Mention,Female,False
+5,Neutral,0.0,False,0.0,432481412,0.0,738392410288447488,1475614607758790656,0.0,1.0,0.0, https://t.co/QWbkPhCFtK,Mention,Female,False
+6,Negative,-0.2499999999999999,False,0.4333333333333333,966740329041772544,-0.7003,738392410288447488,1475613670184873987,0.106,0.87,0.024,"  In Alberta 🇨🇦, you make appts &amp; go to a testing site. You are legally required to stay in your car until they phone you &amp; you're not allowed to touch anything, incl doorknobs. 
+
+Problem is, it's a 45 min drive to the closest testing sites. So if you don't have a car, too bad.",Mention,Female,False
+7,Neutral,0.0,False,0.0,1437241588552388611,0.3182,738392410288447488,1475613167216513024,0.0,0.635,0.365,   link please?,Mention,Female,False
+8,Positive,0.06005291005291,False,0.4415343915343915,1346223878780166147,-0.5994,738392410288447488,1475612396941156352,0.094,0.87,0.037," And this is how we treat our practice pandemic. Wait till we get a virus that’s as transmissible as omicron but as fatal as SARS (World Health Organization: 15% general, 50% for elderly vs .9% for Covid19). We get that right, or ‘we all fall down’.",Mention,Female,False
+9,Positive,0.1,False,0.4,818997400672997376,0.3612,738392410288447488,1475611512488316930,0.117,0.721,0.162,"     Character limitations sucks on Twitter.  That’s it from me. We are vaxxed, boosted, and masked.  Being as cautious and safe as can be…",Mention,Female,False
+10,Positive,0.0297619047619047,False,0.2130952380952381,818997400672997376,0.3818,738392410288447488,1475611191535939584,0.0,0.945,0.055,"     Ya’all. the deal- IMHO.  We cannot rely on our fellow Americans to do the right thing. We can, however, ensure all Americans have equal access-testing, tracing, masks without economic-impact to those less financially equipped. It takes a village- &amp;the village deserves leadership",Mention,Female,False
+11,Negative,-0.0854166666666666,False,0.3270833333333333,972197485660786691,0.8173,738392410288447488,1475609139330093056,0.075,0.724,0.201," _sews       Yeah Abbott is a despicable person. Acting in a privileged, above it all attitude and mocking people in other states is not the answer to that. Grow up. And sounds like you lucked out. I've got friends and family all over the country. Testing is not easy these days. Anywhere.",Mention,Female,False
+12,Positive,0.1,False,0.4,805215857811066880,0.0,738392410288447488,1475608965031632911,0.0,1.0,0.0, Biden is completely blowing the Covid response,Mention,Female,False
+13,Neutral,0.0,False,0.0,1374065241579941888,0.0,738392410288447488,1475608829932933121,0.0,1.0,0.0,"    👉🤡👈
+
+Take your meds! https://t.co/b38h2vjRsF",Mention,Female,False
+14,Positive,0.0716666666666666,False,0.4883333333333333,972197485660786691,0.7962,738392410288447488,1475608804557565955,0.048,0.762,0.19," _sews       Yes. You seem pretty privileged to assume everyone can just afford to buy things, which they cannot. The federal government should be ensuring tests and n95s are available to everyone at every income level. Implying people are not trying hard to enough to find things is gross.",Mention,Female,False
+15,Negative,-0.1953125,False,0.375,756542474,-0.7772,738392410288447488,1475608370690379778,0.184,0.816,0.0,  My neighbors grandkids have been invited to Florida by the other grandparents. Their flight yesterday was cancelled and rebooked for today. Cancelled again. It’s nuts they are still trying. I’m on cloud nine for the cancels though! Maybe prayers do work!,Mention,Female,False
+16,Positive,0.3666666666666667,True,0.4666666666666666,881984056463941633,-0.128,738392410288447488,1475608317661749265,0.168,0.708,0.124,_  I say fuck em. Do what is best for you and your child. No is a two letter word that needs to be used in many cases,Mention,Female,False
+17,Neutral,0.0,False,0.0,1374065241579941888,0.0,738392410288447488,1475608148316594177,0.0,1.0,0.0,"    Yet nothing mentioned about the unvaxxed getting vaxxed  so what's your point? 
+
+Also, vax, not even comparable to the UNvaxxed. https://t.co/HAKXjPxgln",Mention,Female,False
+18,Positive,0.8,False,0.75,46026399,0.6249,738392410288447488,1475607854568644620,0.0,0.806,0.194," _sews       We have a great governor here in Kentucky, unlike you Texans.",Mention,Female,False
+19,Positive,0.215,False,0.4883333333333334,46026399,0.8225,738392410288447488,1475607624016089094,0.0,0.833,0.167, _sews       I didn’t say Amazon provides them for free. There have been tests available for all who want them here. Free. There have been lines. I waited 20 mins yesterday. I should receive results tonight. My husband was tested last Wednesday and had results Thursday. Any other questions?,Mention,Female,False
+20,Neutral,0.0,False,0.0,1374065241579941888,0.0,738392410288447488,1475607333614993411,0.0,1.0,0.0,"    I literally linked from HARVARD you 🤡whereas you sourced 4chan message boards and pseudo""Dr"" Joe Rogan and his podcast ""medical degree"" https://t.co/PnW8dd7gLP",Mention,Female,False
+21,Negative,-0.75,False,0.9,18115849,-0.4003,738392410288447488,1475606944543035395,0.23,0.77,0.0, Our ED will not test for travel. That’s crazy!,Mention,Female,False
+22,Negative,-0.0833333333333333,False,0.5333333333333333,1374065241579941888,0.0,738392410288447488,1475606935521005569,0.0,1.0,0.0,"    Did u read the article I linked, Qevin? 
+
+If so, reading, comprehension issues? 
+
+Fully Vaxxed- LESS LIKELY TO SPREAD THE VIRUS than the UNVAXXED 👉COVIDIDIOTS
+
+Fully Vaxxed- SHORTER PERIOD OF CONTAGIOUSNESS unlike the UNVAXXED CovidIDIOTS
+Ur the one spreading MISINFORMATION🖕 https://t.co/PViMSEp0W6",Mention,Female,False
+23,Neutral,0.0,False,0.0,1452950289342889988,0.0,738392410288447488,1475606556695617536,0.0,1.0,0.0,  In Canada 🇨🇦 you can get shots at lots of drugstores. I have to call and I could get an appointment within days.,Mention,Female,False
+24,Neutral,0.0,False,0.0,432734907,0.0,738392410288447488,1475606018910531584,0.0,1.0,0.0,_  https://t.co/WL04ZbUJEs,Mention,Female,False
+25,Positive,0.2,False,0.2,972197485660786691,0.0,738392410288447488,1475605898320130048,0.0,1.0,0.0,_sews        How much did that cost?,Mention,Female,False
+26,Positive,0.1357142857142857,False,0.3928571428571428,972197485660786691,0.8357,738392410288447488,1475605788412588042,0.0,0.832,0.168," _sews       So amazon provides them for free? Please do tell me how to get those.. Also please tell me for the past 7 days how many tests were available in your county, how long the wait was and how long it took to come back.. I'll wait.",Mention,Female,False
+27,Negative,-0.25,False,0.25,1723950090,0.0,738392410288447488,1475605666022793229,0.0,1.0,0.0, 😡 saw this while working this past weekend. SMDH,Mention,Female,False
+28,Neutral,0.0,False,0.0,972197485660786691,0.5754,738392410288447488,1475605581872480256,0.0,0.682,0.318, _sews       YES!,Mention,Female,False
+29,Positive,0.15,False,0.35,1187400017876680704,0.7536,738392410288447488,1475604815900147714,0.032,0.819,0.149,"    Every time I do that, the response is ""oh, like I believe the CDC, or the NYTimes, or Pfizer, or Israel, or Johns Hopkins, or..."" So, no, I won't, but if you're sincere you won't have any trouble finding verification. Boosters offer 70+% protection against Omi (for now).",Mention,Female,False
+30,Neutral,0.0,False,0.0,22031372,0.6705,738392410288447488,1475604361720078337,0.0,0.703,0.297, I am vaxxed boosted and still wear a mask. Just so you know someone who cares. 😃,Mention,Female,False
+31,Negative,-0.0368749999999999,False,0.6433333333333333,751446761261203456,-0.6909,738392410288447488,1475604000909234177,0.171,0.733,0.096," _  Agree w/Thrice. Not only that,  but babies are now more at risk for that RSV respiratory disease which is also bad for the little babies! That's YOUR child YOU are responsible for its protection. Follow your instincts!",Mention,Female,False
+32,Negative,-0.05,False,0.1714285714285714,57549390,0.7712,738392410288447488,1475603947389960193,0.0,0.675,0.325, Thank you and all healthcare workers! Please protect your mental and physical space. This has to be draining,Mention,Female,False
+33,Positive,0.5,False,0.5,197486935,0.6908,738392410288447488,1475603177932308489,0.0,0.551,0.449, Thank you for providing care to so many.,Mention,Female,False
+34,Neutral,0.0,False,0.0,15755945,0.0,738392410288447488,1475602972357070848,0.0,1.0,0.0,  DAM Health,Mention,Female,False
+35,Neutral,0.0,False,0.0,1201011342544719873,0.4199,738392410288447488,1475601677621374983,0.0,0.417,0.583, Thank you!,Mention,Female,False
+36,Neutral,0.0,False,0.0,1201011342544719873,0.0,738392410288447488,1475601364545904648,0.0,1.0,0.0, The airport is a choice.,Mention,Female,False
+37,Negative,-0.06875,False,0.59375,50730181,-0.2481,738392410288447488,1475601089412190208,0.13,0.813,0.057," Novel idea...EDs should deny non-essential testing. It is counterproductive and taxes an already stretched to the limit system.
+
+Sorry, your flight is not that important if you can't make other arrangements to pass your screening requirements.",Mention,Female,False
+38,Positive,0.1428571428571428,False,0.3063186813186813,44640419,0.0,738392410288447488,1475600279047483398,0.0,1.0,0.0," I’m in Heidelberg, Germany right now. Getting tested regularly at a testing site in a container in front of an ER, where everybody needs to test before even setting foot inside the hospital (including unvaccinated staff).",Mention,Female,False
+39,Neutral,0.0,False,0.0,240710760,0.0,738392410288447488,1475599958963281931,0.0,1.0,0.0," Is there an incubation difference between the variants? Omicron and Delta seem to be prevalent nowadays, what is the incubation time for those?",Mention,Female,False
+40,Negative,-0.5,True,0.8500000000000001,949139976683323393,-0.5356,738392410288447488,1475599535900557313,0.138,0.808,0.053," I would turn them away. This is not what emergency departments are for. If you are going to travel get your shit in a pile, book a place to get tested. Plan accordingly, if not don't bloody go.",Mention,Female,False
+41,Positive,0.195,False,0.215,587130995,0.2944,738392410288447488,1475599140394397698,0.0,0.82,0.18," _skelly  (and it's a short thread, very worth the read..)",Mention,Female,False
+42,Neutral,0.0,False,0.3571428571428571,587130995,0.0,738392410288447488,1475598689339011074,0.0,1.0,0.0," _skelly  Here is a really, really simple breakdown of the math. https://t.co/GruEENlaZp",Mention,Female,False
+43,Positive,0.5625,False,0.6944444444444444,1073230651682373632,0.7629,738392410288447488,1475598074231799808,0.0,0.83,0.17," Thank you for the work you do. I’m still trying to get my mom to understand that saying “but they weren’t coughing or anything, so I’m sure it’s ok to see them!” is not how asymptomatic spread works. 🙄🤦‍♀️",Mention,Female,False
+44,Negative,-0.0333333333333333,True,0.2083333333333333,23546571,-0.2786,738392410288447488,1475597556906397701,0.123,0.776,0.101,"   Same. My daughter woke with fever on 12/23. I immediately canceled all plans for Christmas Eve and Christmas Day
+Sucks, but I am relieved we didn't unintentionally expose anyone.  Would have really sucked if she woke up with fever in the 26th.",Mention,Female,False
+45,Negative,-0.4,False,0.7,740377711554629632,0.0,738392410288447488,1475596779160698883,0.0,1.0,0.0,       We seem to always be coming up from behind. 😒,Mention,Female,False
+46,Positive,0.4,False,0.7,602848657,0.3612,738392410288447488,1475596712416792578,0.0,0.889,0.111,"  Yet everyone is minimizing and making light of COVID in kids, even MIS-C;
+thank you for all you do",Mention,Female,False
+47,Positive,0.5,False,0.5,22024590,0.0,738392410288447488,1475596196160880644,0.0,1.0,0.0, How many are unvaccinated?,Mention,Female,False
+48,Positive,0.1944444444444444,False,0.7638888888888888,1050558910413905922,0.3664,738392410288447488,1475596112782311428,0.134,0.677,0.189,    Glad to see you understood the original post. How hard did you have to work to become this ignorant?,Mention,Female,False
+49,Positive,0.1666666666666666,False,0.7333333333333334,338968913,0.7506,738392410288447488,1475595314912497666,0.0,0.894,0.106,"   _E_Kirwin   I know, I'm not saying that. 
+
+I'm saying when you book a 
+holiday you check what vax's are required &amp; you source a clinic/ drive through you will use at the appropriate time, not the effing ER, where you can
+a) pick up Covid at the moment &amp;
+b) take up precious resources.",Mention,Female,False
+50,Negative,-0.0375,False,0.6625000000000001,16885937,-0.886,738392410288447488,1475594665604829191,0.245,0.641,0.114,"    Yes, but that trap was already built into the rules.
+We make it worse, and push more people into that trap  by making people desperate for testing, and then giving them incentive to get tested at the ED.  There, they get to hang with a room full of known-positive COVID sufferers.",Mention,Female,False
+51,Negative,-0.1,False,0.6,863313000714956800,-0.3818,738392410288447488,1475594302671753216,0.089,0.911,0.0,    _Kenney    People shouldn't be going to the ER to get tested. That's a given. Blaming hospitals for not setting up clinics when there's a dr and nursing shortage is a take but not a reasonable one.,Mention,Female,False
+52,Positive,0.0604545454545454,False,0.739090909090909,820858066665140224,0.25,738392410288447488,1475593731168509958,0.121,0.758,0.121,"    I think that's absolutely possible.    Also possible (and what I was thinking with my original tweet) was
+-Get infected on Mon
+-Test negative on Tues, while asymptomatic
+-Proceed on your trip Wed, infected but still asymptomatic
+-Develop symptoms and test positive Thurs or Fri",Mention,Female,False
+53,Positive,0.0453869047619047,False,0.7589285714285714,2332308560,0.551,738392410288447488,1475593692396277762,0.143,0.607,0.251,_  Do not be pressured!  You’re right to protect your family and that little precious babe.  It’s ridiculous they would pressure you at all!,Mention,Female,False
+54,Negative,-0.1363636363636363,False,0.5227272727272727,808793136,-0.5744,738392410288447488,1475593389567619082,0.155,0.774,0.071," So here in SA we are seeing lots of positive cases but mostly not needing admission to hospital!! 
+My worry is what's gonna happen in winter!!",Mention,Female,False
+55,Positive,0.17625,False,0.4516666666666667,16885937,0.3632,738392410288447488,1475593304150622213,0.057,0.836,0.107,"   _Kenney     Come now. What if everyone took your attitude? Well, if THAT kind of reasonable attitude prevailed, we wouldn't be IN this mess!
+
+And yet here we are. So clearly reasonableness isn't what we do, so much, anymore.",Mention,Female,False
+56,Positive,0.3666666666666667,False,0.8333333333333334,1386700512893018114,0.8658,738392410288447488,1475593103520239618,0.0,0.34,0.66,_Bow  Wow. I’m glad she is better,Mention,Female,False
+57,Negative,-0.0666666666666666,False,0.1666666666666666,554460614,0.0,738392410288447488,1475593020984733701,0.0,1.0,0.0,"   From what I gathered, travel requires a test done by medical professional and can't be done by a test kit. At least that is for the UK.",Mention,Female,False
+58,Positive,0.5,False,0.5,1386700512893018114,0.2263,738392410288447488,1475592830567563267,0.0,0.84,0.16,"     Okay, I stand corrected.  I was incorrectly informed",Mention,Female,False
+59,Negative,-0.0464285714285714,False,0.5928571428571429,705240002322681856,0.1298,738392410288447488,1475592703320768518,0.056,0.874,0.069,"_Belle   It's likely the test has to be within a time frame (pry 48 hrs) of travel.  If that happens to fall on weekend or holiday, in some regions your options might be very limited.",Mention,Female,False
+60,Negative,-0.375,False,0.7944444444444444,554460614,0.1124,738392410288447488,1475592673260093442,0.077,0.828,0.095,  They have testing at airports. Really expensive though. Also not sure if you have to go through security to get it.,Mention,Female,False
+61,Negative,-0.6,False,1.0,1197955508734451713,0.0772,738392410288447488,1475592570994634759,0.0,0.954,0.046,"  And to confirm pregnancies, because they're under the influence and it's cold out and they want their turkey sammies, and that drug that begins with ""D""....",Mention,Female,False
+62,Positive,0.1068181818181818,False,0.6113636363636363,16885937,-0.0258,738392410288447488,1475592488261931009,0.17,0.663,0.167,"    I thought the scenario was:
+ * Test negative in ER, where you get infected
+ * Go far away
+ * Enjoy your trip for, say, 4 days
+ * Test positive
+So there you stay.",Mention,Female,False
+63,Negative,-0.1160714285714285,False,0.8214285714285714,1386700512893018114,-0.431,738392410288447488,1475592193976983555,0.228,0.772,0.0,    I stand corrected.  Sorry we are not all as smart as you!,Mention,Female,False
+64,Positive,0.125,False,0.7166666666666667,1313944235452891144,0.6239,738392410288447488,1475592081473220608,0.066,0.738,0.196, We pray you wake up willing to fight another day. You &amp; your colleagues are the only people keeping us high-risk folks alive! Thank you from the bottom of our hearts. https://t.co/u4MbShZ78f,Mention,Female,False
+65,Negative,-1.0,False,1.0,1418974808,-0.3612,738392410288447488,1475592062388948992,0.263,0.737,0.0, Vicious circle if ever there was one.,Mention,Female,False
+66,Positive,0.5,False,0.5,554460614,0.4019,738392410288447488,1475592045385420805,0.065,0.792,0.144,"   GOP senators and reps are invested in treatments so they tell their party treatments are ok, it's the vaccines that give them no money that is not.",Mention,Female,False
+67,Positive,0.44,False,0.5599999999999999,705240002322681856,0.7414,738392410288447488,1475591956910772229,0.042,0.807,0.151," _Paul_Musings       This is also true. I think both things can be true tho. Feds shldve done more w/ defense production act to scale up test production. Would be interesting to hear a state by state breakdown on where ppl are struggling the most to get tests, and to examine how they used their funds",Mention,Female,False
+68,Positive,0.3928571428571428,False,0.6678571428571429,74472969,0.5848,738392410288447488,1475591542182223876,0.057,0.747,0.195, And this is precisely why I cancelled my holiday travel! I didn’t want to get on a plane w/o COVID and get off w/COVID. Thank you for confirming I made the right decision.,Mention,Female,False
+69,Positive,0.1233333333333333,False,0.3366666666666666,554460614,0.0516,738392410288447488,1475591456899407872,0.0,0.977,0.023," We need more staff for testing sites. The ones working have been working the past two years and are burnt out. Public health is overwhelmed as much as hospitals.
+
+States and Fed govt need to start hiring and paying people decent wages to work these clinics to sign people in etc.",Mention,Female,False
+70,Neutral,0.0,False,0.0,24106420,0.5574,738392410288447488,1475590702528700437,0.0,0.635,0.365, Sleep well. Sounds like you need and deserve it.,Mention,Female,False
+71,Negative,-0.0275,False,0.485,1374065241579941888,0.1779,738392410288447488,1475590396143042563,0.067,0.828,0.106,"    CovidIDIOTS 
+“This mindless tolerance, which places observable scientific facts, subject to proof, on the same level as unprovable supernatural fantasy, has played a major role in the resurgence of both anti-intellectualism and anti-rationalism.”
+Susan Jacoby https://t.co/vweulW7eJ3",Mention,Female,False
+72,Neutral,0.0,False,0.0,1386700512893018114,0.0,738392410288447488,1475590161576648705,0.0,1.0,0.0,    Can you send a link to back up your claims,Mention,Female,False
+73,Positive,0.0999999999999999,False,0.65,214940833,0.4767,738392410288447488,1475589540689633284,0.05,0.823,0.127,"        Yeah. Good masks are expensive. They aren’t covered by food stamps. If you’re getting an “Independence Card”, you don’t have money for shampoo or deodorant, let alone masks.",Mention,Female,False
+74,Positive,0.5,False,0.5,1374065241579941888,-0.7065,738392410288447488,1475589495923769344,0.203,0.797,0.0,"    That's NOT WHAT YOU SAID🤡
+
+NO HEALTHCARE PROFFESSIONAL SAID ""VAX STOP THE SPREAD""
+
+FACT CHECK BEFORE YOU SPREAD MORE DISINFORMATION🤡
+https://t.co/wDr7sRAUPE",Mention,Female,False
+75,Neutral,0.0,False,0.0,476291868,0.8481,738392410288447488,1475589343964278785,0.0,0.56,0.44,   It's like Europeans expect everyone to act like adults &amp; treat them like adults.,Mention,Female,False
+76,Negative,-0.0666666666666666,False,0.55,97452920,-0.4692,738392410288447488,1475589270639419393,0.131,0.869,0.0,"  That's what happens when you test everyone
+
+You seem unaware of the inaccurate results using PCR testing to determine infections
+(Hint they can NOT rate active infections)",Mention,Female,False
+77,Neutral,0.0,False,0.0,476291868,0.0,738392410288447488,1475589062610374656,0.0,1.0,0.0,   Pharmacies out of tests in our rural area.,Mention,Female,False
+78,Neutral,0.0,False,1.0,628768821,0.4401,738392410288447488,1475588743994163202,0.107,0.704,0.19,"  Thx. I reevaluated some of my assumptions. Found this  - it helped straighten me out. Not trivializing suffering of children. IF/when tallies r inflated in locales, I object to using hype/ fear mongering in media. Undercounts certainly possible in places https://t.co/iDiGaZEXFn",Mention,Female,False
+79,Neutral,0.0,False,0.5,163706419,0.4588,738392410288447488,1475588477593038858,0.071,0.75,0.179," If there aren’t enough tests in an area, that alone should raise the Covid Alert Level, resulting in additional safety precautions.  ",Mention,Female,False
+80,Negative,-0.0305555555555555,False,0.5805555555555556,906048296967323648,0.3612,738392410288447488,1475587919540752385,0.028,0.895,0.078,"  _E_Kirwin   Also want to add lots of testing sites are now specifying that testing is not for traveling, and airlines and cruises don’t accept results from test at home kits, they really are making it as hard as possible for travelers to get tested.",Mention,Female,False
+81,Positive,0.1323232323232323,False,0.7853535353535354,93983093,0.5106,738392410288447488,1475586901662969860,0.094,0.758,0.148,"_2_Win    That’s ridiculous. I’ve taken probably 20 of them since they came out, probably had 100 amongst my family. Instant negatives. Today, sample line lit up like Christmas and confirmed positive at my GP this afternoon. Way better than going in 100 times, only to get infected there.",Mention,Female,False
+82,Positive,0.085,False,0.5927777777777778,70717088,-0.3318,738392410288447488,1475586471482568718,0.148,0.778,0.073,      I believe the President mentioned the other day that he should have pushed for readily available free tests earlier. Not sure there is a supply shortage of N95 masks. We haven’t had a problem getting them.,Mention,Female,False
+83,Neutral,0.0,False,0.0,166278098,0.3382,738392410288447488,1475586164228775954,0.0,0.556,0.444,_scheinman   Agreed!,Mention,Female,False
+84,Negative,-0.1,False,0.9,16976642,-0.3597,738392410288447488,1475586115243429889,0.161,0.839,0.0," _jf_jf_jf_jf  You make absolutely no sense. Btw, ivermectin doesn’t work against COVID-19",Mention,Female,False
+85,Positive,0.2083333333333333,False,0.4638888888888888,733354761945157632,0.6486,738392410288447488,1475585070962331654,0.0,0.883,0.117,"       They've had a year to ramp up testing.
+
+Public health officials have been begging for increased testing since this started.
+
+Other countries are successfully testing.
+
+It's on them, because it was a choice, not a thing that happened.",Mention,Female,False
+86,Negative,-0.0562499999999999,False,0.61875,820858066665140224,0.2681,738392410288447488,1475584840514912262,0.043,0.877,0.081,"   Also, those who just don't want to hear or believe it, because it would mean they'd have to change their behavior and be responsible.",Mention,Female,False
+87,Positive,0.2,False,0.5,1584180554,0.5615,738392410288447488,1475584799687458816,0.037,0.847,0.116, This described my whole 2020 holiday dilemma - how to get tested without getting the thing. So I just unpacked the car and stayed home. 😒 Fast forward to 2021 - I don't know how I'm not infected and also I don't know that I'm not. 😒😒,Mention,Female,False
+88,Neutral,0.0,False,0.5,723252732241432576,0.8214,738392410288447488,1475584223348023296,0.0,0.677,0.323," Thank you, for sharing… I don’t know how you do it… So thank you!… I retweeted, hopefully, it will open some eyes!",Mention,Female,False
+89,Neutral,0.0,False,0.0,1967666846,0.0,738392410288447488,1475584145812295691,0.0,1.0,0.0, We are never getting rid of this.,Mention,Female,False
+90,Positive,0.0625,False,0.2125,1001233735721897984,0.4019,738392410288447488,1475584013733670914,0.0,0.922,0.078,"       Which people? Quite a few were expecting exactly that, which is why the White House went from scoffing at the idea to promising it will get done.",Mention,Female,False
+91,Neutral,0.0,False,0.0,109807666,0.0,738392410288447488,1475583040785108995,0.0,1.0,0.0,"    Correct. It's been studied.
+
+https://t.co/3RWJ2aHvqf",Mention,Female,False
+92,Negative,-0.1666666666666666,False,0.8333333333333334,1311107822764134400,-0.2244,738392410288447488,1475582807711830017,0.163,0.744,0.093, Thank you for your dedication! I’m sorry there are so many uninformed or ill informed people that you have to deal with,Mention,Female,False
+93,Neutral,0.0,False,0.0,109807666,0.0,738392410288447488,1475582444350935045,0.0,1.0,0.0,    He isn't. He's just laying out the reality of the moment.,Mention,Female,False
+94,Positive,0.0389610389610389,False,0.5142857142857143,16533584,-0.1027,738392410288447488,1475582201752432640,0.189,0.609,0.202," _  And selfish inconsiderate people like you put your own personal interests above any community commitment. You reject anything that remotely inconveniences you. Yeah, go ahead, you live your life, I'll live mine.",Mention,Female,False
+95,Positive,0.25,False,0.3333333333333333,1665906764,-0.7506,738392410288447488,1475581443699089411,0.189,0.783,0.028,"_  My mother told me, when my first was born years ago. “You’re the mom. What you say goes, no matter how irritated we may get about it.” Empowering words. Even when we disagreed.",Mention,Female,False
+96,Positive,0.075,False,0.4624999999999999,1369652744890372096,0.9325,738392410288447488,1475581317777481728,0.018,0.722,0.259,"   Vit D helps prevent serious lung disease, say doctors.  Nobody said you would not get it, but you get it less strongly. My covid in 11/19, before it was 'announced', did not go into my 72 yr old lungs due to strong Vitamin D regimen/adequacy. They gave Trump some! Zinc/Vit B help",Mention,Female,False
+97,Negative,-0.0266666666666666,False,0.22,752398784978685952,0.6369,738392410288447488,1475580620495593482,0.0,0.88,0.12,"  In Germany, the following serve as test centers:
+-pharmacies
+-currently off-season seasonal businesses like ice cream Cafés
+-night clubs
+-formerly shuttered hospitals
+-former airports
+-active airports
+-parking lots
+You could go covid-testing the way others do pub crawls.",Mention,Female,False
+98,Neutral,0.0,False,0.0,2339427162,0.4404,738392410288447488,1475580607883218945,0.0,0.734,0.266," I hope your observations are collected, recorded and analyzed.",Mention,Female,False
+99,Positive,0.35,False,0.7,3023109301,0.0,738392410288447488,1475580537834295296,0.0,1.0,0.0,  Do absolutely have to get more at home testing going on,Mention,Female,False
+100,Neutral,0.0,False,0.0,16187815,0.0,886539120436277253,1516263932268273666,0.0,1.0,0.0,    Did.,Mention,Female,False
+101,Neutral,0.0,False,0.0,20820325,0.0,886539120436277253,1516256111858487301,0.0,1.0,0.0,    Tell me she signed some copies.,Mention,Female,False
+102,Positive,0.6,False,0.65,1967885137,0.0,886539120436277253,1516252642866958337,0.0,1.0,0.0,    that pop art outfit is incredible!!! where do i get that whole ensemble?,Mention,Female,False
+103,Neutral,0.0,False,0.0,1274849190225547267,0.0,886539120436277253,1516157218051264519,0.0,1.0,0.0,      https://t.co/FVYfkvvc6J,Mention,Female,False
+104,Neutral,0.0,False,0.0,1489046579608793094,0.0,886539120436277253,1516153303352201225,0.0,1.0,0.0,_a     https://t.co/RpXYiS6tu5,Mention,Female,False
+105,Neutral,0.0,False,0.0,1489046579608793094,0.0,886539120436277253,1516152327518167043,0.0,1.0,0.0, _a     https://t.co/wNMsbPnUx6,Mention,Female,False
+106,Neutral,0.0,False,0.0,56924240,0.0,886539120436277253,1516132121089384449,0.0,1.0,0.0,    This photo is iconic🥰,Mention,Female,False
+107,Neutral,0.0,False,0.0,3654669914,0.4466,886539120436277253,1516101879423512580,0.0,0.816,0.184,_a     ***TROLL ALE🚨 *** Do not feed the troll 😈.,Mention,Female,False
+108,Positive,0.2857142857142857,False,0.5357142857142857,1274849190225547267,0.0,886539120436277253,1516063408994635783,0.0,1.0,0.0,"    So it's in the fiction section, right?",Mention,Female,False
+109,Positive,0.5,False,0.75,1151598579766767618,0.8217,886539120436277253,1516056674204893185,0.0,0.397,0.603,    Awesome! Truly such!,Mention,Female,False
+110,Neutral,0.0,False,0.0,45656605,0.0,886539120436277253,1516048062891839488,0.0,1.0,0.0,    😍😍😍😍😍😍,Mention,Female,False
+111,Positive,0.2,False,0.4,1708071164,0.0,886539120436277253,1516041957629480963,0.0,1.0,0.0,    ayyy this a whole mood.,Mention,Female,False
+112,Neutral,0.0,False,0.0,27128491,0.3612,886539120436277253,1516038649007194128,0.0,0.8,0.2,    Academics are like superstars to me. https://t.co/GeV9oBGXRJ,Mention,Female,False
+113,Neutral,0.0,False,0.0,860317019471826944,0.0,886539120436277253,1516021976908931074,0.0,1.0,0.0,    Ayyy!!!,Mention,Female,False
+114,Positive,0.25,False,0.45,1211398895718191104,0.4588,886539120436277253,1516021342931505153,0.0,0.824,0.176,Iconic.    checking out our current bookshop exhibit dedicated to the 1619Project https://t.co/DzhUKiBDvF,Mention,Female,False
+115,Neutral,0.0,False,0.0,2850324351,0.0,886539120436277253,1515156184491249667,0.0,1.0,0.0,"https://t.co/R2gSnqefCH
+Just posted Ep. 45 of TheRoughDraft!!!
+             ",Mention,Female,False
+116,Positive,0.2777777777777778,False,0.4777777777777778,755477602501025792,0.6892,886539120436277253,1514606688292155393,0.0,0.857,0.143,"Awesome!! Germantown Quakers plan to give $500,000 as reparations to Black neighbors over the next decade https://t.co/xvejv2aQeD via _penn          ",Mention,Female,False
+117,Positive,0.78125,False,0.6,1280979639326986250,0.8652,886539120436277253,1514052086329135110,0.0,0.559,0.441,  _coas  Love this !!  Can’t wait to meet you congratulations 🎊,Mention,Female,False
+118,Neutral,0.0,False,0.0,1374799134,0.0,886539120436277253,1513459096908967936,0.0,1.0,0.0,   💜🎉💜,Mention,Female,False
+119,Positive,0.9166666666666666,False,0.7333333333333333,2211788892,0.938,886539120436277253,1513339013133791233,0.039,0.551,0.41,   Aww… you’re too kind! 🥰 I’m happy to pay it forward! The world needs to read your stories. I wish you all the best!,Mention,Female,False
+120,Neutral,0.0,False,0.0,1355981783427407877,0.0,886539120436277253,1513335568515665931,0.0,1.0,0.0,   You’ll be in the dedication. 🙏🏾,Mention,Female,False
+121,Neutral,0.0,False,0.0,2211788892,0.0,886539120436277253,1513335446553591808,0.0,1.0,0.0,   I can’t wait to read it!! https://t.co/7ROl2slcJc,Mention,Female,False
+122,Neutral,0.0,False,0.0,1355981783427407877,0.34,886539120436277253,1513335211387494403,0.0,0.469,0.531,   challenge accepted,Mention,Female,False
+123,Positive,0.25,False,0.6,2211788892,0.7639,886539120436277253,1513334929232257028,0.0,0.838,0.162,"  An author shared this quote with me years ago. It changed my self-perception forever! Fast forward…, I adore my Black-owned publisher, , who says, “It’s your story, your way!”  
+nonfiction picturebooks Edumatch BlackAuthor BlackIllustrator https://t.co/RU3N3Rk3bs",Mention,Female,False
+124,Neutral,0.0,False,0.0,2211788892,0.0387,886539120436277253,1513331566067429380,0.0,0.95,0.05,"  “If there's a book that you want to read, but it hasn't been written yet, then you must write it.” - Toni Morrison",Mention,Female,False
+125,Positive,0.225,False,0.2,1211398895718191104,0.4926,886539120436277253,1512111124401070082,0.0,0.79,0.21,        Thanks so much for this!,Mention,Female,False
+126,Positive,1.0,False,0.75,755477602501025792,0.9392,886539120436277253,1512110943974608905,0.0,0.658,0.342,"Hey Friends,
+Did you write your congressperson about HB7013 to create a federal holiday honoring the great HarrietTubman? Campaign was initiated by  owner of .  JUST DO IT!       https://t.co/MJugqi7WKA",Mention,Female,False
+127,Positive,1.0,False,1.0,1461457054904696832,0.7243,886539120436277253,1511730814710603780,0.0,0.78,0.22,"Drexel MFA’s own  and her book shop  got a feature on The Kelly Clarkson Show! Congratulations, Jeannine!!!! https://t.co/6qwUpMoMXt",Mention,Female,False
+128,Positive,0.6666666666666666,False,0.7333333333333334,21005474,0.9432,886539120436277253,1511677147244646405,0.0,0.318,0.682,Love the love and strength of  Harriet is proud! https://t.co/RVStITWzPc,Mention,Female,False
+129,Neutral,0.0,False,0.0,1494770992924839943,0.0,886539120436277253,1511483234948943872,0.0,1.0,0.0,  _fletcher Adding to my list!!,Mention,Female,False
+130,Positive,0.55,False,0.75,257492276,0.91,886539120436277253,1511418482340114438,0.0,0.596,0.404,. I rushed home to see you today on  — You were amazing — sending you love and all my admiration ❤️,Mention,Female,False
+131,Positive,0.5488095238095237,False,0.5785714285714286,634577215,0.8874,886539120436277253,1511338554252742659,0.0,0.728,0.272,Writers- looking for a book that will change your life?  you were so right!! Thanks for putting this in my hands. And thank you _fletcher for writing the magnificent Wonderworks! https://t.co/1jZeFnrTql,Mention,Female,False
+132,Neutral,0.0,False,0.0,2850324351,0.0,886539120436277253,1510771217829138434,0.0,1.0,0.0,"https://t.co/A3NVowMZdf
+Check out my interview on the ""Anansi Reads"" podcast!! 🥰🥰🥰
+           ",Mention,Female,False
+133,Neutral,0.0,False,0.0,833073133,0.7424,886539120436277253,1510222368819617800,0.0,0.443,0.557,  _coas  Congratulations! Well deserved.,Mention,Female,False
+134,Neutral,0.0,False,0.0,234079494,0.5994,886539120436277253,1509660038348124161,0.0,0.506,0.494,  _coas  Congratulations 🎉,Mention,Female,False
+135,Neutral,0.0,False,0.0,731652416,0.6981,886539120436277253,1509510410579456006,0.0,0.456,0.544,  _coas  Congratulations!!! 💕,Mention,Female,False
+136,Neutral,0.0,False,0.0,28472888,0.0,886539120436277253,1509509738337296394,0.0,1.0,0.0,  _coas  👏🏻👏🏻👏🏻,Mention,Female,False
+137,Positive,0.78125,False,0.9,113968251,0.8349,886539120436277253,1509480803776049155,0.0,0.604,0.396,"  _coas  This is fantastic!! Congrats to you fellow Drexel alum! 
+💙💛",Mention,Female,False
+138,Neutral,0.0,False,0.0,498450799,0.636,886539120436277253,1509386483186249729,0.0,0.544,0.456,  _coas  Congratulations Jeannine!,Mention,Female,False
+139,Positive,1.0,False,1.0,383894294,0.7213,886539120436277253,1509375674716413957,0.0,0.761,0.239,  _coas  I’m so happy you are getting the recognition you and your store DESERVE!,Mention,Female,False
+140,Positive,0.7604166666666666,False,0.65,16085102,0.9588,886539120436277253,1509372047574683648,0.0,0.437,0.563,  _coas  Congratulations!  This is extraordinary news!  You continue to amaze and inspire me!  Best wishes! https://t.co/PcNrOzadpD,Mention,Female,False
+141,Positive,1.0,True,0.9,1221601977802657792,-0.7418,886539120436277253,1509338944017735680,0.37,0.63,0.0,  _coas  That’s incredible Jeannine!! You’ll kill it,Mention,Female,False
+142,Neutral,0.0,False,0.0,971902312544440321,0.636,886539120436277253,1509326953844781061,0.0,0.488,0.512,  _coas  Congratulations!,Mention,Female,False
+143,Neutral,0.0,False,0.0,883760732935946241,0.0,886539120436277253,1509324652103053315,0.0,1.0,0.0,  _coas  Yessssss sis!!! https://t.co/HJCcHC67hX,Mention,Female,False
+144,Neutral,0.0,False,0.0,239854721,0.6688,886539120436277253,1509313764381929479,0.0,0.471,0.529,  _coas  Congratulations!!,Mention,Female,False
+145,Neutral,0.0,False,0.0,1290416327904169990,0.0,886539120436277253,1509311523847614465,0.0,1.0,0.0,  _coas  Congratulations!🎉👩🏾‍🎓,Mention,Female,False
+146,Neutral,0.0,False,0.0,226593770,0.0,886539120436277253,1509310160455573516,0.0,1.0,0.0, L.O.V.E.,Mention,Female,False
+147,Negative,-0.0660714285714285,True,0.55,226593770,-0.5848,886539120436277253,1509307043148189699,0.275,0.725,0.0, OUR one to one…but fuck it “pure” works too! ✊🏽,Mention,Female,False
+148,Positive,0.0714285714285714,True,0.5,226593770,-0.5574,886539120436277253,1509306826902306829,0.126,0.874,0.0, aye yo…when we get to have pure one to one heart to heart…I’ll tell u how much i can relate to that shit rite dere ☝🏽 U ROCK.,Mention,Female,False
+149,Positive,1.0,False,0.75,634577215,0.8977,886539120436277253,1509304278887899144,0.0,0.636,0.364,One of the great honors and joys of my life has been to teach and learn from !    https://t.co/3Xh2ve0jEL,Mention,Female,False
+150,Positive,0.390625,False,0.3,1478318700,0.8003,886539120436277253,1509304024855629825,0.0,0.527,0.473,  _coas  Congratulations and very well deserved!!! ❤️,Mention,Female,False
+151,Positive,0.7116666666666667,False,0.7644444444444445,634577215,0.9601,886539120436277253,1509303906395955203,0.0,0.651,0.349,"  _coas  I sure can believe it! You were meant to fly. Lucky us at  that you perched with us for a spell. Now, dear Jeannine, we will all watch with awe, praise and joy as you spread your magnificent wings.",Mention,Female,False
+152,Neutral,0.0,False,0.0,1478318700,0.0,886539120436277253,1509303853975543810,0.0,1.0,0.0,  _coas  💪🏿🙌🏿💐💫💐👑,Mention,Female,False
+153,Neutral,0.0,False,0.0,16677605,0.0,886539120436277253,1509297992859328515,0.0,1.0,0.0,  _coas  Wooooooo hoooooooo!!!!!,Mention,Female,False
+154,Positive,0.9,False,0.9,226593770,0.4404,886539120436277253,1509296223915843590,0.0,0.707,0.293,  _coas  truly incredible Sistar 🌟🖤🌟,Mention,Female,False
+155,Neutral,0.0,False,0.0,756663835226963969,0.636,886539120436277253,1509295914292293642,0.0,0.544,0.456,  _coas  Congratulations Jeannine!,Mention,Female,False
+156,Positive,0.5000000000000001,False,0.9,56924240,0.3802,886539120436277253,1509294810804465689,0.0,0.698,0.302,  _coas  That’s huge!  Congratulations🎊🎉👑,Mention,Female,False
+157,Neutral,0.0,False,0.0,394702479,0.636,886539120436277253,1509294802000654343,0.0,0.488,0.512,  _coas  Congratulations!,Mention,Female,False
+158,Neutral,0.0,False,0.0,710538103790956545,0.0,886539120436277253,1509294429282226187,0.0,1.0,0.0,  _coas  Look at you! 🎉,Mention,Female,False
+159,Neutral,0.0,False,0.0,50017992,0.0,886539120436277253,1509294124503117834,0.0,1.0,0.0,  _coas  👏👏👏,Mention,Female,False
+160,Positive,0.5,False,0.6,11260392,0.7125,886539120436277253,1509293967409623046,0.0,0.503,0.497,  _coas  I LOVE THIS.,Mention,Female,False
+161,Neutral,0.0,False,0.0,50017992,0.0,886539120436277253,1509197171828080641,0.0,1.0,0.0,  and i'm wearing it rn! https://t.co/KaM2RuGmwM,Mention,Female,False
+162,Positive,0.4,False,0.7,776081886477164545,0.5106,886539120436277253,1507441839892271124,0.0,0.858,0.142,Kudos to     and  for casting light on publishing and the opportunities/ limits of the MFA model,Mention,Female,False
+163,Neutral,0.0,False,0.0,1080327379707297792,0.3818,886539120436277253,1507326652510003206,0.052,0.852,0.096,"In response to the BlackLivesMatter protests and 
+ publishingpaidme,   Merry Sun  and  will discuss the steps they’ve taken to rebuild an inclusive writing industry, today, 9:00 am. 
+
+https://t.co/WbaSXrWl1d. 
+AWP22 F117",Mention,Female,False
+164,Positive,0.4166666666666667,False,0.9666666666666668,755477602501025792,-0.555,886539120436277253,1506906800603504646,0.16,0.728,0.112,"Kudos to !  What he said was not only fiercely but elegantly correct, it was from the heart &amp; he meant every word. Master class in spontaneous oratory!  Apologies to KetanjiBrownJackson for the disrespect &amp; hypocrisy of GOP fools.     https://t.co/CJjTwHcyuh",Mention,Female,False
+165,Positive,0.9,False,0.8500000000000001,16085102,0.893,886539120436277253,1506450093913817093,0.0,0.549,0.451, You are welcome.  Loved the photo of you on the horse delivering books!  Take care!,Mention,Female,False
+166,Positive,0.4895833333333333,False,0.7333333333333333,16085102,0.9785,886539120436277253,1506449122919915527,0.0,0.356,0.644, WOW!  Looks very elegant!  Love your innovative approach to marketing.  You are a gem and such an inspiration.  Best wishes! https://t.co/JOn3O6ZbTV,Mention,Female,False
+167,Positive,0.5,False,1.0,83898981,0.4404,886539120436277253,1505989393697452034,0.0,0.9,0.1,"Mother, mentor and activist Jeannine Cook [] Creative Writing MFA student, speaks with  about her efforts to build community through bookshops. Humanities manifest activate https://t.co/lahWjBTCiF https://t.co/4jHV6eigOZ",Mention,Female,False
+168,Positive,0.0533333333333333,True,0.3633333333333333,1636252530,0.7263,886539120436277253,1505932871013392391,0.0,0.862,0.138,"Join us for the virtual panel Black Women's and LGBTQ+ Literary Cultures in Philly @ AWP2022! As writers, teachers + organizers we reflect on Philadelphia's rich Black feminist + queer literary life.
+f.  
+  + me
+Sat March 26 1:45 - 3:00 https://t.co/0eVr3qPJgo",Mention,Female,False
+169,Neutral,0.0,False,0.0,1454709985355591685,0.0,886539120436277253,1505408106494246912,0.0,1.0,0.0,   🤎,Mention,Female,False
+170,Positive,0.15,False,0.3166666666666666,3020150038,-0.5106,886539120436277253,1504835059781623812,0.155,0.845,0.0,Local bookshop owner  joins our lineup of badass local women telling you about equally badass Philly women from history. First up: famously witty poet and critic Marianne Moore. womenshistorymonth https://t.co/9vrdGFqese https://t.co/jfyPZBciz2,Mention,Female,False
+171,Positive,0.5,False,0.5,14344084,0.9246,886539120436277253,1504807084143128579,0.0,0.676,0.324,"  is an educator and founder of , which celebrates women authors, artists, and activists. In honor of women's history month, we are sharing women who inspire us. Learn more: https://t.co/yBybrnyOMG 📚 https://t.co/MdDcN83UBE",Mention,Female,False
+172,Neutral,0.0,False,0.0,2850324351,0.7556,886539120436277253,1503838487275098116,0.0,0.755,0.245,"https://t.co/xNojHO3Kbr
+Fyi!!  Mark ur calendars!!!  If u have an FB profile, please join the event!!
+SecondChancePoints 
+NewBookRelease 
+         https://t.co/SCkDDLny13",Mention,Female,False
+173,Neutral,0.0,False,0.0,831840926,0.0,886539120436277253,1503757876032114695,0.0,1.0,0.0,  ,Mention,Female,False
+174,Positive,0.125,False,0.5,1500609695131783171,0.6239,886539120436277253,1503050926956949505,0.0,0.887,0.113, Oh wow.  I've got YEARS!  If I knew that earlier I might've hit the snooze button a few more times on the whole MFA thing.  Any word on how to become a chameleon-voiced storytelling genius though?,Mention,Female,False
+175,Neutral,0.0,False,0.0,3316166901,0.0,886539120436277253,1502257442704527369,0.0,1.0,0.0,     We need to make this bipartisan  I’m in the burbs.,Mention,Female,False
+176,Neutral,0.0,False,0.0,3316166901,0.0,886539120436277253,1502087332136202241,0.0,1.0,0.0,"   Will do! It used to be Boyle, but they redrew the lines…",Mention,Female,False
+177,Positive,0.65,False,0.625,3316166901,0.6893,886539120436277253,1502075348007145479,0.0,0.735,0.265,Heard  talking about you on ! You’re up to more great things ,Mention,Female,False
+178,Positive,0.2,False,0.2,3020150038,0.4404,886539120436277253,1501304569715904514,0.0,0.909,0.091,"Thanks to  and  owner ,  anchor ,   ED , Nicole Marquis of ,  COO  and restaurateur and environmentalist  for contributing to this project. 🙏",Mention,Female,False
+179,Positive,0.0666666666666666,False,0.2541666666666666,1211398895718191104,0.0,886539120436277253,1500947175047630848,0.0,1.0,0.0,WARNING⚠️This is NOT a traditional book talk. On the next episode of UnderlyingIssues sisters  &amp;  take a deeper dive w/  &amp;  to discuss contemporary topics from a literary perspective: https://t.co/f03UDzPd9t https://t.co/UIxuKurEhl,Mention,Female,False
+180,Positive,0.3925,False,0.77,1018525068937302017,0.7177,886539120436277253,1500507076648390659,0.0,0.667,0.333,    I’m hoping my high school creative writing students sign up!,Mention,Female,False
+181,Neutral,0.0,False,0.0,8086472,0.0,886539120436277253,1500499048725426176,0.0,1.0,0.0,    OH YOU! &lt;3,Mention,Female,False
+182,Neutral,0.0,False,0.1,1018525068937302017,0.6841,886539120436277253,1500494686410137601,0.0,0.891,0.109,"As an  alumni &amp; BFF with the immaculate, , I am recommending this virtual panel to my students &amp; writer-friends &amp; everyone else I see and talk to. Big shout-out to  &amp; its proprietor, . 
+
+Register here: https://t.co/XpcHd1LOIi https://t.co/pZBcMkKbwe",Mention,Female,False
+183,Negative,-0.0458333333333333,False,0.3708333333333333,392737702,0.3182,886539120436277253,1499193963290546182,0.077,0.773,0.149,  Yes. You work too hard and do too much for anyone to think otherwise.,Mention,Female,False
+184,Neutral,0.0,False,0.0,7940892,0.3612,886539120436277253,1499176480886173698,0.0,0.898,0.102,"“a bookshop meets an art gallery meets a monument.” 
+
+ talks to  about  and the importance of connecting with your community. 
+
+https://t.co/jCxH85yPFL",Mention,Female,False
+185,Positive,0.5,False,0.7125,1427373096382631939,0.6369,886539120436277253,1499082691085537283,0.0,0.9,0.1,"“At the root of everything, for me, is connection—real, genuine, authentic connection. I have found that in books. I have found that in stories.""
+
+We love what  says about stories &amp; community in this profile by P&amp;T's own  
+
+https://t.co/KGLiYyEuZP",Mention,Female,False
+186,Neutral,0.0,False,0.0,392737702,0.0,886539120436277253,1499067918746804224,0.0,1.0,0.0," and
+  making waves
+https://t.co/EQdIYleiIs",Mention,Female,False
+187,Neutral,0.0,False,0.125,16652383,0.3612,886539120436277253,1499051850024292355,0.0,0.925,0.075,"Jeannine Cook—  student and owner of  in Philadelphia—was recently featured on Oprah Daily, discussing the future of the bookstore and the importance of connecting individuals within a community.      https://t.co/6kLx68mqia",Mention,Female,False
+188,Positive,1.0,False,0.6,634577215,0.0,886539120436277253,1499024336778412038,0.0,1.0,0.0, Love!!!!!!,Mention,Female,False
+189,Neutral,0.0,False,0.0,634577215,0.0,886539120436277253,1499020617332449285,0.0,1.0,0.0," continues to shine, soar and make a difference in this world!      https://t.co/zTkOZKy58V",Mention,Female,False
+190,Positive,0.2,False,0.6,2280417430,0.0,886539120436277253,1498759994765889541,0.0,1.0,0.0,"Coming up fast on 3/9: our annual Publishers Panel, featuring   and  talking about how a book journeys from sub to shelf. https://t.co/yKwUh361iy https://t.co/PH1XM3iJXg",Mention,Female,False
+191,Positive,0.25,False,0.3125,416937657,0.7845,886539120436277253,1498378723032244229,0.0,0.841,0.159,"  Her belief in a better future is unshakeable &amp; that hope is infectious.
+
+“There are people who have already laid the foundation for what we seek to do with our society, but if we’re not connecting the dots through stories, we’ll keep feeling like we have to start from scratch.”",Mention,Female,False
+192,Positive,0.0416666666666666,False,0.3666666666666667,416937657,0.7191,886539120436277253,1498377202919948303,0.0,0.838,0.162,"I've been admiring 's work for the past two years &amp; was so excited to chat with her about all of it for . If you aren't already following her — fix that!
+
+https://t.co/XVZnWs3jgF",Mention,Female,False
+193,Positive,0.7,False,0.6000000000000001,257492276,0.7845,886539120436277253,1497885042483384320,0.0,0.465,0.535,". Sending good vibes and xoxo ♥️✌🏼
+
+WomenSupportingWomen",Mention,Female,False
+194,Negative,-0.1555555555555555,False,0.2888888888888889,1162088826157830146,0.6124,886539120436277253,1497212691919867910,0.0,0.5,0.5,"If I could help  expand, I'm down.",Mention,Female,False
+195,Negative,-0.2083333333333333,False,0.4333333333333333,1121117757339099136,-0.2924,886539120436277253,1495790682077900800,0.075,0.925,0.0,"Attention, Philadelphians!  founder  will host Sisterhood Sit-ins: Trolley Tour with stops to Black women-owned businesses every Saturday until March 26. Registration in the link below!    
+
+https://t.co/zehVmbIG0H",Mention,Female,False
+196,Positive,1.0,False,0.9,2850324351,0.0,886539120436277253,1495176283428253704,0.0,1.0,0.0,"https://t.co/vfTNJvjla0
+Check out the latest episode of TheRoughDraft!! Episode 44!!!
+     _Villar       ",Mention,Female,False
+197,Negative,-0.1666666666666666,False,0.4333333333333333,7940892,0.3595,886539120436277253,1494342144261124096,0.0,0.921,0.079,"we told you we'd premiere with an all star cast! 
+
+,  and  join the lovegritphilly season 3 launch. they are indeed making dope Black history today. bhm 
+
+ 🎧 https://t.co/vvnSku00tm ❤️",Mention,Female,False
+198,Positive,0.5,False,0.6,226593770,0.7125,886539120436277253,1493698668532273159,0.0,0.549,0.451,  WE LOVE U/Y’ALL/HER/WE/US 🖤❤️‍🔥🖤 https://t.co/b7s2vpZJzb,Mention,Female,False
+199,Negative,-0.1666666666666666,False,0.4333333333333333,63731418,0.91,886539120436277253,1493631633500647425,0.0,0.713,0.287,"For BHM - We would like to spotlight , owner of . This bookshop stores, sells, and celebrates books focused on Black writers. It also celebrates women authors, women artists, and women activists. 
+
+blackhistorymonth2022 blackphillybusiness https://t.co/p0ZlZ6d8XB",Mention,Female,False
+200,Neutral,0.0,False,0.0,806178979094921216,0.0,482338695,1518349068422070275,0.0,1.0,0.0,_312     https://t.co/WrX1YpWK6R,Mention,Female,False
+201,Neutral,0.0,False,0.0,43413232,0.0,482338695,1517594402343964672,0.0,1.0,0.0,"🎨 SupportLivingArtist • Illustrators
+  https://t.co/gFb2NeD2MF",Mention,Female,False
+202,Negative,-0.0052083333333333,False,0.5083333333333333,3019219455,0.6369,482338695,1517235236857434113,0.0,0.839,0.161,"Inspired by the book ""Dream Big, Little One"" by , grade 4s worked in groups to research and write biographies on these 8 extraordinary black women. literacy teamwork _NMPPS https://t.co/laH8phE8x0",Mention,Female,False
+203,Positive,0.1363636363636363,False,0.4545454545454545,416474285,0.4389,482338695,1517152511156580353,0.09,0.712,0.198,"Ha! Co-Star must have saw my tweet yesterday avoiding writing with my shiny new idea 😬🙃😭😂
+
+Oops…
+
+Wallpaper art credit:  https://t.co/7L1a9N3IJD",Mention,Female,False
+204,Neutral,0.0,False,0.0,1349267316,0.0,482338695,1517130775921057792,0.0,1.0,0.0,  They GROOVING https://t.co/W6wY4pzt71,Mention,Female,False
+205,Neutral,0.0,False,0.0,131209688,0.5267,482338695,1517101936004186113,0.0,0.702,0.298,  _Nyongo    Yay 😁💪🏿💪🏿💪🏿 https://t.co/bvIpLhU5VZ,Mention,Female,False
+206,Positive,0.25,False,0.2,4352612794,0.4926,482338695,1516926846608289792,0.0,0.862,0.138,"        Thanks  !
+I’ll add a couple of kidlit illustrators, too:
+DDB 
+ 
+ 
+",Mention,Female,False
+207,Neutral,0.0,False,0.0,4352612794,0.0,482338695,1516795624376647688,0.0,1.0,0.0,_DDB  VanessaBrantleyNewton,Mention,Female,False
+208,Positive,0.25,False,0.8,735865352,0.6369,482338695,1516534998916112387,0.0,0.833,0.167,"We love La Princesa and the Pea in the  library, especially w a craft using business envelopes (a la ).   https://t.co/XK9KLVD08S",Mention,Female,False
+209,Positive,0.3125,False,0.2,15678388,0.7256,482338695,1516284795164119043,0.0,0.644,0.356,      Oh my goodness thank you so much!!,Mention,Female,False
+210,Neutral,0.0,False,0.0,1403248196,0.0,482338695,1516269475464503297,0.0,1.0,0.0,      Already did it!,Mention,Female,False
+211,Neutral,0.0,False,0.0,1069015890,0.8807,482338695,1516266436229967875,0.0,0.395,0.605,      YAY!!! Congratulations!!! 🌟,Mention,Female,False
+212,Neutral,0.0,False,0.0,15678388,0.0,482338695,1516245376558268418,0.0,1.0,0.0,      🧡🧡🧡🧡,Mention,Female,False
+213,Neutral,0.0,False,0.125,138509723,0.5411,482338695,1516244747488149506,0.0,0.72,0.28,      Awwww. Same here friend! 💛,Mention,Female,False
+214,Neutral,0.0,False,0.0,15678388,0.5574,482338695,1516240454873858049,0.0,0.66,0.34,      I adore you.,Mention,Female,False
+215,Neutral,0.0,False,0.0,138509723,0.0,482338695,1516240276158750721,0.0,1.0,0.0,      Pssst. I already did. 💛💛,Mention,Female,False
+216,Positive,0.2749999999999999,False,0.3666666666666667,3291955530,0.5399,482338695,1516222339150749698,0.0,0.801,0.199,The latest The These Are Called Books! Daily! https://t.co/hfUFzTywaX Thanks to   readyourworld kidlit,Mention,Female,False
+217,Positive,0.1704545454545454,True,0.5,15678388,0.75,482338695,1516217102163607554,0.0,0.865,0.135,"OMG darling agentmate  told me that HELLO, STAR by me and  is a SCBWI Crystal Kite finalist in the CA/Hawaii division so if you live there and are an SCBWI member and *like* the book, please vote for it!    ",Mention,Female,False
+218,Positive,0.15625,False,1.0,27756368,0.658,482338695,1516181910455832577,0.0,0.578,0.422,_eady      Wow!!,Mention,Female,False
+219,Neutral,0.0,False,0.0,1548740268,0.0,482338695,1516147006405754892,0.0,1.0,0.0,_eady       🥳,Mention,Female,False
+220,Positive,0.375,False,0.8,1112183235226812416,0.891,482338695,1516145753135144965,0.0,0.714,0.286,"Honored. 🙏🏽 nigelandthemoon
+
+Thank you,  &amp; .
+
+•All Because You Matter ( &amp; Bryan Collier)
+•Hair Love ( &amp; )
+•The Day You Begin ( and Rafael Lopez)
+•Wutaryoo (Nilah Magruder)
+https://t.co/DYOzSrlFVT",Mention,Female,False
+221,Neutral,0.0,False,0.0,1509815221497610245,0.0,482338695,1515761344091410439,0.0,1.0,0.0,  Jax2 L4,Mention,Female,False
+222,Positive,0.85,False,1.0,1323840524009283585,0.5994,482338695,1515694424679931906,0.0,0.339,0.661, Beautiful art,Mention,Female,False
+223,Neutral,0.0,False,0.0,953595966,0.0,482338695,1515565296739835904,0.0,1.0,0.0,   X2,Mention,Female,False
+224,Neutral,0.0,False,0.0,1480292839171010563,0.0,482338695,1515501360124506117,0.0,1.0,0.0, _bclub  ,Mention,Female,False
+225,Positive,0.0083333333333333,False,0.85,29546899,0.4753,482338695,1514985275558178816,0.0,0.795,0.205,Sharing a peek behind the curtain at 's artistic process for WorldArtDay! ILoveYouLikeYellow https://t.co/QY7Rvkfyjj,Mention,Female,False
+226,Positive,1.0,False,0.6,258055650,0.7482,482338695,1514603061045444632,0.0,0.427,0.573,   I love it!!!! 😍,Mention,Female,False
+227,Positive,0.5,False,1.0,360301039,0.4588,482338695,1514602673449754640,0.0,0.842,0.158,   It’s their favorite book. Ev read it to Oscar 7x in a row this morning 😂,Mention,Female,False
+228,Neutral,0.0,False,0.0,258055650,0.0,482338695,1514602409439363087,0.0,1.0,0.0,   https://t.co/i82Q4cA584,Mention,Female,False
+229,Neutral,0.0,False,0.0,360301039,0.0,482338695,1514591479200722954,0.0,1.0,0.0,HairLove SiblingLove ❤️   https://t.co/gdwrwN5LLQ,Mention,Female,False
+230,Positive,0.2375,False,0.5,33603701,0.6369,482338695,1514469505426202628,0.0,0.84,0.16," Hello  are these, or will these be available on your society6? I would love to purchase these images for my little girl",Mention,Female,False
+231,Neutral,0.0,False,0.0,29546899,0.0,482338695,1514234810268532738,0.0,1.0,0.0,    💛💛💛,Mention,Female,False
+232,Positive,0.5,False,0.75,2608008738,0.5859,482338695,1514182216863354880,0.0,0.612,0.388, The collage concept looks lovely ❤️,Mention,Female,False
+233,Positive,0.5,False,0.6,1146352770233991169,0.6369,482338695,1514073508468621312,0.0,0.898,0.102,"हेयर लव / Hair Love
+By:    मैथ्यू चेरी   / वाष्टि  हैरिसन  
+प्रकाशन: पफ्फीन  बुक्स  
+
+यह कहानी एक लड़की - जूरी &amp; उसके पिता की है। आईये, सुनते हैं इस किताब में क्या ख़ास है
+https://t.co/5XGpPWBi9j
+
+childrenbooks diversity gender",Mention,Female,False
+234,Neutral,0.0,False,0.0,66965904,0.0,482338695,1514055884527308811,0.0,1.0,0.0,   _DDB       _Nyongo        ,Mention,Female,False
+235,Neutral,0.0,False,0.0,221794396,0.4199,482338695,1514022987481157641,0.0,0.642,0.358,    Thank you!,Mention,Female,False
+236,Positive,0.3140909090909091,False,0.610909090909091,1059323474,0.8977,482338695,1513986565588107267,0.0,0.763,0.237,"My favorite is color yellow, so I had to have  &amp; 's new book! 📚 💛 Pair it with I Love You the Purplest, both fabulous mentor texts for when having kids write cards or poems for caregivers.   https://t.co/MGBfEZCPPD",Mention,Female,False
+237,Positive,0.25,False,0.2,301685992,0.4926,482338695,1513951623315267589,0.0,0.653,0.347,"   _Nyongo  Thanks, Jonathan!",Mention,Female,False
+238,Positive,0.5625,False,0.675,401485055,0.939,482338695,1513948584122757123,0.0,0.723,0.277,"Congrats to FIND FERGUS and ! 
+
+Thanks to  for including  and my book DON'T FEED THE COOS! alongside Fergus and _Nyongo and 's SULWE, such wonderful company to be included with.
+
+Happy reading to all the kids in Kentucky! https://t.co/iazEbZHadP",Mention,Female,False
+239,Neutral,0.0,False,0.0,401485055,0.6103,482338695,1513947653335359491,0.0,0.601,0.399, _Librarians  _Nyongo  Congrats Mike!!,Mention,Female,False
+240,Positive,0.5625,False,0.8,36191913,0.8491,482338695,1513923472149331969,0.0,0.422,0.578,   We LOVE this book! :),Mention,Female,False
+241,Neutral,0.0,False,0.0,4352612794,0.0,482338695,1513874155283832845,0.0,1.0,0.0," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+BryanCollier
+kidlit
+PictureBooks",Mention,Female,False
+242,Positive,0.5375,False,0.6625,19586325,0.9412,482338695,1513758825458933761,0.0,0.639,0.361,"Our BookOfTheDay is a truly lovely and surprisingly moving story about a young girl who follows her dreams to become an astronaut.
+
+HelloStar by Stephanie V W Lucianovic () and  is utterly beautiful: https://t.co/uYrL9RF6Z4  https://t.co/9izJMzL2sH",Mention,Female,False
+243,Negative,-0.5,False,0.9,23816408,-0.4767,482338695,1513565432111931402,0.205,0.795,0.0,    _Nyongo  _Librarians Are these the wrong images posted?,Mention,Female,False
+244,Positive,0.25,False,0.2,301685992,0.4926,482338695,1513535076293783556,0.0,0.687,0.313," _Librarians   _Nyongo  Thanks, Matt!",Mention,Female,False
+245,Neutral,0.0,False,0.0,111075647,0.5707,482338695,1513532123432591367,0.0,0.655,0.345," _Librarians   _Nyongo  Congrats, Mike! 🙌",Mention,Female,False
+246,Positive,0.5625,False,0.55,1962834103,0.8122,482338695,1513522349127127040,0.0,0.619,0.381,What could be better than a Hair Love celebration?!   kingsley58 dg58pride dg58libraries https://t.co/n7UztlESQo,Mention,Female,False
+247,Positive,0.4,False,0.625,301685992,0.9667,482338695,1513517649451397123,0.0,0.62,0.38,WHAAAAA!!!??? This is AMAZING! _Librarians Thank you so much to everyone involved  AND congratulations to   _Nyongo &amp;  (and everyone elese nominated too!) It's an honor to have been selected alongside such amazing books. https://t.co/HuXrH3WGxi,Mention,Female,False
+248,Neutral,0.0,False,0.0,3224450801,0.807,482338695,1513479474943172615,0.0,0.622,0.378,"Congratulations to our 2022 KBA Preschool winners! 
+
+
+
+Nyongo
+
+Librarians https://t.co/KKjaZvGD7L",Mention,Female,False
+249,Neutral,0.0,False,0.0769230769230769,110819009,0.5719,482338695,1513365363613999111,0.0,0.68,0.32,  Agreed and promote her to regular cast member on Maisel,Mention,Female,False
+250,Neutral,0.0,False,0.0,221794396,0.0,482338695,1513314494818267136,0.0,1.0,0.0,_lover  https://t.co/r3yFGFM8iK,Mention,Female,False
+251,Positive,0.3715909090909091,False,0.5136363636363637,221794396,0.949,482338695,1513314398370160643,0.0,0.521,0.479,"_lover Can I recommend our new book, I LOVE YOU LIKE YELLOW, by me (Andrea Beaty) and . It is so beautiful. https://t.co/qP1pEIENnj",Mention,Female,False
+252,Positive,0.5,False,1.0,3308497546,0.8549,482338695,1513301378961080324,0.0,0.705,0.295, She is so beautiful!  I bet you are the only artist who could draw those eyes with the respect they deserve.😍,Mention,Female,False
+253,Positive,0.375,False,0.4,221794396,0.8799,482338695,1513149633870151685,0.0,0.496,0.504,"   Thank you so much! I hope your students love it, too.",Mention,Female,False
+254,Positive,0.3125,False,0.3333333333333333,921979939347251200,-0.3578,482338695,1513109086304276484,0.066,0.934,0.0,   ❤️ this book! I have the kindle version and got goosebumps and tears the first time I read it. Now I have to buy the copy to hold in my hands and read to my class!,Mention,Female,False
+255,Positive,0.25,False,0.2,221794396,0.4199,482338695,1512978614505070593,0.0,0.642,0.358,  Thank you so much!,Mention,Female,False
+256,Positive,0.3157792207792208,False,0.6740259740259741,1122168016374915073,0.9423,482338695,1512971286363791362,0.037,0.605,0.359,"Currently obsessed with this new gorgeous picture book— I Love You Like Yellow.  once again with her flawless, tight rhymes and  with stunning, soul-soothing visuals. What a magical collab between two phenomenal creatives ✨ https://t.co/FA3zEt81o2",Mention,Female,False
+257,Positive,0.6875,False,0.2,1286459676536606722,0.8439,482338695,1512944241298722819,0.0,0.27,0.73, 🤣 best laugh all day!,Mention,Female,False
+258,Neutral,0.0,False,0.0,721401449482174464,0.2235,482338695,1512914743362826240,0.0,0.761,0.239," I got nothing. No, for real… I have 😶",Mention,Female,False
+259,Positive,0.1363636363636363,False,0.4545454545454545,15521774,0.0,482338695,1512905585208963074,0.0,1.0,0.0, Your mom’s new doctor is a creep,Mention,Female,False
+260,Negative,-0.78125,True,1.0,3687922037,-0.7284,482338695,1512905233688666129,0.837,0.163,0.0, WTF!?!,Mention,Female,False
+261,Neutral,0.0,False,0.0,221794396,0.0,482338695,1512904088010297345,0.0,1.0,0.0, Wha? https://t.co/w4MNJd4rMw,Mention,Female,False
+262,Neutral,0.0,False,0.0,275814987,0.0,482338695,1512902753110183944,0.0,1.0,0.0, https://t.co/VoWSvYOCKF,Mention,Female,False
+263,Neutral,0.0,False,0.0,1369072786837278725,0.0,482338695,1512785718355103750,0.0,1.0,0.0, 👀🥰🥰,Mention,Female,False
+264,Positive,0.5,False,1.0,880135313632485376,0.5574,482338695,1512728543406534660,0.0,0.69,0.31," Eeee Ben Wyatt 
+(&amp; your sophisticated art) ❤️",Mention,Female,False
+265,Neutral,0.0,False,0.0,50735512,0.7579,482338695,1512550666887172103,0.0,0.4,0.6," Thank you, Vashti. I hope you're doing well.",Mention,Female,False
+266,Neutral,0.0,False,0.0,600656091,0.0,482338695,1512538065880985608,0.0,1.0,0.0,"And check out these voices our athletes chose to feature in our bookshop!
+
+        
+
+
+If you can’t make it out you can find these here! https://t.co/5oL4o7NfrN https://t.co/eTgIVoknfI",Mention,Female,False
+267,Positive,0.640625,False,0.8,15678388,0.8597,482338695,1512482819171258368,0.0,0.622,0.378,Kaep shouts out  and 's HAIR LOVE as one of his favorite children's books!! https://t.co/2LTFtQCrwO,Mention,Female,False
+268,Positive,0.375,False,0.4,221794396,0.6696,482338695,1512427405591420935,0.0,0.64,0.36,     I love this so much!,Mention,Female,False
+269,Positive,0.625,False,0.6,1363311066285887489,0.8412,482338695,1512250967332376608,0.0,0.549,0.451," I LOVE it and don’t see any flaws! Also, I think I want a jacket like that.😂😂😂",Mention,Female,False
+270,Negative,-0.09375,False,0.25,964639251785797632,0.4939,482338695,1512235217888718874,0.0,0.792,0.208,I hope the next version features Judge Jackson . I want to read that story to my little girl. https://t.co/x3k9w5pHD9,Mention,Female,False
+271,Positive,0.2455357142857142,False,0.3833333333333333,1071361699,0.8171,482338695,1512155030165471234,0.082,0.714,0.204,What to do when your first idea doesn't work?  shared w/  1st &amp; 2nd graders how she switched illustration techniques for I LOVE YOU LIKE YELLOW when she wasn't satisfied w/ the initial result. Excited for in-person visits again!   https://t.co/xyRDslcnA9,Mention,Female,False
+272,Neutral,0.0,False,0.0,162817370,0.0,482338695,1512147333697449994,0.0,1.0,0.0,Can’t wait for  to illustrate her https://t.co/9yLCWs5WMH,Mention,Female,False
+273,Positive,1.0,False,1.0,824157355294294018,0.6573,482338695,1512141402775310347,0.0,0.407,0.593, So F'n awesome.,Mention,Female,False
+274,Positive,0.5,False,1.0,1158018033790672896,0.5093,482338695,1512049738656493572,0.0,0.549,0.451,  Vielen Dank! :),Mention,Female,False
+275,Neutral,0.0,False,0.0,14784757,0.0,482338695,1512049434984599553,0.0,1.0,0.0,  Das ist ja schööööööööööön! 😍 Glückwunsch!,Mention,Female,False
+276,Neutral,0.0,False,0.0,2549556272,0.0,482338695,1512048924894322690,0.0,1.0,0.0,"  Wie schön, ihr habt für Zuckersüß übersetzt. 🥰 Für welche Altersgruppe ist das? Beziehungsweise in welche Schulbibliotheken gehört das?",Mention,Female,False
+277,Neutral,0.0,False,0.625,1392139162170580998,0.8126,482338695,1512031268933980165,0.0,0.607,0.393," As a collage artist myself, I admire your bravery to create a book entirely on paper collage ✂️💕",Mention,Female,False
+278,Neutral,0.0,False,0.0,3385821417,-0.855,482338695,1511978921021128708,0.344,0.656,0.0,"  Oh, herzlichen Glückwunsch! Das Buch kommt direkt auf die Merkliste für die Nichte meiner Partnerin! ❤️",Mention,Female,False
+279,Negative,-0.1875,True,0.5,1158018033790672896,-0.636,482338695,1511977839825981442,0.126,0.874,0.0,"Buchbaby Nummer 4 ist draußen in der weiten Welt! 😍 ""Little Dreamers"" von , wieder übersetzt mit Isabelle Brandstetter. Die Illustrationen sind so wunderschön, ich blättere selber dauernd drin rum 🥲 translation https://t.co/pu5ZsjhHys",Mention,Female,False
+280,Positive,0.85,False,1.0,136219736,0.7177,482338695,1511974163577249792,0.0,0.375,0.625, 🥰 it's so beautiful 🥰,Mention,Female,False
+281,Positive,0.56875,False,0.8450000000000001,221794396,0.4376,482338695,1511908704790188032,0.0,0.409,0.591, Very cool!,Mention,Female,False
+282,Positive,0.1400528647682883,False,0.3590909090909091,221794396,0.8531,482338695,1511887167647322117,0.0,0.757,0.243,  Ha!!!! It’s  an I Spy scenario!  What I spy is so many big smiles!  It is such a joy seeing your new book out in the wide world! Congratulations!!!!!!!,Mention,Female,False
+283,Positive,0.125,False,0.575,8824552,0.8748,482338695,1511881883352719365,0.0,0.445,0.555,  I see I Love You Like Yellow behind them! :) https://t.co/MftEpWM6yv,Mention,Female,False
+284,Positive,0.85,False,1.0,1323840524009283585,0.5994,482338695,1511876399572914192,0.0,0.435,0.565, This is beautiful,Mention,Female,False
+285,Neutral,0.0,False,0.0,1886727860,0.0,482338695,1511826571665027075,0.0,1.0,0.0, Awwww😍😍😍,Mention,Female,False
+286,Positive,0.85,False,1.0,1073065261484335104,0.5994,482338695,1511824528803975169,0.0,0.339,0.661, It’s beautiful 😍,Mention,Female,False
+287,Positive,0.5083333333333334,False,0.5666666666666668,18937660,0.9493,482338695,1511821918231531522,0.0,0.534,0.466," I love this! I hope you get it one day because it would be a fun extension activity for the book, which is AMAZING.",Mention,Female,False
+288,Positive,0.9765625,False,1.0,600839607,0.6949,482338695,1511821472947392514,0.0,0.387,0.613, It’s so cute!!!,Mention,Female,False
+289,Positive,0.5916666666666667,False,0.7666666666666666,221794396,0.8553,482338695,1511820393639784452,0.0,0.733,0.267, I love it!  Collage is mesmerizing and beautiful. I meant to ask you about it during our presentations. Is it a lot slower than drawing for you?,Mention,Female,False
+290,Positive,0.5625,False,0.8,290838893,0.6696,482338695,1511813473465864193,0.0,0.471,0.529, I love this! So stylish.,Mention,Female,False
+291,Positive,0.328125,False,0.7125,2336141017,0.8693,482338695,1511812350277529601,0.0,0.577,0.423," Mom and kid are SO cute (and stylish, per usual! Love her coat)! 😍",Mention,Female,False
+292,Positive,0.5750000000000001,False,0.8333333333333334,1314029060683526145,0.9179,482338695,1511809022709489664,0.0,0.401,0.599," You are so amazing, this is stunning! Love your art.",Mention,Female,False
+293,Neutral,0.0,False,0.0,1164919872968646656,0.4215,482338695,1511800260934475781,0.0,0.417,0.583, Your talent 😍,Mention,Female,False
+294,Positive,0.3,False,0.40625,833483527073255424,0.854,482338695,1511800239098941458,0.0,0.749,0.251," So many beautiful textures: the shiny yellow raincoat, the soft blue denim of the adult's jeans and the starbursts of yellow in that beautiful kimono. 🙌🏾",Mention,Female,False
+295,Positive,0.8125,False,0.8,3692096903,0.9017,482338695,1511799453728088071,0.0,0.351,0.649, Beautiful!! I’d love to watch you create this!,Mention,Female,False
+296,Positive,0.0681818181818181,False,0.5272727272727272,32259267,0.0,482338695,1511779919377977346,0.0,1.0,0.0,"Washington Post Q&amp;A with Colin Kaepernick () on his new children's book, I Color Myself Different. With shout-outs to     NilahMagruder   https://t.co/MGUf9JdKQY",Mention,Female,False
+297,Positive,0.25,False,0.5,1195398729299304449,0.7177,482338695,1511746252903436288,0.0,0.769,0.231,More photos from our visit with .  It was such an honor! Thank you again . _ES    ReadingIsForEveryone 📚 https://t.co/hrzxQsmE2g,Mention,Female,False
+298,Positive,0.465,False,0.5533333333333333,259583180,0.9431,482338695,1511714359491366916,0.0,0.696,0.304,"Did you love last night's episode of AbbotElementary? Did you know it was directed by the author of HAIR LOVE, ?! Illustrated by , find out more about this beloved picture book.  https://t.co/kKD732oY0Y https://t.co/B5icnrg3El",Mention,Female,False
+299,Neutral,0.0,False,0.0,221794396,0.4199,482338695,1511490013325926401,0.0,0.642,0.358,   Thank you! https://t.co/epBzquymWq,Mention,Female,False
+300,Positive,0.5,False,0.5,1483586658587054084,0.0,21228708,1518379089828237319,0.0,1.0,0.0,Web3 👨🏾‍💻 meetings with  ⛽️🍃 💨 As featured on        &amp; more Stay Tuned 🚀 NFTs GasHouse 420day Web3 CannabisCommunity PlutoMe cryptocurrency Bitcoin ETH https://t.co/4mrW5bqIJ7,Mention,Female,False
+301,Neutral,0.0,False,0.0,1457068970448621569,-0.5994,21228708,1518375999242526722,0.187,0.813,0.0,"  
+ 
+ 
+ 
+ 
+ 
+America is waiting for your take on THIS senseless death https://t.co/RMapIXlcxL",Mention,Female,False
+302,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1518371218184974337,0.0,1.0,0.0,          🙋🏽‍♀️ _TV       ,Mention,Female,False
+303,Neutral,0.0,False,0.0,1310320371850268672,0.0,21228708,1518363039933902852,0.0,1.0,0.0,"  _Bailey_               Google me, because I’m about to make “Sistory” ✊🏽
+👑❤️‍🔥🎺🆘
+BlackTwitter 
+BlackQueenLit
+vptlecc
+
+https://t.co/wQjVvXCuwc
+
+https://t.co/y9DKoa8Z6p",Mention,Female,False
+304,Positive,0.1583333333333333,True,0.3444444444444444,1310320371850268672,-0.6114,21228708,1518362037050609665,0.181,0.681,0.138,"  _Bailey_               I have been “CALLED” by God to tell my True Story of how my American dream turned Scream, to the impact of Systemic Racism and Bigotry in America. Let me be clear, I have no fear! ✊🏽👑❤️‍🔥🎺
+
+https://t.co/y9DKoa8Z6p
+
+https://t.co/wQjVvXCuwc https://t.co/6zjipqOZ9K",Mention,Female,False
+305,Positive,0.35,False,0.65,1477138965098545154,0.3182,21228708,1518355669304455173,0.0,0.85,0.15, _Buchholz    _Milano      She cool asf,Mention,Female,False
+306,Positive,0.8,False,0.7,1477138965098545154,0.4215,21228708,1518355562882285570,0.0,0.833,0.167, _Buchholz    _Milano      She’s my teacher lol,Mention,Female,False
+307,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1518327403268952065,0.0,1.0,0.0,     _TV             ,Mention,Female,False
+308,Neutral,0.0,False,0.0,1240471171226718211,0.9038,21228708,1518325601790095360,0.0,0.724,0.276,  _Bailey_               Please post your books and tag me in them. So I can promote them on the page. Peace and blessings.,Mention,Female,False
+309,Neutral,0.0,False,0.0,1240471171226718211,0.0,21228708,1518325433887956994,0.0,1.0,0.0,    _Bailey_        It’s a code of identification.,Mention,Female,False
+310,Negative,-0.125,False,0.375,1240471171226718211,0.3612,21228708,1518325392049770496,0.0,0.906,0.094,    _Bailey_        It is a platform we use to tag each other’s. It’s like a community BlackTwitter .,Mention,Female,False
+311,Neutral,0.0,False,0.0,229925698,-0.516,21228708,1518277925304471552,0.233,0.767,0.0,"  EMBARRASSING 
+
+       
+ ",Mention,Female,False
+312,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1518274991325908993,0.0,1.0,0.0,💭smh!         _TV           https://t.co/mjkvg0XHuY,Mention,Female,False
+313,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1518265528435068931,0.0,1.0,0.0,        _TV          ,Mention,Female,False
+314,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1518252083002150912,0.0,1.0,0.0,          _TV         ,Mention,Female,False
+315,Neutral,0.0,False,0.0,1310320371850268672,0.4199,21228708,1518250566346027009,0.0,0.843,0.157,   _Bailey_         Thank you will do!,Mention,Female,False
+316,Neutral,0.0,False,0.0,753433196776128512,0.636,21228708,1518249823140388864,0.0,0.819,0.181,"   _Bailey_         Congratulations on your book! 
+
+Follow the hashtag BlackTwitter",Mention,Female,False
+317,Negative,-0.2083333333333333,True,0.4333333333333333,1310320371850268672,0.6654,21228708,1518247349172289537,0.0,0.821,0.179,"   _Bailey_         Please explain Black Twitter? I’m a Twitter Virgin basically? On here promoting my 1st Book! 🎺
+
+https://t.co/wQjVvXCuwc",Mention,Female,False
+318,Negative,-0.1666666666666666,False,0.4333333333333333,1310320371850268672,0.2905,21228708,1518244585486659585,0.052,0.864,0.083," Hey Tam I am a Chicago native stuck living in Oklahoma with an egregious story to tell! Google me and let’s make history! Please DM me contact info for your show! “Black Women United” 
+
+https://t.co/wQjVvXCuwc
+
+https://t.co/y9DKoa8Z6p",Mention,Female,False
+319,Negative,-0.1666666666666666,False,0.4333333333333333,753433196776128512,0.0,21228708,1518244511389937665,0.0,1.0,0.0,   _Bailey_         For now hit black twitter and that’ll hold you off til…😆,Mention,Female,False
+320,Positive,0.40625,False,0.7333333333333334,1310320371850268672,0.8688,21228708,1518243518841511936,0.0,0.811,0.189, _Bailey_          Oh and my autobiography manuscript is already done! And book number 3 will be Hella Funny! 😂😂😂I’m doing Adult Nursing Rhymes for these End Times! That will blow your mind! 🤯 😂 I AM ONE OF A KIND! https://t.co/4SeJxY9GqR,Mention,Female,False
+321,Positive,0.371875,False,0.85,1310320371850268672,0.8655,21228708,1518242210134831104,0.0,0.788,0.212," _Bailey_          My 1st book is pretty enlightening and kinda funny because I used the money from my oppressors! I guess that makes them investors? 😂😂😂
+NOW that’s comical Karma! ✊🏽👑❤️‍🔥🎺
+
+https://t.co/wQjVvXCuwc",Mention,Female,False
+322,Positive,0.35,False,0.4,506031611,0.5413,21228708,1518241399161954304,0.0,0.851,0.149," _Bailey_          💯 🌹 we need a lot more laughter in the world, for real.",Mention,Female,False
+323,Neutral,0.0,False,0.0,39286397,0.0,21228708,1518227848254959617,0.0,1.0,0.0, https://t.co/fD9BMXhQ6k,Mention,Female,False
+324,Neutral,0.0,False,0.0,39979971,0.0,21228708,1518200180880912384,0.0,1.0,0.0, ,Mention,Female,False
+325,Positive,0.0170386904761904,False,0.4904761904761905,1331342917625995266,-0.3147,21228708,1518113695112462337,0.049,0.951,0.0,"TamronHall 
+
+Is the only woman, black woman at that on stage, front and center by herself who is making things shake and bake at this large capacity! 
+
+WE ARE TALKING DAYTIME TV YALL! 
+
+Since Oprah with this level of etiquette 💥 
+
+HardWork Journalism Believe 
+cc: ",Mention,Female,False
+326,Positive,0.2083333333333333,False,0.5666666666666668,1331342917625995266,0.7639,21228708,1518112183204278272,0.0,0.81,0.19,"On my free time, I’ll catch  on YouTube 
+
+Her Journalism skills are on point! Every episode  comes with some interesting topics. 
+At least the clips I’ve watched! 
+TamronHallShow",Mention,Female,False
+327,Positive,0.25,False,0.5399999999999999,1300469484335935489,0.0,21228708,1518098815722602498,0.0,1.0,0.0,"      _Hindustan    _tv  
+UPSI_SCAM_INVESTIGATION
+upsiscam2021
+UPSI9534SCAM
+
+UPSI bharti ki janch honi chahiye !!
+Es me pahle hi Ashok Khare sir High court me lad rahe hai !! https://t.co/sJGwM0eUba",Mention,Female,False
+328,Negative,-0.1,False,0.1,1512296601674465280,0.0,21228708,1518090182100140032,0.0,1.0,0.0," 
+ 
+ 
+Cop tackles autistic teen at Target store in Upstate NY; mom claims racial profiling https://t.co/Ch05CVoJXl",Mention,Female,False
+329,Neutral,0.0,False,0.0,446723142,0.0,21228708,1518074448833785856,0.0,1.0,0.0, https://t.co/WeX5494EB3,Mention,Female,False
+330,Positive,0.2857142857142857,False,0.5357142857142857,1446548198676434953,0.0,21228708,1518066172687794176,0.0,1.0,0.0, What do you think of this picture I made? I need it viral right away please... https://t.co/seQinb7x1H,Mention,Female,False
+331,Positive,0.59296875,False,0.825,1270855480588374018,0.8126,21228708,1518053166431932416,0.0,0.802,0.198," Hi  👋🏾  
+My daughter and I have a Children’s book out on Amazon and Barnes and Noble. She is a published Author at the age of five and we are so excited for everyone to read it!! 🌕🩰✨💜
+
+https://t.co/eBnIccV5l8",Mention,Female,False
+332,Neutral,0.0,False,0.0,1241933462438924289,0.296,21228708,1518049966798876673,0.0,0.784,0.216, La’Dreamer &amp; Daisy Helping Hands Foundation Inc https://t.co/9FpfDAdBm0,Mention,Female,False
+333,Negative,-0.2125,False,0.4385416666666667,1513144477724160002,-0.9152,21228708,1518036680749600768,0.315,0.685,0.0, Jill Biden no longer makes public appearances with her husband because she tries to stop him from making mistakes and he gets MEAN with her. Wife abuse is not a good look for President Biden!,Mention,Female,False
+334,Neutral,0.0,False,0.0,517966175,0.0,21228708,1517949029627400197,0.0,1.0,0.0,            _M_Sharp          https://t.co/YkXHCwAGk3 https://t.co/JZkjCqSIky,Mention,Female,False
+335,Negative,-0.0749999999999999,False,0.4535714285714285,971894660502380544,-0.0516,21228708,1517946010173165568,0.098,0.808,0.094,"_Holliday  I will help you out, I’m guessing you fast for as long as possible after binge eating (either due to shame or satiety) that doesn’t make you anorexic because then you repeat the cycle. You would lose at least some weight if yoy truly had anorexia (either). Try several small meals",Mention,Female,False
+336,Neutral,0.0,False,0.0,1415520422293131265,0.0,21228708,1517901863676518402,0.0,1.0,0.0,                                     https://t.co/s1PE8wVRZ6 https://t.co/7emguGTxHb,Mention,Female,False
+337,Neutral,0.0,False,0.0,1481079892888498178,0.0,21228708,1517890972771831809,0.0,1.0,0.0,       WeGoUp,Mention,Female,False
+338,Neutral,0.0,False,0.0,1310320371850268672,0.0,21228708,1517880257767956482,0.0,1.0,0.0,          💯✊🏽👑❤️‍🔥🎺,Mention,Female,False
+339,Neutral,0.0,False,0.0,1466216815865049091,0.0,21228708,1517869969794641920,0.0,1.0,0.0,     ,Mention,Female,False
+340,Neutral,0.0,False,0.0,1466216815865049091,0.0,21228708,1517865695698169856,0.0,1.0,0.0,"  parents
+     ",Mention,Female,False
+341,Positive,0.7,False,0.6000000000000001,1478358063476506627,0.4404,21228708,1517858498612129793,0.0,0.633,0.367,"Good project
+ 
+ 
+ https://t.co/bAySgkwsV7",Mention,Female,False
+342,Positive,0.7,False,0.6000000000000001,1478358063476506627,0.4404,21228708,1517858370006355969,0.0,0.633,0.367," Good project
+ 
+ 
+",Mention,Female,False
+343,Negative,-0.1625,False,0.1875,831512387115241473,-0.7184,21228708,1517848145790742536,0.226,0.667,0.107,Please share this video. Raising Awareness for Deshon and Other Victims Killed By NJTransit and CoachUSA Reckless Bus Driver Campaign. news justicefordeshon blacktwitter        _us tag https://t.co/M7CuJt0CwI,Mention,Female,False
+344,Negative,-0.2083333333333333,False,0.4333333333333333,1504754929587703847,0.0,21228708,1517732031966420994,0.0,1.0,0.0,          Black is soul !,Mention,Female,False
+345,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517719074335248384,0.0,1.0,0.0,  ..                   _ https://t.co/FiZNMDHR2R,Mention,Female,False
+346,Negative,-0.2,False,0.0,138971657,-0.5204,21228708,1517705813716054017,0.173,0.76,0.067," 
+
+
+
+
+
+Lawyer Reacts | Did Milani Cosmetics Destroy Amber Heard's Defense?? on YouTube
+https://t.co/d6l80JOU9V",Mention,Female,False
+347,Neutral,0.0,False,0.0,1423620761542082566,0.2124,21228708,1517694486742282240,0.0,0.94,0.06," 💭 just won't cooperate. smh...ur daddy raised u well, but i guess 'cooperation' wasn't up there on core values..i read the book!          https://t.co/g5pUDFaNGL",Mention,Female,False
+348,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517662962160447489,0.0,1.0,0.0,     _TV              ,Mention,Female,False
+349,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517644570808442881,0.0,1.0,0.0,     _TV             ,Mention,Female,False
+350,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517606533307285505,0.0,1.0,0.0,https://t.co/BHJ6k2i5UM 🎂🎉      _           ,Mention,Female,False
+351,Negative,-0.0583333333333333,False,0.3222222222222222,1088128198829920256,-0.3595,21228708,1517588394662154240,0.091,0.909,0.0, Until everyone wants to stop being seen as a black woman or black anything there will never be equality!  Why not be seen as a woman.  Period.,Mention,Female,False
+352,Positive,0.1363636363636363,False,0.4545454545454545,40779444,0.5023,21228708,1517563992314548224,0.0,0.822,0.178,I don’t watch talk shows often but I like watching  always learn something new watching her show,Mention,Female,False
+353,Negative,-0.4,False,0.8500000000000001,446723142,-0.6996,21228708,1517529541551398912,0.182,0.818,0.0," P.S. Now check this out: Jen Psaki thinks teachers should talk with kindergarteners about whether they’re a girl or a boy. How about no. She's an absolute idiot!
+https://t.co/tMr8GrqZGz",Mention,Female,False
+354,Negative,-0.3928571428571428,False,0.75,1423620761542082566,-0.8405,21228708,1517517419798880256,0.281,0.675,0.044,💭Mental health issues..🎻🎶..smh. plz!! PURE EVIL! Smh       _TV         ,Mention,Female,False
+355,Negative,-0.3,False,0.6333333333333333,474029218,-0.5267,21228708,1517513928359743489,0.139,0.768,0.094," As an only child,My two grandmothers raised me, drugs killed my parents, &amp; all my immediate fam. Now 92 and 85, I’m their FT caregiver and it’s a painful pleasure. Plz read my memoir, as I work to deal with a life I’ve never known . https://t.co/G6d82tLHQT https://t.co/XPy1Xuhrjf",Mention,Female,False
+356,Neutral,0.0,False,0.0,41004978,0.0,21228708,1517477204174770177,0.0,1.0,0.0,"Click the link to watch  from JLYF ""Anxiety+Depression"" appearance on  with  
+
+https://t.co/om7q32dM4G https://t.co/27KInOJZ4Y",Mention,Female,False
+357,Positive,0.5,False,0.8,825173681454403584,0.7845,21228708,1517423547341230080,0.128,0.638,0.235, listening to your story on  and on  of how you risked your job to find your family after the damage of Hurricane Katrina had me in tears. I remember it like it was yesterday. Love from Nola my friend :),Mention,Female,False
+358,Neutral,0.0,False,0.0,1437432767667576836,0.0,21228708,1517408206183493632,0.0,1.0,0.0," _NFT  
+ 
+",Mention,Female,False
+359,Negative,-0.0357142857142857,False,0.4767857142857143,446723142,0.0,21228708,1517394935447646209,0.0,1.0,0.0," Barack Obama is articulate but has never made a memorable speech. The reason is that his views are utterly conventional. He’s unable of saying anything outside of the elite consensus. He’s a walking, talking Atlantic magazine subscription.",Mention,Female,False
+360,Neutral,0.0,False,0.0,1494399570251419654,0.0,21228708,1517364466538721280,0.0,1.0,0.0, _Lunartics   ,Mention,Female,False
+361,Neutral,0.0,False,0.0,1340223120460959744,0.0,21228708,1517336540573319169,0.0,1.0,0.0,                       https://t.co/ySN7vcD5bO,Mention,Female,False
+362,Neutral,0.0,False,0.0,42681521,0.0,21228708,1517303407870201862,0.0,1.0,0.0,ThankYouThursday        _Zee          ,Mention,Female,False
+363,Neutral,0.0,False,0.0,1319047465081868288,0.0,21228708,1517250317427089408,0.0,1.0,0.0,    ,Mention,Female,False
+364,Negative,-0.5,True,1.0,37998796,-0.0258,21228708,1517250104469692418,0.111,0.757,0.133,"Mariupol Ukraine️     Biden  thursdaymorning thursdayvibes TY  4support of Ukrainians WTF 
+ Justice4Vera
+Use Exe Order2 gv me entitled retroactive disability retirement fr 98-2022 based on JudicialEstoppel doctrine https://t.co/pwm0tAfwjW https://t.co/BhMn2gXig1",Mention,Female,False
+365,Positive,0.1953125,True,0.4,1228377511790292993,0.3476,21228708,1517216060285636609,0.135,0.78,0.085," Lmfao. Will  even acknowledge epic embarrassment!! Chris wallace gonna have to return $$, will   ? Say anything?What about that troll  nah. All gonna believe in unicorns!   _USA22  ",Mention,Female,False
+366,Neutral,0.0,False,0.0,1437037218,0.0,21228708,1517194953381883907,0.0,1.0,0.0,  Somebody blowin up..! They on Tamron Hall show..! 👍🏽,Mention,Female,False
+367,Positive,0.375,False,0.7,287314439,0.69,21228708,1517183893757177860,0.0,0.76,0.24,_chadwick  Yes definitely contact the police. I legit just watched an episode of  yesterday about this kind of stuff!,Mention,Female,False
+368,Positive,0.1,False,1.0,3085819114,-0.765,21228708,1517180481829281792,0.167,0.833,0.0,".           Over 24,000 harp seal pups have been shot &amp; bludgeoned so far this year...not counting pups injured &amp; got away to die. endthesealhunt4good🇨🇦🇨🇦🇨🇦 https://t.co/I93OcBSUAN",Mention,Female,False
+369,Neutral,0.0,False,0.0,1471449154283098112,0.0,21228708,1517178655872622592,0.0,1.0,0.0,Why doesn't        ever talk about it? https://t.co/21Zxw7cSiC,Mention,Female,False
+370,Positive,1.0,False,0.9,37757824,0.9059,21228708,1517156599340613632,0.0,0.727,0.273,"Our ExclusiveSpeakers  and  are being honored at The Alliance for Women in Media Foundation's 2022 Gracie Awards for their incredible work in television! Congratulations Tamron and Linsey! 
+
+HWAExlusive GracieAwards WomeninMedia https://t.co/q9axeofeXd",Mention,Female,False
+371,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517141454879027200,0.0,1.0,0.0,       _TV           ,Mention,Female,False
+372,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517138980529008641,0.0,1.0,0.0,       _TV            ,Mention,Female,False
+373,Neutral,0.0,False,0.0,1471934767629320193,0.0,21228708,1517135908163756032,0.0,1.0,0.0,     🖤🖤🖤 https://t.co/fvUy8oMSYO,Mention,Female,False
+374,Neutral,0.0,False,0.0,1466216815865049091,0.0,21228708,1517132987011321858,0.0,1.0,0.0,"      
+   
+ 
+ 
+ 
+ 
+ _Quijano  
+ ",Mention,Female,False
+375,Neutral,0.0,False,0.0,1110336601735888897,0.0,21228708,1517123614234927104,0.0,1.0,0.0,        now https://t.co/KGHkvZABFx,Mention,Female,False
+376,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517020950151241728,0.0,1.0,0.0,"      _                _TV      💭""I know what the f I just came up and ""SEE""???!...I feel faint..smh! https://t.co/QFMVt1exLh",Mention,Female,False
+377,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517018990786359297,0.0,1.0,0.0,      _                _TV      💭Meanwhile..  https://t.co/8VeeTw0yD5,Mention,Female,False
+378,Negative,-0.25,False,0.55,1423620761542082566,-0.2313,21228708,1517018131755114501,0.136,0.786,0.079,"      _        ..I know alot of us can't help talking such poor grammar, but my goodness. Smh!         _TV      https://t.co/3mkP7pywyV",Mention,Female,False
+379,Neutral,0.0,False,0.0,1151342044666875905,0.0,21228708,1517017657266122753,0.0,1.0,0.0,                    https://t.co/F54GslpyOq,Mention,Female,False
+380,Negative,-0.2833333333333333,False,0.3916666666666666,1516646549685743616,-0.8481,21228708,1517014197267320832,0.248,0.699,0.053,"          Hormones don't make you a woman bruh...
+Didn't you post a gif of a dude working out claiming dat waz like u?🤣🤣
+
+Seriously though... Stop your asian racism and asian hate.",Mention,Female,False
+381,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1517013117540225026,0.0,1.0,0.0,       _TV           ,Mention,Female,False
+382,Neutral,0.0,False,0.0,526759422,0.0,21228708,1517007708867764224,0.0,1.0,0.0,          😂😂😂😂😂😂 I AM.. https://t.co/E4ZS5coF7T,Mention,Female,False
+383,Positive,0.75,True,1.0,1516646549685743616,0.7118,21228708,1516996300088266755,0.0,0.835,0.165,"          And you listen to NPR. LMAO!
+Is it that time of the month again lil lady?",Mention,Female,False
+384,Positive,0.4,False,0.4,1516646549685743616,0.3612,21228708,1516996060463390722,0.0,0.839,0.161,          You sound like a woman. 🤣,Mention,Female,False
+385,Neutral,0.0,False,0.0,1423620761542082566,0.0,21228708,1516985823190831105,0.0,1.0,0.0,                  ,Mention,Female,False
+386,Positive,0.425,False,0.65,144560151,0.902,21228708,1516978717138075650,0.108,0.629,0.263, I know it's late but I feel it's timely. I just left a fundraiser for a wonderful boy who died from an accidental fentanyl OD. His birthday is today. We celebrate Prince tomorrow. His Sister has written a wonderful book. Get her on your show! TamronHallShow https://t.co/HLFOsqfXVL,Mention,Female,False
+387,Positive,0.59296875,False,0.825,1270855480588374018,0.8126,21228708,1516968944229240832,0.0,0.802,0.198," Hi  👋🏾  
+My daughter and I have a Children’s book out on Amazon and Barnes and Noble. She is a published Author at the age of five and we are so excited for everyone to read it!! 🌕🩰✨💜
+
+https://t.co/eBnIccV5l8",Mention,Female,False
+388,Neutral,0.0,False,0.0,1390467518,0.0,21228708,1516967631743602688,0.0,1.0,0.0,            Norelle  https://t.co/19LfsAMnno,Mention,Female,False
+389,Neutral,0.0,False,1.0,581989226,0.0,21228708,1516958937412784128,0.0,1.0,0.0, It’s Possible https://t.co/LmxqpnNA52,Mention,Female,False
+390,Neutral,0.0,False,0.0,1322730657630572544,0.0,21228708,1516958493282119680,0.0,1.0,0.0, https://t.co/Ypr3ecCuUW,Mention,Female,False
+391,Positive,0.3,False,0.1,374226166,0.2263,21228708,1516953605391200256,0.0,0.84,0.16,ooh . . . this is worth looking into      https://t.co/xZOAtXEUyg,Mention,Female,False
+392,Positive,0.5984848484848485,False,0.7696969696969697,975049783298723846,0.9359,21228708,1516934887353245696,0.0,0.478,0.522,"   Very positive and composed interview. Yes, I am proud to support you. Keep up the good work.",Mention,Female,False
+393,Neutral,0.0,True,0.0,51110898,0.3382,21228708,1516930114692558851,0.0,0.854,0.146,My God this woman cannot remain in power!       https://t.co/d8uAYIp8BT,Mention,Female,False
+394,Neutral,0.0,False,0.0,101614578,0.0,21228708,1516926950987780096,0.0,1.0,0.0,                 Done,Mention,Female,False
+395,Neutral,0.0,False,0.0,1147297563004899328,0.0,21228708,1516915484884561920,0.0,1.0,0.0,    😤🙌🏾💯 ,Mention,Female,False
+396,Positive,0.5,False,0.7,17497090,0.0,21228708,1516902469271363584,0.0,1.0,0.0,"Thursday on the : shining a light on the books that everyone should read. Meet , , , and ! 
+
+ 
+TamronHallShow
+LetsTalkAboutIt https://t.co/sbiNGCLPXm",Mention,Female,False
+397,Positive,0.5,False,0.5,3230797197,0.296,21228708,1516898308324663296,0.0,0.845,0.155,Ok why does  have  and  in her mouth today? https://t.co/t6EdBENcZx,Mention,Female,False
+398,Neutral,0.0,False,0.0,785125219543515137,0.0,21228708,1516879874555740160,0.0,1.0,0.0,c  https://t.co/92OrKPo6Pf,Mention,Female,False
+399,Neutral,0.0,False,0.0,785125219543515137,0.0,21228708,1516879772579598336,0.0,1.0,0.0, https://t.co/6TlpuS2u8D,Mention,Female,False
+400,Neutral,0.0,False,0.0,874869986,0.3802,243690703,1518379180190224386,0.0,0.776,0.224,🤯 Tell the truth! 🤯        https://t.co/qnaPlnVXCY,Mention,Female,False
+401,Neutral,0.0,False,0.0,814332285805740032,0.4199,243690703,1518225345190645760,0.0,0.741,0.259,      Awesomeness 😎 Thank you!,Mention,Female,False
+402,Neutral,0.0,False,0.0,22639515,0.5023,243690703,1518214381577900032,0.0,0.889,0.111, Whit tell  to stick with politics and let  handel Pop News but I did like his story about  writing a song for ’s daughter ,Mention,Female,False
+403,Positive,0.7833333333333333,False,0.9333333333333332,14475893,0.8564,243690703,1518069114681581572,0.0,0.806,0.194,"Put Your Arms Around the World https://t.co/wmCLhzzJxs  Incredible song by     Santita Jackson sang this beautiful song with Senator Hatch. He passed away today.  Santita is just amazing as she sings ""put your arms around the World""",Mention,Female,False
+404,Positive,0.35,False,0.65,717337177,0.4588,243690703,1517628234438959106,0.0,0.786,0.214, Sweet News        BlackTwitter https://t.co/BvXjmWE9Pu,Mention,Female,False
+405,Positive,1.0,False,0.5,874869986,-0.471,243690703,1517384024674779137,0.081,0.919,0.0,Keep in mind there IS an election in Florida in November! HE is on the ballot and so are many of his lackeys!!! 🤬 HE can be stopped!         https://t.co/1JLvktbhhj,Mention,Female,False
+406,Neutral,0.0,False,0.0,874869986,0.0,243690703,1517382287402352640,0.0,1.0,0.0,The plot thickens…🤯       https://t.co/rC3N4HADnY,Mention,Female,False
+407,Negative,-0.0874999999999999,False,0.75,1219075146847264768,-0.184,243690703,1516981160123027456,0.266,0.502,0.232,"  Poor naive idealistic Robert has NO CLUE of the pressure from Wall Street Analysts some with the power to FIRE any CEO daring to hand out raises instead of dividends.
+It is TRUE!",Mention,Female,False
+408,Positive,0.65625,False,0.525,874869986,0.6333,243690703,1516954928824172544,0.0,0.857,0.143, IS THE REAL DEAL! He has my vote! Broward County would greatly benefit with him on the Commission! 👏🏾      https://t.co/BGaseLUbXs,Mention,Female,False
+409,Positive,0.2443181818181818,False,0.5515151515151516,874869986,0.0,243690703,1516948448305565696,0.0,1.0,0.0,Absolutely! THIS is the REAL STORY!! The so-called new map! 🤬🤬        https://t.co/SM7L5gst5w,Mention,Female,False
+410,Neutral,0.0,True,0.625,874869986,0.0,243690703,1516942866270011392,0.0,1.0,0.0,OMG! 🤯 SHUT. THE. FRONT. DOOR 🤬!!! OMG! Read the ENTIRE thread!      _LDF     https://t.co/xlStsLwF3o,Mention,Female,False
+411,Neutral,0.0,False,0.5,874869986,0.0,243690703,1516941127328354305,0.0,1.0,0.0,November cannot come soon enough!      https://t.co/Y29ddVHfkC,Mention,Female,False
+412,Neutral,0.0,False,0.0,580041916,0.296,243690703,1516732531823071241,0.0,0.919,0.081,Join the National African American Reparations Commission (NAARC) and CARICOM Reparations Commission             @ https://t.co/mQineypO6e,Mention,Female,False
+413,Positive,0.25,False,0.25,73407166,-0.296,243690703,1516268784595656704,0.062,0.937,0.0,"       _RAGE _South  _LDF     This makes no sense- which leads to the logical question: Who’s getting paid off here? NoJusticeNoPeace NoAccountability DefundThePolice 
+
+JusticeForLequanMcDonald",Mention,Female,False
+414,Negative,-0.3125,True,0.5,17410792,0.0,243690703,1516266358593527810,0.0,1.0,0.0,WTF?! Federal prosecutors will not charge former Chicago police officer Jason Van Dyke. https://t.co/9WjbRT3FNv       _RAGE _South  _LDF    ,Mention,Female,False
+415,Positive,0.2,False,0.2,136701943,0.4753,243690703,1516061934650490883,0.0,0.55,0.45, I pray you are feeling much better!?💕🙏🏿🙏💐,Mention,Female,False
+416,Positive,0.625,False,1.0,874869986,0.7371,243690703,1515929580061794308,0.0,0.692,0.308,😎 HILARIOUS 😂 Just like the phony “Four Seasons” SMDH…again!       _Sellers https://t.co/xEEUf5nzEC,Mention,Female,False
+417,Neutral,0.0,False,0.0,874869986,0.0,243690703,1515928811141050370,0.0,1.0,0.0,These people…🤯       https://t.co/lf04Ewq8iv,Mention,Female,False
+418,Positive,1.0,False,1.0,874869986,0.6114,243690703,1515866551806828550,0.0,0.667,0.333,"Happy Easter, indeed!      https://t.co/fCzzBeUMpW",Mention,Female,False
+419,Neutral,0.0,False,0.0,874869986,0.0,243690703,1515864516826914826,0.0,1.0,0.0,History we all should know!     https://t.co/Mwr5slTWyx,Mention,Female,False
+420,Positive,0.4464285714285714,False,0.5357142857142857,874869986,-0.5968,243690703,1515862429531619331,0.327,0.673,0.0,Absolutely right ! SMH! 🤬     https://t.co/VuPx4wJH1P,Mention,Female,False
+421,Positive,0.5,True,0.5,874869986,-0.807,243690703,1515856233403719681,0.364,0.636,0.0,WHAT THE HELL? Again…??? How many more?     https://t.co/nZfcVjx2gt,Mention,Female,False
+422,Positive,0.3125,False,0.3,874869986,0.4451,243690703,1515802675534827524,0.096,0.753,0.151,❤️ LOVE THIS! ❤️ Boy on tarmac at Piedmont Triad International Airport steals the show during President Joe Biden's arrival in Greensboro ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦ https://t.co/G2RIbvCnA3,Mention,Female,False
+423,Positive,1.0,False,1.0,874869986,0.6114,243690703,1515798798118830089,0.0,0.556,0.444,Happy Easter!    https://t.co/YD8jRZmNeU,Mention,Female,False
+424,Positive,0.5666666666666668,False,0.8333333333333334,580041916,0.8588,243690703,1515682951530491911,0.0,0.754,0.246," HAPPY RESURRECTION SUNDAY
+MOST IMPORTANTLY WHAT ARE YOU GONNA DO ABOUT IT?             _LDF  ",Mention,Female,False
+425,Positive,0.2777777777777778,True,0.3777777777777777,1214530350782828544,0.8597,243690703,1515639965178281985,0.0,0.793,0.207,"        LOL!
+another *~^! Obama / Clyburn /    neoliberal $💘 type to legislate corporate interests from the gd bench &amp; Congress ? Like gangsta rappers playing cop on TV / movies &amp; f*k Will Smith too...
+
+"" Black Lives Matter: Time To Face The Music https://t.co/YjgKMrdtxp",Mention,Female,False
+426,Neutral,0.0,False,0.0,580041916,0.7003,243690703,1515211929106669569,0.0,0.791,0.209,"Salute 2 A Freedom Fighter, Still          _Taifa     _Themba     https://t.co/VC5nIi9PfZ",Mention,Female,False
+427,Negative,-0.0041666666666666,False,0.5458333333333334,874869986,0.3664,243690703,1515065203217645572,0.174,0.609,0.217,👏🏾 GREAT NEWS! 👏🏾👏🏾 Miami officer convicted in violent arrest of Black woman who called police for help ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦_LDF⁩  https://t.co/Rw4EOt2RAc,Mention,Female,False
+428,Positive,0.3,False,0.3,1011170324,0.8428,243690703,1514962702858440704,0.0,0.811,0.189,"Thanks so much to  and  for an interesting discussion on . I'm often listening to  in the morning, so it's an honor to be asked to come on and talk about voting rights, money in politics, and voter suppression.",Mention,Female,False
+429,Negative,-0.1,False,0.1,874869986,-0.765,243690703,1514864397432328193,0.28,0.72,0.0,"🤯SAY WHAT? 🤯 Brett Favre Scandal: Alleged $8 Million Welfare Scam, Explained ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦_LDF⁩ ⁦⁩ ⁦⁩  https://t.co/iOR4O3lKjX",Mention,Female,False
+430,Positive,0.140625,False,1.0,874869986,0.8988,243690703,1514777968882565121,0.0,0.501,0.499,WOW 😮! Not for me! WOW!      https://t.co/BDNooMAzxs,Mention,Female,False
+431,Neutral,0.0,False,1.0,93786853,0.0258,243690703,1514612606660608009,0.161,0.671,0.168,   Unfortunately the Bulldog nation includes lots of wealthy donors.,Mention,Female,False
+432,Positive,0.525,False,0.4333333333333333,1949560350,0.8655,243690703,1514347778935246857,0.0,0.532,0.468,"The latest Women's Health, Wellness &amp; Happiness! https://t.co/eCcW2aQ82z Thanks to   jobs nycjobs",Mention,Female,False
+433,Neutral,0.0,False,0.0,17410792,0.0,243690703,1513922824129466368,0.0,1.0,0.0,"🗣T'w Wed Apr 13 at 6pm - PRN's Wkly 6pm CT COVID-19 Mtg! Cases are going up, let's discuss!👇🏾   _South             https://t.co/VFsEesexLw",Mention,Female,False
+434,Positive,0.525,False,0.4333333333333333,1949560350,0.8655,243690703,1513623008098897932,0.0,0.532,0.468,"The latest Women's Health, Wellness &amp; Happiness! https://t.co/ud69lcx6Dp Thanks to  _com jobs nycjobs",Mention,Female,False
+435,Positive,0.7,False,0.6000000000000001,937277849341513728,0.5927,243690703,1513508004469092358,0.0,0.772,0.228,        Unrelated but a feel good post. https://t.co/Nk9p6iv5P4,Mention,Female,False
+436,Positive,0.25,False,0.2,2326307878,0.7177,243690703,1513496406996230158,0.0,0.625,0.375,     _Sellers    Thanks for sharing!,Mention,Female,False
+437,Positive,0.5722222222222222,False,0.5055555555555555,874869986,0.9214,243690703,1513345462740340748,0.0,0.644,0.356,"When I need a laugh , I look at this… The pics in the comments section are super! Great idea!       https://t.co/RHsp0E5geM https://t.co/MlOHNS98Il",Mention,Female,False
+438,Neutral,0.0,False,0.0,1368035236844625921,0.0,243690703,1513327670054031364,0.0,1.0,0.0,    _Sellers    ,Mention,Female,False
+439,Positive,0.1111111111111111,False,0.4444444444444445,874869986,0.6833,243690703,1513324656073318409,0.0,0.82,0.18,👏🏾👏🏾 FANTASTIC! 👏🏾👏🏾 Quilt tells the story of Black pioneers in western North Carolina https://t.co/Y2myW6TWcL    _Sellers   ,Mention,Female,False
+440,Neutral,0.0,False,0.0,17410792,0.0258,243690703,1513210985850576902,0.09,0.817,0.093,Fax your Congress rep and tell them to co-sponsor the Martha Wright Prison Phone Justice Act &amp; keep families connected. https://t.co/PiU9KoAEnX     _South      ,Mention,Female,False
+441,Positive,1.0,False,0.75,874869986,0.6588,243690703,1513177928296771591,0.0,0.614,0.386,A great video recap! ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ https://t.co/eYrltonZM0,Mention,Female,False
+442,Positive,0.5,False,0.5,153544744,0.0,243690703,1513136612216999936,0.0,1.0,0.0,        Qualifications over Race. KBJ the most qualified.,Mention,Female,False
+443,Negative,-0.5,False,1.0,1270044575256764416,0.0,243690703,1513134195677274112,0.0,1.0,0.0,      Irrelevant,Mention,Female,False
+444,Negative,-0.5,False,1.0,1270044575256764416,0.0,243690703,1513134082254848001,0.0,1.0,0.0,    _DC    Irrelevant.,Mention,Female,False
+445,Neutral,0.0,False,0.0,80366372,0.5574,243690703,1513132193626873856,0.0,0.859,0.141,"How Ketanji Brown Jackson will change the Supreme Court - Washington Post
+
+KeepHopeAliveWithRevJesseJackson| KetanjiBrownJackson| SUN:  8-10aE/866.594.HOPE/FacebookLive  | . _DC   
+ https://t.co/qjKs3NpHum",Mention,Female,False
+446,Positive,0.1363636363636363,False,0.4545454545454545,80366372,0.5574,243690703,1513124654407462913,0.0,0.854,0.146,"Opinion | When Whiteness Was a Prerequisite for Supreme Court Justices - New York Times
+
+KeepHopeAliveWithRevJesseJackson| KetanjiBrownJackson| SUN: 7-9aC/8-10aE/866.594.HOPE/FacebookLive  | .  
+ https://t.co/MR382YSe92",Mention,Female,False
+447,Neutral,0.0,False,0.0,172406912,0.0,243690703,1513123957939056642,0.0,1.0,0.0,        Another option: WHO CARES!!!!,Mention,Female,False
+448,Negative,-0.0555555555555555,True,0.1444444444444444,1460587731743088642,-0.7964,243690703,1513122182964170756,0.245,0.755,0.0,"        22% of the SCOTUS are African American. 13% of US population is Black.
+
+Stop blaming whitey for all yo problems.",Mention,Female,False
+449,Neutral,0.0,False,0.05,80366372,0.0,243690703,1513119208485404676,0.0,1.0,0.0,"KeepHopeAliveWithRevJesseJackson Radio Show| DYK that when KetanjiBrownJackson goes to SCOTUS, for the 1st time in history the Court won't be majority White Male?| .        KetanjiBrownJackson SCOTUS",Mention,Female,False
+450,Positive,0.1,False,0.1,17410792,0.5093,243690703,1512934525839495172,0.0,0.891,0.109,"Pls take action below to help move the ""Take the Vaccine to the People"" Ordinance (O2021-1214) out of Rules to the Health Committee &amp; pass, thx!👇🏾 _South          https://t.co/IzQgX5vVZT",Mention,Female,False
+451,Neutral,0.0,False,0.75,874869986,0.5231,243690703,1512882625517604865,0.0,0.861,0.139,Totally agree ! We need a targeted campaign to the 18-34 cohort…A MUST!          https://t.co/8SnFgUpAAD,Mention,Female,False
+452,Neutral,0.0,False,0.65,17410792,-0.6633,243690703,1512764015184912389,0.153,0.847,0.0,"Under BA.2, lifting indoor mandates-esp where vaccine rates are LOW (like CPS)-will likely cause severe cases to go up. 👀        _fps     https://t.co/lbSbfy1Jeb",Mention,Female,False
+453,Neutral,0.0,False,0.0,17410792,0.4389,243690703,1512674197423763457,0.0,0.888,0.112,Protect  students w chronic conditions from COVID-19!👇🏾         _fps        https://t.co/qPPkNWxdqD,Mention,Female,False
+454,Neutral,0.0,False,0.0,874869986,0.0,243690703,1512633752748503040,0.0,1.0,0.0,The morning paper and me!!! This is why I subscribe! ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ ⁦⁩ https://t.co/vbZ4OvyRFX,Mention,Female,False
+455,Neutral,0.0,False,0.0,17410792,-0.5707,243690703,1512622020877598722,0.153,0.847,0.0,🗣Tell  &amp;  Bd of Ed to stop CPS budget cuts! https://t.co/odg5WQfoqt         _fps    _South  https://t.co/0r8wKJpN1T,Mention,Female,False
+456,Positive,0.375,False,0.1,874869986,0.6833,243690703,1512248298106671142,0.0,0.704,0.296,LAUGH OF THE DAY! 🤣😂       https://t.co/hY4pHRiz3U,Mention,Female,False
+457,Neutral,0.0,False,0.0,874869986,-0.5212,243690703,1512247523515187202,0.151,0.792,0.057,🤬🤬 NO WORDS…NO WORDS! 🤯 This is the reason I NEVER miss an election! VOTE THEM OUT!       https://t.co/3jELymQiEW,Mention,Female,False
+458,Positive,0.6000000000000001,False,0.9,93786853,0.5859,243690703,1512110539631206409,0.0,0.774,0.226,      Amazing and about time.  ConfirmJudgeJackson _bwr  ,Mention,Female,False
+459,Neutral,0.0,True,0.0,580041916,0.5574,243690703,1512089616874098690,0.0,0.827,0.173," 
+Thank God 4 Fannie Lou Hamer
+https://t.co/lrvj9frWMe 
+
+           @_DCMike _notes  _x  ",Mention,Female,False
+460,Positive,0.2102380952380952,False,0.6178571428571429,58994794,0.8779,243690703,1512046381162188802,0.0,0.812,0.188,   _Flack   This pic is Pure Gold.H Belated BD to beloved living legend &amp; National Treasure  in a photo w/ other living legends &amp; National Treasures. Mr CD's extraordinary pop culture impact is too far-reaching to describe in a single post. Thnx for sharing this photo for the ages,Mention,Female,False
+461,Neutral,0.0,False,0.0,874869986,0.0,243690703,1511926048375689218,0.0,1.0,0.0,👏🏾👏🏾👏🏾🍾 Front to history! Looking forward to it!       https://t.co/eHpG6HHPCb,Mention,Female,False
+462,Neutral,0.0,False,0.0,874869986,0.0,243690703,1511924907248074752,0.0,1.0,0.0,"Hear, hear!     https://t.co/DY3zvnve18",Mention,Female,False
+463,Positive,0.1,False,0.35,231517418,-0.6597,243690703,1511902039474802694,0.355,0.645,0.0,   _Flack   Killing me softly,Mention,Female,False
+464,Positive,0.6,False,0.65,80366372,0.924,243690703,1511889011765350404,0.0,0.75,0.25,"Oh what a night!I am so very honored to be invited to celebrate a music industry icon during his milestone of birthdays tonight in NY with my daughter,   , AdamSilver _Flack  &amp; . Happy 90th birthday, Clive! CliveDavis HBD https://t.co/OGYk46Gr1T",Mention,Female,False
+465,Positive,0.1,False,1.0,1207505944462200832,0.128,243690703,1511532675219312641,0.0,0.93,0.07,       Gaetz doesn't begin to understand how far below the Secretary of Defense he is.,Mention,Female,False
+466,Positive,0.0125,False,0.7,874869986,0.1511,243690703,1511516457640804353,0.0,0.923,0.077,The fact that he dared to challenge  is more than disgraceful! DEPLORABLE 🤬🤬      https://t.co/8Huzlmcknn,Mention,Female,False
+467,Neutral,0.0,False,0.0,820405735829835776,0.0,243690703,1511403757619228676,0.0,1.0,0.0,       Who were the pro-Putin guests you had on at the end of your show this morning?,Mention,Female,False
+468,Negative,-0.7999999999999999,False,0.9666666666666668,937277849341513728,-0.34,243690703,1511314039321862154,0.193,0.655,0.152,"        _DC The disgusting display of what Republicans have intentionally created to excite their Base, is repulsive, and dangerous.",Mention,Female,False
+469,Negative,-0.8,False,0.95,874869986,-0.6924,243690703,1511157649752174599,0.191,0.809,0.0,We should be flooding his office with letters and calls! DISGRACEFUL &amp; DISGUSTING! DEPLORABLE 🤬 🤯      _Sellers https://t.co/SVeRuuckcO,Mention,Female,False
+470,Neutral,0.0,False,0.0,17410792,0.0,243690703,1511137521182334982,0.0,1.0,0.0,IL: Tell your legislator to defend The Pretrial Fairness Act Today https://t.co/auwIOOHB6Y      _RAGE _South        ,Mention,Female,False
+471,Neutral,0.0,False,0.0,1097327236288532480,-0.5809,243690703,1511130769103728640,0.152,0.848,0.0,           So there's 11 racists on the judicial panel. That's what I thought.,Mention,Female,False
+472,Neutral,0.0,False,0.0,100440722,0.0,243690703,1511119846854983681,0.0,1.0,0.0,           Why  ? https://t.co/qtUUMOedqD,Mention,Female,False
+473,Positive,0.6549479166666666,False,0.7833333333333333,874869986,0.8647,243690703,1511103992964788231,0.0,0.649,0.351,Super fantastic 👏🏾👏🏾! Atty Arnwine  is NOW on  bringing it!!!      https://t.co/xP6CQBl9mL,Mention,Female,False
+474,Neutral,0.0,False,0.0,1010698454799192074,0.0,243690703,1510927829894115330,0.0,1.0,0.0,                 🙏🏿🙏🏿,Mention,Female,False
+475,Neutral,0.0,False,0.0,580041916,0.0,243690703,1510927513853308930,0.0,1.0,0.0,   _x             https://t.co/h4SqnJSeLz,Mention,Female,False
+476,Neutral,0.0,False,0.0,580041916,-0.3034,243690703,1510916474944241665,0.082,0.918,0.0,"TODAY STRIKE A BLOW 4 VOTING RIGHTS IN NEWARK NJ
+                 https://t.co/tAuowiNTkV",Mention,Female,False
+477,Neutral,0.0,False,0.0,874869986,0.0,243690703,1510844539740774405,0.0,1.0,0.0,We remember…      https://t.co/8MAOBDRI5L,Mention,Female,False
+478,Neutral,0.0,False,0.0,874869986,0.0,243690703,1510838888960602121,0.0,1.0,0.0,SMH…Just think 🤔…he wanted in national tv to say that 🤯!      https://t.co/UvojzrIIpG,Mention,Female,False
+479,Positive,0.0111111111111111,False,0.2833333333333333,913113385,-0.9032,243690703,1510804268323909635,0.24,0.695,0.064,         he didn't tolerate disrespect + clear jealous targeting. CR is going to regret ever attacking the Smith family as it will eventually cost him as well and he can afford it less. You are extraordinarily young if you think this will age into regret. People regret not responding.,Mention,Female,False
+480,Positive,0.275,False,0.475,913113385,-0.872,243690703,1510803307723427844,0.219,0.66,0.121,"         His slap is controversial for the occasion but by NO means rises to the level of him making a ""fool"" of himself. To the contrary, the shock of the slap will die with time and although Will will lose some material benefits, he can afford it and he will look back with pride that",Mention,Female,False
+481,Positive,0.2,False,0.1,913113385,-0.875,243690703,1510802461216362506,0.185,0.751,0.065,"         To leap from a slap, something parents do to their children, to death is irresponsible and outrage. A slap cannot be equated with ""violence."" And Will did what he did BECAUSE of his children. He wants his children to know that he will stand up for them no matter what.",Mention,Female,False
+482,Positive,0.25,False,0.3833333333333333,874869986,0.7678,243690703,1510794233002745857,0.0,0.814,0.186,"Got mine yesterday..feel great! It must me a South Florida thing ! Also, do not forget your 2nd round of GREE COVID test kits at https://t.co/En3tOqPVuF!      https://t.co/nTC4AaJSJc",Mention,Female,False
+483,Positive,1.0,True,1.0,874869986,0.8475,243690703,1510790865991700483,0.0,0.566,0.434,Happy Birthday ! God bless you! 🎂🎁🎶       _Sellers https://t.co/S5Unzn84qf,Mention,Female,False
+484,Positive,0.25,False,0.4499999999999999,2536056367,-0.9217,243690703,1510779508898607115,0.233,0.702,0.065,         It is ok to disagree. Their are way to many dead people because of people thinking they were disrespected. I draw the line at violence. Will can't tell his children nothing now. Oh dad you acted like a fool in front of the whole world when he tells them something now.,Mention,Female,False
+485,Positive,0.5,False,0.5,913113385,0.5927,243690703,1510761799049793540,0.025,0.861,0.115,"         No. He's evolving. He told Venus and Serena that he wished he stood up more for his family like Richard did and that he didn't have that example. He said his life is now dedicated to doing meaningful projects, not those based on popularity.
+I would NEVER hit CR but he deserved it",Mention,Female,False
+486,Positive,0.0208333333333333,False,0.6041666666666666,2536056367,0.2023,243690703,1510755906811740163,0.1,0.805,0.095,"         Its hard to believe you pick to start slapping at the oscars, super bowl halftime show or world cup. Will has probably been fooling us all along",Mention,Female,False
+487,Positive,0.525,False,0.4333333333333333,1949560350,0.8655,243690703,1510723985872461826,0.0,0.532,0.468,"The latest Women's Health, Wellness &amp; Happiness! https://t.co/TqBEg2GSmz Thanks to   jobs nycjobs",Mention,Female,False
+488,Negative,-0.0518518518518518,False,0.1407407407407407,42584603,0.6757,243690703,1510723670766985224,0.0,0.902,0.098,"         I will not tear down my brother or sister today. It could be me on trial by the public tomorrow. Everyone has an opinion yes, but it does not need to be spoken in public. It is easier to cast aspersions than to receive them. 😢",Mention,Female,False
+489,Positive,0.4583333333333333,False,0.6833333333333333,913113385,0.8519,243690703,1510715227255586818,0.0,0.763,0.237,"         Will has been acting and popular for 32 years. He is known as affable, gracious, easy going and a gentleman. ONE incident warrants your description?",Mention,Female,False
+490,Positive,0.05,False,0.2625,392267069,-0.1531,243690703,1510654002375139335,0.032,0.968,0.0,        He no longer sits on the board that can vote for which movies can be Oscar nominated. He can still be nominated for Oscars and attend future ceremonies. But his Agent and Lawyers are probably telling him to exit the spotlight completely.,Mention,Female,False
+491,Neutral,0.0,False,0.0,2536056367,0.6705,243690703,1510648509057449984,0.0,0.825,0.175,        Since Will Smith doesn't know how to act and acts like a child. Just keep him away from the awards show.,Mention,Female,False
+492,Neutral,0.0,False,0.0,1409226573903970306,0.4588,243690703,1510607336297148416,0.0,0.8,0.2,"        Where's the ""Who Cares"" option?",Mention,Female,False
+493,Neutral,0.0,False,0.5,1010458448230838278,-0.8192,243690703,1510605869670617093,0.263,0.691,0.046,"        FFS, just don’t invite Will to present in 2023. That’s the only response needed. No need for him to resign.",Mention,Female,False
+494,Positive,0.2,False,0.4,453403785,0.5574,243690703,1510605368761589763,0.0,0.735,0.265,          Hahaha.,Mention,Female,False
+495,Neutral,0.0,False,0.0,19084659,-0.6249,243690703,1510605301271068672,0.215,0.785,0.0,"        He should be, violence is never the answer.",Mention,Female,False
+496,Negative,-0.5,False,1.0,80366372,-0.1306,243690703,1510603043737411591,0.095,0.794,0.111,"Will Smith's slap shows he's not perfect. No one is - The Washington Post .
+
+  on KeepHopeAliveWithRevJesseJackson Radio Show| SUN: 8-10aE/866.594.HOPE/FacebookLive  | .   
+ https://t.co/1xN61eYh2w",Mention,Female,False
+497,Negative,-0.1666666666666666,False,0.4333333333333333,1336988466173906944,0.1027,243690703,1510599951323119625,0.082,0.821,0.096,"        Since May 16, 1929, 20 Oscars have been awarded to a Black man/woman
+WSmith resigns
+Moving on ..",Mention,Female,False
+498,Neutral,0.0,False,0.0,21063394,0.0,243690703,1510597393196060676,0.0,1.0,0.0,          [dislike],Mention,Female,False
+499,Positive,0.0615384615384615,False,0.4346153846153846,80366372,-0.3182,243690703,1510596922268176392,0.087,0.913,0.0,"Will Smith's Upcoming Film 'Fast and Loose' Stalls at Netflix - Variety 
+
+  on KeepHopeAliveWithRevJesseJackson| SUN: 8-10aE/866.594.HOPE/FacebookLive  | .    
+ https://t.co/b81e4P9syI",Mention,Female,False
